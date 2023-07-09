@@ -18,7 +18,10 @@
       <pubDate>Wed, 05 Jul 2023 09:46:48 +0200</pubDate>
       
       <guid>https://82mhz.github.io/posts/oldcomputerchallenge/</guid>
-      <description>This year I learned about Solene&amp;rsquo;s Old Computer Challenge, and I thought that sounds like fun, I&amp;rsquo;m going to try it!</description>
+      <description>This year I learned about Solene&amp;rsquo;s Old Computer Challenge, and I thought hey, I might give it a go!
+So this year the rules for the challenge are as follows:
+Let&amp;rsquo;s use a SLOW computer for 7 days. This will be achieved by various means with any hardware:
+Limit your computer&amp;rsquo;s CPU to use only 1 core. This can be set in the BIOS most of the time, and on Linux you can use maxcores=1 in the boot command line, on OpenBSD you can use bsd.</description>
     </item>
     
   </channel>
