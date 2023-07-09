@@ -10,6 +10,25 @@
       <link>https://82mhz.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://82mhz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Wed, 05 Jul 2023 09:46:48 +0200</lastBuildDate><atom:link href="https://82mhz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OldComputerChallenge</title>
+      <link>https://82mhz.github.io/categories/oldcomputerchallenge/</link>
+      <pubDate>Wed, 05 Jul 2023 09:46:48 +0200</pubDate>
+      
+      <guid>https://82mhz.github.io/categories/oldcomputerchallenge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://82mhz.github.io/categories/projects/</link>
+      <pubDate>Sun, 02 Jul 2023 13:48:46 +0200</pubDate>
+      
+      <guid>https://82mhz.github.io/categories/projects/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

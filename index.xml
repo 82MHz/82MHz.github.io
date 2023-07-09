@@ -11,14 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 16 Jun 2023 09:39:57 +0200</lastBuildDate><atom:link href="https://82mhz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 05 Jul 2023 09:46:48 +0200</lastBuildDate><atom:link href="https://82mhz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>FirstPost</title>
-      <link>https://82mhz.github.io/posts/firstpost/</link>
-      <pubDate>Fri, 16 Jun 2023 09:39:57 +0200</pubDate>
+      <title>OldComputerChallenge - Preparation</title>
+      <link>https://82mhz.github.io/posts/oldcomputerchallenge/</link>
+      <pubDate>Wed, 05 Jul 2023 09:46:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/posts/firstpost/</guid>
-      <description></description>
+      <guid>https://82mhz.github.io/posts/oldcomputerchallenge/</guid>
+      <description>This year I learned about Solene&amp;rsquo;s Old Computer Challenge, and I thought that sounds like fun, I&amp;rsquo;m going to try it!</description>
+    </item>
+    
+    <item>
+      <title>Typewriter</title>
+      <link>https://82mhz.github.io/posts/typewriter/</link>
+      <pubDate>Sun, 02 Jul 2023 13:48:46 +0200</pubDate>
+      
+      <guid>https://82mhz.github.io/posts/typewriter/</guid>
+      <description>Electronic Typewriter Privileg 5000 </description>
     </item>
     
   </channel>
