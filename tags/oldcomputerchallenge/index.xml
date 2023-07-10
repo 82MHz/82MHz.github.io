@@ -13,6 +13,18 @@
     <language>en</language>
     <lastBuildDate>Wed, 05 Jul 2023 09:46:48 +0200</lastBuildDate><atom:link href="https://82mhz.github.io/tags/oldcomputerchallenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>OldComputerChallenge - Day 1</title>
+      <link>https://82mhz.github.io/posts/oldcomputerchallenge_day1/</link>
+      <pubDate>Wed, 05 Jul 2023 09:46:48 +0200</pubDate>
+      
+      <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day1/</guid>
+      <description>Okay, Day 1 is almost over, what have we learned?
+Modern software sucks!!
+I mean, it doesn&amp;rsquo;t really, a lot of it is quite beautiful and easy to use, but boy, everything consumes so many resources! Just starting up a web browser (firefox or chrome doesn&amp;rsquo;t really matter) takes a good ten seconds or more, and then we haven&amp;rsquo;t even loaded a single page yet.
+And webpages are also so slow and bloated these days!</description>
+    </item>
+    
+    <item>
       <title>OldComputerChallenge - Preparation</title>
       <link>https://82mhz.github.io/posts/oldcomputerchallenge/</link>
       <pubDate>Wed, 05 Jul 2023 09:46:48 +0200</pubDate>
