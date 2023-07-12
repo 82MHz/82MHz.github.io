@@ -1,16 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>82Mhz&#39; Blog</title>
+    <title>82MHz&#39; Blog</title>
     <link>https://82mhz.github.io/</link>
-    <description>Recent content on 82Mhz&#39; Blog</description>
-    <image>
-      <title>82Mhz&#39; Blog</title>
-      <url>https://82mhz.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>https://82mhz.github.io/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
-    </image>
+    <description>Recent content on 82MHz&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
+    <language>en-uk</language>
     <lastBuildDate>Tue, 11 Jul 2023 18:00:48 +0200</lastBuildDate><atom:link href="https://82mhz.github.io/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Old Computer Challenge - Day 2</title>

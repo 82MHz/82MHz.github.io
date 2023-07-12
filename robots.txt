@@ -1,3 +1,0 @@
-User-agent: *
-Disallow:
-Sitemap: https://82mhz.github.io/sitemap.xml
