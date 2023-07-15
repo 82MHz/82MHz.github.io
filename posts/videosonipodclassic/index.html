@@ -3,11 +3,11 @@
 <meta http-equiv="content-type" content="text/html">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-<title itemprop="name">OldComputerChallenge | 82MHz&#39; Blog</title>
-<meta property="og:title" content="OldComputerChallenge | 82MHz&#39; Blog" />
-<meta name="twitter:title" content="OldComputerChallenge | 82MHz&#39; Blog" />
-<meta itemprop="name" content="OldComputerChallenge | 82MHz&#39; Blog" />
-<meta name="application-name" content="OldComputerChallenge | 82MHz&#39; Blog" />
+<title itemprop="name">Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic | 82MHz&#39; Blog</title>
+<meta property="og:title" content="Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic | 82MHz&#39; Blog" />
+<meta name="twitter:title" content="Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic | 82MHz&#39; Blog" />
+<meta itemprop="name" content="Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic | 82MHz&#39; Blog" />
+<meta name="application-name" content="Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic | 82MHz&#39; Blog" />
 <meta property="og:site_name" content="82 MHz" />
 
 <meta name="description" content="A blog about tech, music, retro… and whatever else I find interesting">
@@ -28,14 +28,50 @@
 
 
 
+    
+    
+    
+    
+
+    <meta property="og:type" content="article" />
+    <meta property="og:article:published_time" content=2023-07-15T15:11:27&#43;0200 />
+    <meta property="article:published_time" content=2023-07-15T15:11:27&#43;0200 />
+
+    
+
+    
+
+    <script defer type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Article",
+        "headline": "Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic",
+        "author": {
+        "@type": "Person",
+        "name": ""
+        },
+        "datePublished": "2023-07-15",
+        "description": "",
+        "wordCount":  1044 ,
+        "mainEntityOfPage": "True",
+        "dateModified": "2023-07-15",
+        "image": {
+        "@type": "imageObject",
+        "url": ""
+        },
+        "publisher": {
+        "@type": "Organization",
+        "name": "82MHz\u0027 Blog"
+        }
+    }
+    </script>
+
 
 <meta name="generator" content="Hugo 0.112.3">
 
     
 
-    <link rel="canonical" href="https://82mhz.github.io/categories/oldcomputerchallenge/">
-    <link href="/categories/oldcomputerchallenge/index.xml" rel="alternate" type="application/rss+xml" title="82MHz&#39; Blog">
-    <link href="/categories/oldcomputerchallenge/index.xml" rel="feed" type="application/rss+xml" title="82MHz&#39; Blog">
+    <link rel="canonical" href="https://82mhz.github.io/posts/videosonipodclassic/">
     <link href="/style.min.d16f523c36741e07697791cfe4bcb09b8c92c7034d5cbf85980df65d92a70e97.css" rel="stylesheet">
     <link href="/code-highlight.min.706d31975fec544a864cb7f0d847a73ea55ca1df91bf495fd12a177138d807cf.css" rel="stylesheet">
 
@@ -94,7 +130,7 @@ stroke-linejoin="round" class="feather feather-home">
                 </li>
                 
                 <li>
-                    <a class="menu-link " href="/posts/">
+                    <a class="menu-link active" href="/posts/">
                         Posts
                     </a>
                     
@@ -141,107 +177,68 @@ stroke-linejoin="round" class="feather feather-home">
         </div>
     </nav>
 </div>
-<div class="wrapper list-page">
-    <header class="header">
-        <h1 class="header-title center">OldComputerChallenge</h1>
-    </header>
+
+<div class="wrapper post">
     <main class="page-content" aria-label="Content">
-        
-        
-        <h2 class="post-year">2023</h2>
+        <article>
+            <header class="header">
+                <h1 class="header-title">Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic</h1>
+                
+                <div class="post-meta">
+                    <time datetime="2023-07-15T15:11:27&#43;02:00" itemprop="datePublished"> 15 Jul 2023 </time>
+                </div>
+            </header><div class="page-content">
+                <h4 id="note">Note</h4>
+<p>This is only semi-related to the OldComputerChallenge, but I revisited the idea of downloading videos from Youtube and putting them on an old iPod. I had already figured out the commands a while ago, but I had to refresh my memory from my bash history and because I figure this might actually be of interest to some people, I wrote it as a tutorial.</p>
+<p>Again, this is about downloading videos from Youtube and putting them on the iPod, not about accessing Youtube straight from the iPod. That&rsquo;s not possible because iPods (apart from the iPod touch, which is basically an iPhone) don&rsquo;t have wifi.</p>
+<h4 id="introduction">Introduction</h4>
+<p>A while ago I got into old iPods (of course like so many people thanks to a certain <a href="https://yewtu.be/channel/UC7Jwj9fkrf1adN4fMmTkpug">easily excitable australian youtuber</a>) and got myself an old iPod Classic with a 160GB harddisk.</p>
+<p>I remember thinking back then that they looked really amazing and that 160GB was just a phenomenal amount of storage, enough for my entire music collection at the time, but of course being a university student who was just barely getting by financially there was no way I could afford one.</p>
+<p>Fast forward a decade and a half later, thankfully I have an income now and old iPods have come down in price as well (double win!), so the time had come to get one.</p>
+<p><img src="/iPodClassic.jpg" alt="iPodClassic"></p>
+<p>Of course the first thing I did was to put <a href="https://www.rockbox.org">Rockbox</a> on it, and here it is running the fantastic <a href="https://github.com/D0-0K/adwaitapod">Adawaitapod</a> theme by <a href="https://d00k.net/">D00k</a>!</p>
+<p>So then putting music and podcasts and audiobooks on it is pretty straightforward, just copy your MP3s, OGGs, FLACs etc. over and you&rsquo;re good to go! No iTunes, no messing around trying to get libgtkpod working, it just works like any other MP3-Player, you mount it as a USB-storage device on your computer, copy the files over and that&rsquo;s it. The way it&rsquo;s supposed to be.</p>
+<p>But wait, this thing can play videos too, right? Could it be possible to rip videos from youtube and put them on the iPod so I can strain my eyes watching them on a way too tiny screen like it&rsquo;s 2005?<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
+<p>Of course it is, I wouldn&rsquo;t have wasted your time with this introduction if it wasn&rsquo;t.</p>
+<h4 id="necessary-software">Necessary software</h4>
+<p>You need two pieces of software:</p>
+<ul>
+<li><a href="https://github.com/yt-dlp/yt-dlp">yt-dlp</a></li>
+<li><a href="https://ffmpeg.org/">ffmpeg</a></li>
+</ul>
+<p>Where to get them and how to install them depends on your OS and distro of choice of course, so I&rsquo;m not going to write up a tutorial about that, I&rsquo;m going to assume you can figure it out and have it installed.</p>
+<h4 id="ripping-the-videos-from-youtube-with-yt-dlp">Ripping the video(s) from Youtube with yt-dlp</h4>
+<p>First, get the URL of the youtube-video you would like to rip. Just open the video in your browser and copy it from your browsers address bar.</p>
+<p>Then, run yt-dlp with the URL as parameter, and I like to tell it to rip the 480p version of the video to save bandwidth. We need to make the video even smaller for the iPod, so there is no point in downloading the full 1080p or 4k file.</p>
+<pre tabindex="0"><code> $ yt-dlp -S &#34;res:480&#34; &#39;https://www.youtube.com/XXXXX&#39;
+</code></pre><p>Note the quotation marks (&rsquo;), they are necessary in case the youtube link contains characters that the shell would interpret as special characters.</p>
+<p>This works on playlists too btw! Just get the URL of the playlist instead and run yt-dlp like so:</p>
+<pre tabindex="0"><code> $ yt-dlp -S &#34;res:480&#34; --yes-playlist &#39;https://www.youtube.com/watch?v=XXXXX&#39;
+</code></pre><p>Now we will most likely end up with a video (or videos) in the <em>webm</em> file format. That&rsquo;s nice, but way too modern and high-res for our tiny little iPod. So let&rsquo;s make it smaller and crappier!</p>
+<h4 id="converting-for-the-ipod-with-ffmpeg">Converting for the iPod with ffmpeg</h4>
+<p>And here we come across an unfortunate issue. The iPod is modern enough to be able to decode h.264 videos in hardware, but Rockbox has no support for it and can only decode the older (and worse) mpeg2 standard. What this means in practice is that we need to convert the videos to mpeg2 which creates bigger files than h.264 at a comparable quality or worse looking video at the same filesize. Quality is of less concern in my opinion, because the iPods screen is tiny and a few compression artefacts here and there only add to the retro experience, but filesize might be important if you don&rsquo;t have a lot of space available on the iPod.</p>
+<p>Either way, we now need to fire up ffmpeg to convert the video to a format the iPod (and Rockbox) understands. The command is pretty straightforward, the for loop is only necessary if you have downloaded multiple videos, but it also works if you have only one video, so I only ever use this line:</p>
+<pre tabindex="0"><code> $ for i in *.webm; do ffmpeg -i &#34;$i&#34; -c:v mpeg2video -b:v 4000k -acodec libmp3lame -ab 192k -vf scale=320:-1 &#34;${i%.*}.mpg&#34;; done
+</code></pre><p>In order to change the filesize (and quality), you can play around with the video bitrate (the number after -b:v) and the audio bitrate (the number after -ab) until you have the right values dialed in for your usecase. The bitrates above work well for me, so I&rsquo;m happy with them.</p>
+<p>Now if everything went well, you have a bunch of video files in your folder with the extension *<em>mpg</em>, and you can just copy them over to your iPod, open them in Rockbox like any other file and enjoy your favorite 80s music videos on the go! (I know that&rsquo;s what you came here for ;) )</p>
+<p><img src="/iPodClassicMJ.jpg" alt="iPodClassic"></p>
+<p>(It looks better in person btw., my camera is not the greatest. But the iPods screen is actually pretty nice for its age!)</p>
+<h4 id="bonus-round-converting-to-h264-for-the-original-ipod-software">Bonus round: Converting to h.264 for the original iPod software</h4>
+<p>Like I mentioned, the iPod is capable of playing h.264 videos, so if you&rsquo;re still rocking the original Apple software, you can also convert you videos to a higher quality (and smaller filesize) codec like this:</p>
+<pre tabindex="0"><code> for i in *.webm; do ffmpeg -i &#34;$i&#34; -f mp4 -vcodec mpeg4 -vf scale=-2:320 -maxrate 1536k -b:v 768k -qmin 3 -qmax 5 -bufsize 4096k -g 300 -c:a aac -b:a 192k -ar 44100 -ac 2 &#34;${i%.*}.mp4&#34;; done
+</code></pre><div class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1">
+<p>The iPod Classic which I have came out in 2007 but the first iPod to allow video playback, the iPod Video, was released in 2005. They are technically very similar and have the same screen.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</div>
 
-        
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/posts/videosonipodclassic/">Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic</a>
-    </h4>
-    
-    
-    <time class="post-item-meta" datetime="2023-07-15T15:11:27&#43;0200">
-        15 Jul 2023
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/posts/oldcomputerchallenge_day4/">Old Computer Challenge - Day 4</a>
-    </h4>
-    
-    
-    <time class="post-item-meta" datetime="2023-07-14T08:50:48&#43;0200">
-        14 Jul 2023
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/posts/oldcomputerchallenge_day3/">Old Computer Challenge - Day 3</a>
-    </h4>
-    
-    
-    <time class="post-item-meta" datetime="2023-07-13T13:50:48&#43;0200">
-        13 Jul 2023
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/posts/oldcomputerchallenge_day2/">Old Computer Challenge - Day 2</a>
-    </h4>
-    
-    
-    <time class="post-item-meta" datetime="2023-07-11T18:00:48&#43;0200">
-        11 Jul 2023
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/posts/oldcomputerchallenge_day1/">Old Computer Challenge - Day 1</a>
-    </h4>
-    
-    
-    <time class="post-item-meta" datetime="2023-07-10T09:46:48&#43;0200">
-        10 Jul 2023
-    </time>
-</article>
-
-
-        
-
-        <article class="post-item">
-    <h4 class="post-item-title">
-        <a href="/posts/oldcomputerchallenge/">Old Computer Challenge - Preparation</a>
-    </h4>
-    
-    
-    <time class="post-item-meta" datetime="2023-07-09T09:46:48&#43;0200">
-        9 Jul 2023
-    </time>
-</article>
-
-
-         
-
-         
-
-    </main>
-</div><footer class="footer">
+            </div>
+        </article></main>
+</div>
+<footer class="footer">
     <span class="footer_item"> </span>
     &nbsp;
 

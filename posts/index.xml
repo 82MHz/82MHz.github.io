@@ -6,7 +6,17 @@
     <description>Recent content in Posts on 82MHz&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Fri, 14 Jul 2023 08:50:48 +0200</lastBuildDate><atom:link href="https://82mhz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 15 Jul 2023 15:11:27 +0200</lastBuildDate><atom:link href="https://82mhz.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic</title>
+      <link>https://82mhz.github.io/posts/videosonipodclassic/</link>
+      <pubDate>Sat, 15 Jul 2023 15:11:27 +0200</pubDate>
+      
+      <guid>https://82mhz.github.io/posts/videosonipodclassic/</guid>
+      <description>Note This is only semi-related to the OldComputerChallenge, but I revisited the idea of downloading videos from Youtube and putting them on an old iPod. I had already figured out the commands a while ago, but I had to refresh my memory from my bash history and because I figure this might actually be of interest to some people, I wrote it as a tutorial.
+Again, this is about downloading videos from Youtube and putting them on the iPod, not about accessing Youtube straight from the iPod.</description>
+    </item>
+    
     <item>
       <title>Old Computer Challenge - Day 4</title>
       <link>https://82mhz.github.io/posts/oldcomputerchallenge_day4/</link>
