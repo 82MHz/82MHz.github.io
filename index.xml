@@ -6,7 +6,17 @@
     <description>Recent content on 82MHz&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 17 Jul 2023 07:29:48 +0200</lastBuildDate><atom:link href="https://82mhz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Old Computer Challenge 2023 - Epilogue</title>
+      <link>https://82mhz.github.io/posts/occfinal/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.github.io/posts/occfinal/</guid>
+      <description>So the OCC 2023 ended almost three weeks ago and everyone went back to the year 2023 and to using their modern computers. At least I did. But let&amp;rsquo;s explore what remaind for me.
+I want to take a moment to look back and examine what was good, which tools and workflows stuck with me and what is better left back on the old computer (which was really just a VM in my case).</description>
+    </item>
+    
     <item>
       <title>Old Computer Challenge - Days 6 and 7</title>
       <link>https://82mhz.github.io/posts/oldcomputerchallenge_day67/</link>
@@ -52,10 +62,12 @@ I&amp;rsquo;m spending far less time aimlessly surfing the web or watching youtu
     <item>
       <title>82MHz</title>
       <link>https://82mhz.github.io/about/</link>
-      <pubDate>Wed, 12 Jul 2023 11:34:54 +0200</pubDate>
+      <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.github.io/about/</guid>
-      <description>Homepage of AK, I go by 82MHz online</description>
+      <description>Hi, my name is Andi, I go by 82MHz online.
+Why 82MHz? Well one part comes from my year of birth, the other from the fact that I studied electrical engineering with a specialization in audio and telecommunications&amp;hellip; get it?
+Anyway, I&amp;rsquo;m an embedded software developer in my day job and outside of that I am most interested in music (with lots of guitars or lots of synths), coding, free software, retro computing and generally tinkering around with all kinds of tech.</description>
     </item>
     
     <item>
@@ -99,16 +111,6 @@ Limit your computer&amp;rsquo;s CPU to use only 1 core. This can be set in the B
       
       <guid>https://82mhz.github.io/projects/typewriter/</guid>
       <description>``&amp;mdash; date: &amp;ldquo;2023-07-03T15:21:10+02:00&amp;rdquo; draft: true title: Typewriter </description>
-    </item>
-    
-    <item>
-      <title>Old Computer Challenge - Days 6 and 7</title>
-      <link>https://82mhz.github.io/posts/oldcomputerchallenge_day67.sync-conflict-20230717-152944-mpap4oy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day67.sync-conflict-20230717-152944-mpap4oy/</guid>
-      <description>So the last two days of the Old Computer Challenge went by in the blink of an eye, and not a lot has happened, so I&amp;rsquo;m putting them together in one post. But I still wanted to note a few things down, and I might also a wrap-up some time next week.
-Day 6 It was just boiling hot outside (35°C), and I am just absolutely useless in these kinds of temperatures (in Germany we also don&amp;rsquo;t tend to have AC, so no way to cool my apartment down).</description>
     </item>
     
   </channel>

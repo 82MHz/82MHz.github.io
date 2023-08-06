@@ -6,7 +6,17 @@
     <description>Recent content in OldComputerChallenge on 82MHz&#39; Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-uk</language>
-    <lastBuildDate>Mon, 17 Jul 2023 07:29:48 +0200</lastBuildDate><atom:link href="https://82mhz.github.io/categories/oldcomputerchallenge/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/categories/oldcomputerchallenge/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Old Computer Challenge 2023 - Epilogue</title>
+      <link>https://82mhz.github.io/posts/occfinal/</link>
+      <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.github.io/posts/occfinal/</guid>
+      <description>So the OCC 2023 ended almost three weeks ago and everyone went back to the year 2023 and to using their modern computers. At least I did. But let&amp;rsquo;s explore what remaind for me.
+I want to take a moment to look back and examine what was good, which tools and workflows stuck with me and what is better left back on the old computer (which was really just a VM in my case).</description>
+    </item>
+    
     <item>
       <title>Old Computer Challenge - Days 6 and 7</title>
       <link>https://82mhz.github.io/posts/oldcomputerchallenge_day67/</link>
@@ -81,16 +91,6 @@ And webpages are also so slow and bloated these days!</description>
 So this year the rules for the challenge are as follows:
 Let&amp;rsquo;s use a SLOW computer for 7 days. This will be achieved by various means with any hardware:
 Limit your computer&amp;rsquo;s CPU to use only 1 core. This can be set in the BIOS most of the time, and on Linux you can use maxcores=1 in the boot command line, on OpenBSD you can use bsd.</description>
-    </item>
-    
-    <item>
-      <title>Old Computer Challenge - Days 6 and 7</title>
-      <link>https://82mhz.github.io/posts/oldcomputerchallenge_day67.sync-conflict-20230717-152944-mpap4oy/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day67.sync-conflict-20230717-152944-mpap4oy/</guid>
-      <description>So the last two days of the Old Computer Challenge went by in the blink of an eye, and not a lot has happened, so I&amp;rsquo;m putting them together in one post. But I still wanted to note a few things down, and I might also a wrap-up some time next week.
-Day 6 It was just boiling hot outside (35°C), and I am just absolutely useless in these kinds of temperatures (in Germany we also don&amp;rsquo;t tend to have AC, so no way to cool my apartment down).</description>
     </item>
     
   </channel>
