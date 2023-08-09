@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>smolNet on 82MHz&#39; Blog</title>
+    <title>smolNet on 82MHz</title>
     <link>https://82mhz.github.io/tags/smolnet/</link>
-    <description>Recent content in smolNet on 82MHz&#39; Blog</description>
+    <description>Recent content in smolNet on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
+    <language>en-gb</language>
     <lastBuildDate>Thu, 13 Jul 2023 13:50:48 +0200</lastBuildDate><atom:link href="https://82mhz.github.io/tags/smolnet/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Old Computer Challenge - Day 3</title>
@@ -14,7 +14,7 @@
       
       <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day3/</guid>
       <description>On this day I was sick, so not a lot has happened, but I would like to still briefly share a few thoughts.
-I&amp;rsquo;m spending far less time aimlessly surfing the web or watching youtube-videos for hours on end, simply because it&amp;rsquo;s not very much fun. Surfing works, but most sites are not very pleasant to look at or don&amp;rsquo;t work at all in a minimalist browser (think lynx, links2, luakit) or they slow the computer down to a crawl when using vivaldi (which is already slow thanks to its significant memory footprint).</description>
+I&amp;rsquo;m spending far less time aimlessly surfing the web or watching youtube-videos for hours on end, simply because it&amp;rsquo;s not very much fun.</description>
     </item>
     
     <item>

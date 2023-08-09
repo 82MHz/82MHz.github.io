@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>OldComputerChallenge on 82MHz&#39; Blog</title>
+    <title>OldComputerChallenge on 82MHz</title>
     <link>https://82mhz.github.io/categories/oldcomputerchallenge/</link>
-    <description>Recent content in OldComputerChallenge on 82MHz&#39; Blog</description>
+    <description>Recent content in OldComputerChallenge on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
+    <language>en-gb</language>
     <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/categories/oldcomputerchallenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Old Computer Challenge 2023 - Epilogue</title>
@@ -13,8 +13,7 @@
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.github.io/posts/occfinal/</guid>
-      <description>So the OCC 2023 ended almost three weeks ago and everyone went back to the year 2023 and to using their modern computers. At least I did. But let&amp;rsquo;s explore what remaind for me.
-I want to take a moment to look back and examine what was good, which tools and workflows stuck with me and what is better left back on the old computer (which was really just a VM in my case).</description>
+      <description>So the OCC 2023 ended almost three weeks ago and everyone went back to the year 2023 and to using their modern computers. At least I did. But let&amp;rsquo;s explore what remaind for me.</description>
     </item>
     
     <item>
@@ -23,8 +22,7 @@ I want to take a moment to look back and examine what was good, which tools and 
       <pubDate>Mon, 17 Jul 2023 07:29:48 +0200</pubDate>
       
       <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day67/</guid>
-      <description>So the last two days of the Old Computer Challenge went by in the blink of an eye, and not a lot has happened, so I&amp;rsquo;m putting them together in one post. But I still wanted to note a few things down, and I might also a wrap-up some time next week.
-Day 6 It was boiling hot outside (35°C) and I am just completely useless in these kinds of temperatures (in Germany we also don&amp;rsquo;t tend to have AC, so no way to cool my apartment down).</description>
+      <description>So the last two days of the Old Computer Challenge went by in the blink of an eye, and not a lot has happened, so I&amp;rsquo;m putting them together in one post.</description>
     </item>
     
     <item>
@@ -33,8 +31,7 @@ Day 6 It was boiling hot outside (35°C) and I am just completely useless in the
       <pubDate>Sat, 15 Jul 2023 15:11:27 +0200</pubDate>
       
       <guid>https://82mhz.github.io/posts/videosonipodclassic/</guid>
-      <description>Note This is only semi-related to the OldComputerChallenge, but I revisited the idea of downloading videos from Youtube and putting them on an old iPod. I had already figured out the commands a while ago, but I had to refresh my memory from my bash history and because I figure this might actually be of interest to some people, I wrote it as a tutorial.
-Again, this is about downloading videos from Youtube and putting them on the iPod, not about accessing Youtube straight from the iPod.</description>
+      <description>Note This is only semi-related to the OldComputerChallenge, but I revisited the idea of downloading videos from Youtube and putting them on an old iPod. I had already figured out the commands a while ago, but I had to refresh my memory from my bash history and because I figure this might actually be of interest to some people, I wrote it as a tutorial.</description>
     </item>
     
     <item>
@@ -45,8 +42,7 @@ Again, this is about downloading videos from Youtube and putting them on the iPo
       <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day4/</guid>
       <description>I want to take this post to get out some thoughts about the internet, social media and mental health.
 How is this related to the OldComputerChallenge?
-Let&amp;rsquo;s take a look.
-For the longest time now I didn&amp;rsquo;t have a facebook profile, and I never had a twitter profile or a tiktok account or a profile on any of the new social media platforms that are en vogue these days. The only social media I had left was Instagram, but I stopped using it a few months ago because I realized I was just mindlessly scrolling through posts for hours on end without getting much value or enjoyment out of it at all.</description>
+Let&amp;rsquo;s take a look.</description>
     </item>
     
     <item>
@@ -56,7 +52,7 @@ For the longest time now I didn&amp;rsquo;t have a facebook profile, and I never
       
       <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day3/</guid>
       <description>On this day I was sick, so not a lot has happened, but I would like to still briefly share a few thoughts.
-I&amp;rsquo;m spending far less time aimlessly surfing the web or watching youtube-videos for hours on end, simply because it&amp;rsquo;s not very much fun. Surfing works, but most sites are not very pleasant to look at or don&amp;rsquo;t work at all in a minimalist browser (think lynx, links2, luakit) or they slow the computer down to a crawl when using vivaldi (which is already slow thanks to its significant memory footprint).</description>
+I&amp;rsquo;m spending far less time aimlessly surfing the web or watching youtube-videos for hours on end, simply because it&amp;rsquo;s not very much fun.</description>
     </item>
     
     <item>
@@ -77,8 +73,7 @@ However, A thought occurred to me recently, because since I subscribed to mastod
       <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day1/</guid>
       <description>Okay, Day 1 is almost over, what have we learned?
 Modern software sucks!!
-I mean, it doesn&amp;rsquo;t really, a lot of it is quite beautiful and easy to use, but boy, everything consumes so many resources! Just starting up a web browser (firefox or chrome doesn&amp;rsquo;t really matter) takes a good ten seconds or more, and then we haven&amp;rsquo;t even loaded a single page yet.
-And webpages are also so slow and bloated these days!</description>
+I mean, it doesn&amp;rsquo;t really, a lot of it is quite beautiful and easy to use, but boy, everything consumes so many resources!</description>
     </item>
     
     <item>
@@ -88,9 +83,7 @@ And webpages are also so slow and bloated these days!</description>
       
       <guid>https://82mhz.github.io/posts/oldcomputerchallenge/</guid>
       <description>This year I learned about Solene&amp;rsquo;s Old Computer Challenge, and I thought hey, I might give it a go!
-So this year the rules for the challenge are as follows:
-Let&amp;rsquo;s use a SLOW computer for 7 days. This will be achieved by various means with any hardware:
-Limit your computer&amp;rsquo;s CPU to use only 1 core. This can be set in the BIOS most of the time, and on Linux you can use maxcores=1 in the boot command line, on OpenBSD you can use bsd.</description>
+So this year the rules for the challenge are as follows:</description>
     </item>
     
   </channel>

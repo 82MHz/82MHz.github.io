@@ -1,12 +1,21 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on 82MHz&#39; Blog</title>
+    <title>Categories on 82MHz</title>
     <link>https://82mhz.github.io/categories/</link>
-    <description>Recent content in Categories on 82MHz&#39; Blog</description>
+    <description>Recent content in Categories on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-uk</language>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-gb</language>
+    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>website</title>
+      <link>https://82mhz.github.io/categories/website/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.github.io/categories/website/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>OldComputerChallenge</title>
       <link>https://82mhz.github.io/categories/oldcomputerchallenge/</link>
@@ -31,6 +40,15 @@
       <pubDate>Sat, 15 Jul 2023 15:11:27 +0200</pubDate>
       
       <guid>https://82mhz.github.io/categories/retrocomputing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bookclub</title>
+      <link>https://82mhz.github.io/categories/bookclub/</link>
+      <pubDate>Sun, 09 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.github.io/categories/bookclub/</guid>
       <description></description>
     </item>
     
