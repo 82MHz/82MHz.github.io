@@ -189,9 +189,10 @@ pre code{
     }
 }
 
-/* new */
+/*
+ new
 
-/* Dropdown Button */
+/* Dropdown Button *
 .dropbtn {
     background-color:var(--background-color);
     color: var(--font-color);
@@ -207,14 +208,14 @@ pre code{
     display: inline-block;
    }
 
-   /* Dropdown Content (Hidden by Default) */
+   /* Dropdown Content (Hidden by Default) *
    .dropdown-content {
     display: none;
     position: absolute;
     background-color:var(--background-color);
    }
 
-   /* Links inside the dropdown */
+   /* Links inside the dropdown *
    .dropdown-content a {
     color: var(--font-color);
     padding: 5px 5px;
@@ -225,7 +226,7 @@ pre code{
     color:var(--font-color)
    }
 
-   /* Change color of dropdown links on hover */
+   /* Change color of dropdown links on hover *
    .dropdown-content a:hover {
     background-color:var(--background-color);
    }
@@ -235,12 +236,13 @@ pre code{
     display: block;
    }
 
-   /* Change the background color of the dropdown button when the dropdown content is shown */
+   /* Change the background color of the dropdown button when the dropdown content is shown *
    .dropdown:hover .dropbtn {
     background-color:var(--background-color);
    }
-
+*/
 /* end new */
+
 li,li>ul>li{
     position:relative;
     display:block;
