@@ -189,59 +189,7 @@ pre code{
     }
 }
 
-/*
- new
 
-/* Dropdown Button *
-.dropbtn {
-    background-color:var(--background-color);
-    color: var(--font-color);
-    font-size:var(--global-font-size);
-    font-style:normal;
-    font-family:var(--font-stack);
-    color:var(--font-color);
-    border: none;
-   }
-
-   .dropdown {
-    position: relative;
-    display: inline-block;
-   }
-
-   /* Dropdown Content (Hidden by Default) *
-   .dropdown-content {
-    display: none;
-    position: absolute;
-    background-color:var(--background-color);
-   }
-
-   /* Links inside the dropdown *
-   .dropdown-content a {
-    color: var(--font-color);
-    padding: 5px 5px;
-    display: block;
-    font-size:var(--global-font-size);
-    font-style:normal;
-    font-family:var(--font-stack);
-    color:var(--font-color)
-   }
-
-   /* Change color of dropdown links on hover *
-   .dropdown-content a:hover {
-    background-color:var(--background-color);
-   }
-
-   /* Show the dropdown menu on hover */
-   .dropdown:hover .dropdown-content {
-    display: block;
-   }
-
-   /* Change the background color of the dropdown button when the dropdown content is shown *
-   .dropdown:hover .dropbtn {
-    background-color:var(--background-color);
-   }
-*/
-/* end new */
 
 li,li>ul>li{
     position:relative;
@@ -372,7 +320,10 @@ p{
     padding:0 calc(var(--global-space) * 2)
 }
 img{
-    width:100%
+    width:80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 }
 .progress-bar{
     height:8px;
@@ -803,3 +754,58 @@ figure>figcaption{
 .hljs-strong{
     font-weight:700
 }
+
+
+/*
+ new
+
+/* Dropdown Button *
+.dropbtn {
+    background-color:var(--background-color);
+    color: var(--font-color);
+    font-size:var(--global-font-size);
+    font-style:normal;
+    font-family:var(--font-stack);
+    color:var(--font-color);
+    border: none;
+   }
+
+   .dropdown {
+    position: relative;
+    display: inline-block;
+   }
+
+   /* Dropdown Content (Hidden by Default) *
+   .dropdown-content {
+    display: none;
+    position: absolute;
+    background-color:var(--background-color);
+   }
+
+   /* Links inside the dropdown *
+   .dropdown-content a {
+    color: var(--font-color);
+    padding: 5px 5px;
+    display: block;
+    font-size:var(--global-font-size);
+    font-style:normal;
+    font-family:var(--font-stack);
+    color:var(--font-color)
+   }
+
+   /* Change color of dropdown links on hover *
+   .dropdown-content a:hover {
+    background-color:var(--background-color);
+   }
+
+   /* Show the dropdown menu on hover *
+   .dropdown:hover .dropdown-content {
+    display: block;
+   }
+
+   /* Change the background color of the dropdown button when the dropdown content is shown *
+   .dropdown:hover .dropbtn {
+    background-color:var(--background-color);
+   }
+*/
+/* end new */
