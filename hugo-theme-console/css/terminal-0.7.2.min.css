@@ -317,7 +317,7 @@ p{
 }
 .container,.container-fluid{
     margin:0 auto;
-    padding:0 calc(var(--global-space) * 2)
+    padding:0 calc(var(--global-space) * 2);
 }
 img{
     width:80%;

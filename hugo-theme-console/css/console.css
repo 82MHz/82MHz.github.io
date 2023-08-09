@@ -36,7 +36,7 @@
     --mono-font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --font-stack: Roboto Mono, Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace, serif;
     --global-line-height: 1.6em;
-    --page-width: 60em;
+    --page-width: 50em;
     --display-h1-decoration: 0;
     --code-bg-color: #fff;
 }
