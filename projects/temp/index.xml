@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>82MHz</title>
+    <title>Home</title>
     <link>https://82mhz.github.io/projects/temp/</link>
-    <description>Recent content on 82MHz</description>
+    <description>Recent content on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language><atom:link href="https://82mhz.github.io/projects/temp/index.xml" rel="self" type="application/rss+xml" />
   </channel>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>retroComputing on 82MHz</title>
+    <title>retroComputing on Home</title>
     <link>https://82mhz.github.io/categories/retrocomputing/</link>
-    <description>Recent content in retroComputing on 82MHz</description>
+    <description>Recent content in retroComputing on Home</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <lastBuildDate>Sat, 15 Jul 2023 15:11:27 +0200</lastBuildDate><atom:link href="https://82mhz.github.io/categories/retrocomputing/index.xml" rel="self" type="application/rss+xml" />

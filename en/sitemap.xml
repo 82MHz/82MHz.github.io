@@ -4,8 +4,24 @@
     
         
         <url>
+            <loc>https://82mhz.github.io/reading/</loc>
+            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://82mhz.github.io/categories/</loc>
+            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/categories/"/>
+            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/categories/"/>
+        </url>
+        
+    
+        
+        <url>
             <loc>https://82mhz.github.io/</loc>
-            <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
             <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/"/>
             <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/"/>
         </url>
@@ -13,10 +29,24 @@
     
         
         <url>
-            <loc>https://82mhz.github.io/categories/</loc>
-            <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/categories/"/>
-            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/categories/"/>
+            <loc>https://82mhz.github.io/tags/lesen/</loc>
+            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://82mhz.github.io/categories/lesen/</loc>
+            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://82mhz.github.io/tags/</loc>
+            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/tags/"/>
+            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/tags/"/>
         </url>
         
     
@@ -72,15 +102,6 @@
         <url>
             <loc>https://82mhz.github.io/tags/oldcomputerchallenge/</loc>
             <lastmod>2023-07-17T07:29:48+02:00</lastmod>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://82mhz.github.io/tags/</loc>
-            <lastmod>2023-07-17T07:29:48+02:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/tags/"/>
-            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/tags/"/>
         </url>
         
     
@@ -186,6 +207,14 @@
         
         <url>
             <loc>https://82mhz.github.io/projects/typewriter/</loc>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://82mhz.github.io/links/</loc>
+            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/links/"/>
+            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/links/"/>
         </url>
         
     
