@@ -6,13 +6,22 @@
     <description>Recent content in Categories on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/de/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>website</title>
       <link>https://82mhz.github.io/de/categories/website/</link>
-      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.github.io/de/categories/website/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>lesen</title>
+      <link>https://82mhz.github.io/de/categories/lesen/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.github.io/de/categories/lesen/</guid>
       <description></description>
     </item>
     

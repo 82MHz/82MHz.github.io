@@ -6,7 +6,17 @@
     <description>Recent content on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Wed, 09 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Website Update mit neuen Abschnitten</title>
+      <link>https://82mhz.github.io/de/posts/newsections/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.github.io/de/posts/newsections/</guid>
+      <description>Nur eine kleine Ankündigung heute, ich habe zwei neue Rubriken auf der Webseite eingebaut: Links und Buchclub.
+Links sollte relativ selbsterklärend sein, auf dieser Seite sammle ich Links zu interessanten Blogs, Artikeln, Dokumenten&amp;hellip; alles was ich interessant oder wissenswert finde und teilen oder für später festhalten möchte.</description>
+    </item>
+    
     <item>
       <title>Neues Design und jetzt auch auf Deutsch</title>
       <link>https://82mhz.github.io/de/posts/redesign/</link>
@@ -25,16 +35,6 @@ Mit dem alten Aussehen wurde ich nicht so recht warm, aber Hugo macht es ja zum 
       <guid>https://82mhz.github.io/de/about/</guid>
       <description>Hi, deutsche Version hier.
 Why 82MHz? Well one part comes from my year of birth, the other from the fact that I studied electrical engineering with a specialization in audio and telecommunications&amp;hellip; get it?</description>
-    </item>
-    
-    <item>
-      <title>Links</title>
-      <link>https://82mhz.github.io/de/links/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://82mhz.github.io/de/links/</guid>
-      <description>Hier sind einige Links, die ich im Laufe der Zeit gesammelt habe und hier teilen oder einfach für die Zukunft festhalten will.
-Wenn euch tote Links unterkommen, sagt mir gerne Bescheid.</description>
     </item>
     
   </channel>

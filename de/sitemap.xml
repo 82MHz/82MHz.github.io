@@ -5,7 +5,7 @@
         
         <url>
             <loc>https://82mhz.github.io/de/</loc>
-            <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+            <lastmod>2023-08-20T00:00:00+00:00</lastmod>
             <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/"/>
             <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/"/>
         </url>
@@ -14,9 +14,68 @@
         
         <url>
             <loc>https://82mhz.github.io/de/categories/</loc>
-            <lastmod>2023-08-09T00:00:00+00:00</lastmod>
+            <lastmod>2023-08-20T00:00:00+00:00</lastmod>
             <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/categories/"/>
             <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/categories/"/>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://82mhz.github.io/de/posts/</loc>
+            <lastmod>2023-08-20T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/posts/"/>
+            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/posts/"/>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://82mhz.github.io/de/categories/website/</loc>
+            <lastmod>2023-08-20T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/categories/website/"/>
+            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/categories/website/"/>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://82mhz.github.io/de/posts/newsections/</loc>
+            <lastmod>2023-08-20T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/posts/newsections/"/>
+            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/posts/newsections/"/>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://82mhz.github.io/de/tags/lesen/</loc>
+            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://82mhz.github.io/de/categories/lesen/</loc>
+            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://82mhz.github.io/de/bookclub/</loc>
+            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/bookclub/"/>
+            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/bookclub/"/>
+        </url>
+        
+    
+        
+        <url>
+            <loc>https://82mhz.github.io/de/tags/</loc>
+            <lastmod>2023-08-13T00:00:00+00:00</lastmod>
+            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/tags/"/>
+            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/tags/"/>
         </url>
         
     
@@ -26,24 +85,6 @@
             <lastmod>2023-08-09T00:00:00+00:00</lastmod>
             <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/posts/redesign/"/>
             <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/posts/redesign/"/>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://82mhz.github.io/de/posts/</loc>
-            <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/posts/"/>
-            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/posts/"/>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://82mhz.github.io/de/categories/website/</loc>
-            <lastmod>2023-08-09T00:00:00+00:00</lastmod>
-            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/categories/website/"/>
-            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/categories/website/"/>
         </url>
         
     
@@ -61,14 +102,6 @@
             <loc>https://82mhz.github.io/de/links/</loc>
             <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/links/"/>
             <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/links/"/>
-        </url>
-        
-    
-        
-        <url>
-            <loc>https://82mhz.github.io/de/tags/</loc>
-            <xhtml:link rel="alternate" hreflang="en" href="https://82mhz.github.io/tags/"/>
-            <xhtml:link rel="alternate" hreflang="de" href="https://82mhz.github.io/de/tags/"/>
         </url>
         
     
