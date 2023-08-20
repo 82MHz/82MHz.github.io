@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 82MHz</title>
-    <link>https://82mhz.github.io/de/categories/</link>
+    <link>https://82mhz.net/de/categories/</link>
     <description>Recent content in Categories on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/de/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/de/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>website</title>
-      <link>https://82mhz.github.io/de/categories/website/</link>
+      <link>https://82mhz.net/de/categories/website/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/de/categories/website/</guid>
+      <guid>https://82mhz.net/de/categories/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>lesen</title>
-      <link>https://82mhz.github.io/de/categories/lesen/</link>
+      <link>https://82mhz.net/de/categories/lesen/</link>
       <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/de/categories/lesen/</guid>
+      <guid>https://82mhz.net/de/categories/lesen/</guid>
       <description></description>
     </item>
     

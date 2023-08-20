@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>82MHz</title>
-    <link>https://82mhz.github.io/de/</link>
+    <link>https://82mhz.net/de/</link>
     <description>Recent content on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/de/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Website Update mit neuen Abschnitten</title>
-      <link>https://82mhz.github.io/de/posts/newsections/</link>
+      <link>https://82mhz.net/de/posts/newsections/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/de/posts/newsections/</guid>
+      <guid>https://82mhz.net/de/posts/newsections/</guid>
       <description>Nur eine kleine Ankündigung heute, ich habe zwei neue Rubriken auf der Webseite eingebaut: Links und Buchclub.
 Links sollte relativ selbsterklärend sein, auf dieser Seite sammle ich Links zu interessanten Blogs, Artikeln, Dokumenten&amp;hellip; alles was ich interessant oder wissenswert finde und teilen oder für später festhalten möchte.</description>
     </item>
     
     <item>
       <title>Neues Design und jetzt auch auf Deutsch</title>
-      <link>https://82mhz.github.io/de/posts/redesign/</link>
+      <link>https://82mhz.net/de/posts/redesign/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/de/posts/redesign/</guid>
+      <guid>https://82mhz.net/de/posts/redesign/</guid>
       <description>Kaum ist die Seite zwei Monate alt, kommt schon das erste Redesign.
 Mit dem alten Aussehen wurde ich nicht so recht warm, aber Hugo macht es ja zum Glück recht einfach, das Theme auszutauschen.</description>
     </item>
     
     <item>
       <title>82MHz</title>
-      <link>https://82mhz.github.io/de/about/</link>
+      <link>https://82mhz.net/de/about/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/de/about/</guid>
+      <guid>https://82mhz.net/de/about/</guid>
       <description>Hi, deutsche Version hier.
 Why 82MHz? Well one part comes from my year of birth, the other from the fact that I studied electrical engineering with a specialization in audio and telecommunications&amp;hellip; get it?</description>
     </item>
