@@ -9,32 +9,49 @@
     <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/de/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Website Update mit neuen Rubriken</title>
-      <link>https://82mhz.net/de/posts/newsections/</link>
+      <link>https://82mhz.net/de/posts/2023/08/website-update-mit-neuen-rubriken/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/newsections/</guid>
-      <description>Nur eine kleine Ankündigung heute, ich habe zwei neue Rubriken auf der Webseite eingebaut: Links und Buchclub.
-Links sollte relativ selbsterklärend sein, auf dieser Seite sammle ich Links zu interessanten Blogs, Artikeln, Dokumenten&amp;hellip; alles was ich interessant oder wissenswert finde und teilen oder für später festhalten möchte.</description>
+      <guid>https://82mhz.net/de/posts/2023/08/website-update-mit-neuen-rubriken/</guid>
+      <description>Nur eine kleine Ankündigung heute, ich habe zwei neue Rubriken auf der Webseite eingebaut: Links und Buchclub.</description>
+    </item>
+    
+    <item>
+      <title>Lesen</title>
+      <link>https://82mhz.net/de/bookclub/</link>
+      <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/de/bookclub/</guid>
+      <description>Anfang 2021 habe ich mir zum Ziel gesetzt, ein Buch pro Woche zu lesen (inspiriert durch dieses Video).</description>
     </item>
     
     <item>
       <title>Neues Design und jetzt auch auf Deutsch</title>
-      <link>https://82mhz.net/de/posts/redesign/</link>
+      <link>https://82mhz.net/de/posts/2023/08/neues-design-und-jetzt-auch-auf-deutsch/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/redesign/</guid>
+      <guid>https://82mhz.net/de/posts/2023/08/neues-design-und-jetzt-auch-auf-deutsch/</guid>
       <description>Kaum ist die Seite zwei Monate alt, kommt schon das erste Redesign.
 Mit dem alten Aussehen wurde ich nicht so recht warm, aber Hugo macht es ja zum Glück recht einfach, das Theme auszutauschen.</description>
     </item>
     
     <item>
-      <title>82MHz</title>
+      <title>Über mich</title>
       <link>https://82mhz.net/de/about/</link>
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/de/about/</guid>
       <description>Hi, deutsche Version hier.
 Why 82MHz? Well one part comes from my year of birth, the other from the fact that I studied electrical engineering with a specialization in audio and telecommunications&amp;hellip; get it?</description>
+    </item>
+    
+    <item>
+      <title>Links</title>
+      <link>https://82mhz.net/de/links/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/de/links/</guid>
+      <description>Hier sind einige Links, die ich im Laufe der Zeit gesammelt habe und hier teilen oder einfach für die Zukunft festhalten will.</description>
     </item>
     
   </channel>

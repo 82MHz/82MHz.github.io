@@ -2,75 +2,71 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OldComputerChallenge on 82MHz</title>
-    <link>https://82mhz.github.io/categories/oldcomputerchallenge/</link>
+    <link>https://82mhz.net/categories/oldcomputerchallenge/</link>
     <description>Recent content in OldComputerChallenge on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/categories/oldcomputerchallenge/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/categories/oldcomputerchallenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Old Computer Challenge 2023 - Epilogue</title>
-      <link>https://82mhz.github.io/posts/occfinal/</link>
+      <link>https://82mhz.net/posts/2023/08/old-computer-challenge-2023-epilogue/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/posts/occfinal/</guid>
-      <description>So the OCC 2023 ended almost three weeks ago and everyone went back to the year 2023 and to using their modern computers. At least I did. But let&amp;rsquo;s explore what remaind for me.</description>
+      <guid>https://82mhz.net/posts/2023/08/old-computer-challenge-2023-epilogue/</guid>
+      <description>So the OCC 2023 ended almost three weeks ago and everyone went back to the year 2023 and to using their modern computers.</description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Days 6 and 7</title>
-      <link>https://82mhz.github.io/posts/oldcomputerchallenge_day67/</link>
+      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-days-6-and-7/</link>
       <pubDate>Mon, 17 Jul 2023 07:29:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day67/</guid>
+      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-days-6-and-7/</guid>
       <description>So the last two days of the Old Computer Challenge went by in the blink of an eye, and not a lot has happened, so I&amp;rsquo;m putting them together in one post.</description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic</title>
-      <link>https://82mhz.github.io/posts/videosonipodclassic/</link>
+      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-5-youtube-videos-on-an-ipod-classic/</link>
       <pubDate>Sat, 15 Jul 2023 15:11:27 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/posts/videosonipodclassic/</guid>
-      <description>Note This is only semi-related to the OldComputerChallenge, but I revisited the idea of downloading videos from Youtube and putting them on an old iPod. I had already figured out the commands a while ago, but I had to refresh my memory from my bash history and because I figure this might actually be of interest to some people, I wrote it as a tutorial.</description>
+      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-5-youtube-videos-on-an-ipod-classic/</guid>
+      <description>Note This is only semi-related to the OldComputerChallenge, but I revisited the idea of downloading videos from Youtube and putting them on an old iPod.</description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Day 4</title>
-      <link>https://82mhz.github.io/posts/oldcomputerchallenge_day4/</link>
+      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-4/</link>
       <pubDate>Fri, 14 Jul 2023 08:50:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day4/</guid>
-      <description>I want to take this post to get out some thoughts about the internet, social media and mental health.
-How is this related to the OldComputerChallenge?
-Let&amp;rsquo;s take a look.</description>
+      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-4/</guid>
+      <description>I want to take this post to get out some thoughts about the internet, social media and mental health.</description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Day 3</title>
-      <link>https://82mhz.github.io/posts/oldcomputerchallenge_day3/</link>
+      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-3/</link>
       <pubDate>Thu, 13 Jul 2023 13:50:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day3/</guid>
-      <description>On this day I was sick, so not a lot has happened, but I would like to still briefly share a few thoughts.
-I&amp;rsquo;m spending far less time aimlessly surfing the web or watching youtube-videos for hours on end, simply because it&amp;rsquo;s not very much fun.</description>
+      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-3/</guid>
+      <description>On this day I was sick, so not a lot has happened, but I would like to still briefly share a few thoughts.</description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Day 2</title>
-      <link>https://82mhz.github.io/posts/oldcomputerchallenge_day2/</link>
+      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-2/</link>
       <pubDate>Tue, 11 Jul 2023 18:00:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day2/</guid>
-      <description>Day 2 is coming to a close. Today I was at work all day and so didn&amp;rsquo;t spend a whole lot of time on my slow computer.
-However, A thought occurred to me recently, because since I subscribed to mastodon a couple of weeks ago and especially since I started following some retro computing related postings (where I discoved the OCC in the first place), I discovered that there&amp;rsquo;s a thing called</description>
+      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-2/</guid>
+      <description>Day 2 is coming to a close. Today I was at work all day and so didn&amp;rsquo;t spend a whole lot of time on my slow computer.</description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Day 1</title>
-      <link>https://82mhz.github.io/posts/oldcomputerchallenge_day1/</link>
+      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-1/</link>
       <pubDate>Mon, 10 Jul 2023 09:46:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/posts/oldcomputerchallenge_day1/</guid>
+      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-1/</guid>
       <description>Okay, Day 1 is almost over, what have we learned?
 Modern software sucks!!
 I mean, it doesn&amp;rsquo;t really, a lot of it is quite beautiful and easy to use, but boy, everything consumes so many resources!</description>
@@ -78,12 +74,11 @@ I mean, it doesn&amp;rsquo;t really, a lot of it is quite beautiful and easy to 
     
     <item>
       <title>Old Computer Challenge - Preparation</title>
-      <link>https://82mhz.github.io/posts/oldcomputerchallenge/</link>
+      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-preparation/</link>
       <pubDate>Sun, 09 Jul 2023 09:46:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/posts/oldcomputerchallenge/</guid>
-      <description>This year I learned about Solene&amp;rsquo;s Old Computer Challenge, and I thought hey, I might give it a go!
-So this year the rules for the challenge are as follows:</description>
+      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-preparation/</guid>
+      <description>This year I learned about Solene&amp;rsquo;s Old Computer Challenge, and I thought hey, I might give it a go!</description>
     </item>
     
   </channel>

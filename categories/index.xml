@@ -2,53 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 82MHz</title>
-    <link>https://82mhz.github.io/categories/</link>
+    <link>https://82mhz.net/categories/</link>
     <description>Recent content in Categories on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>website</title>
-      <link>https://82mhz.github.io/categories/website/</link>
+      <link>https://82mhz.net/categories/website/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/categories/website/</guid>
+      <guid>https://82mhz.net/categories/website/</guid>
       <description></description>
     </item>
     
     <item>
       <title>reading</title>
-      <link>https://82mhz.github.io/categories/reading/</link>
+      <link>https://82mhz.net/categories/reading/</link>
       <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/categories/reading/</guid>
+      <guid>https://82mhz.net/categories/reading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OldComputerChallenge</title>
-      <link>https://82mhz.github.io/categories/oldcomputerchallenge/</link>
+      <link>https://82mhz.net/categories/oldcomputerchallenge/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/categories/oldcomputerchallenge/</guid>
+      <guid>https://82mhz.net/categories/oldcomputerchallenge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>iPod</title>
-      <link>https://82mhz.github.io/categories/ipod/</link>
+      <link>https://82mhz.net/categories/ipod/</link>
       <pubDate>Sat, 15 Jul 2023 15:11:27 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/categories/ipod/</guid>
+      <guid>https://82mhz.net/categories/ipod/</guid>
       <description></description>
     </item>
     
     <item>
       <title>retroComputing</title>
-      <link>https://82mhz.github.io/categories/retrocomputing/</link>
+      <link>https://82mhz.net/categories/retrocomputing/</link>
       <pubDate>Sat, 15 Jul 2023 15:11:27 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/categories/retrocomputing/</guid>
+      <guid>https://82mhz.net/categories/retrocomputing/</guid>
       <description></description>
     </item>
     

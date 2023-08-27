@@ -2,62 +2,62 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 82MHz</title>
-    <link>https://82mhz.github.io/tags/</link>
+    <link>https://82mhz.net/tags/</link>
     <description>Recent content in Tags on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Fri, 25 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>reading</title>
-      <link>https://82mhz.github.io/tags/reading/</link>
+      <link>https://82mhz.net/tags/reading/</link>
       <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/tags/reading/</guid>
+      <guid>https://82mhz.net/tags/reading/</guid>
       <description></description>
     </item>
     
     <item>
       <title>OldComputerChallenge</title>
-      <link>https://82mhz.github.io/tags/oldcomputerchallenge/</link>
+      <link>https://82mhz.net/tags/oldcomputerchallenge/</link>
       <pubDate>Mon, 17 Jul 2023 07:29:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/tags/oldcomputerchallenge/</guid>
+      <guid>https://82mhz.net/tags/oldcomputerchallenge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>mentalHealth</title>
-      <link>https://82mhz.github.io/tags/mentalhealth/</link>
+      <link>https://82mhz.net/tags/mentalhealth/</link>
       <pubDate>Fri, 14 Jul 2023 08:50:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/tags/mentalhealth/</guid>
+      <guid>https://82mhz.net/tags/mentalhealth/</guid>
       <description></description>
     </item>
     
     <item>
       <title>RetroComputing</title>
-      <link>https://82mhz.github.io/tags/retrocomputing/</link>
+      <link>https://82mhz.net/tags/retrocomputing/</link>
       <pubDate>Thu, 13 Jul 2023 13:50:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/tags/retrocomputing/</guid>
+      <guid>https://82mhz.net/tags/retrocomputing/</guid>
       <description></description>
     </item>
     
     <item>
       <title>smolNet</title>
-      <link>https://82mhz.github.io/tags/smolnet/</link>
+      <link>https://82mhz.net/tags/smolnet/</link>
       <pubDate>Thu, 13 Jul 2023 13:50:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/tags/smolnet/</guid>
+      <guid>https://82mhz.net/tags/smolnet/</guid>
       <description></description>
     </item>
     
     <item>
       <title>windowsXP</title>
-      <link>https://82mhz.github.io/tags/windowsxp/</link>
+      <link>https://82mhz.net/tags/windowsxp/</link>
       <pubDate>Thu, 13 Jul 2023 13:50:48 +0200</pubDate>
       
-      <guid>https://82mhz.github.io/tags/windowsxp/</guid>
+      <guid>https://82mhz.net/tags/windowsxp/</guid>
       <description></description>
     </item>
     

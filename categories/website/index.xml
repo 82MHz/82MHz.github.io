@@ -2,27 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>website on 82MHz</title>
-    <link>https://82mhz.github.io/categories/website/</link>
+    <link>https://82mhz.net/categories/website/</link>
     <description>Recent content in website on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-gb</language>
-    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.github.io/categories/website/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language>
+    <lastBuildDate>Sun, 20 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/categories/website/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Website update with new sections</title>
-      <link>https://82mhz.github.io/posts/newsections/</link>
+      <link>https://82mhz.net/posts/2023/08/website-update-with-new-sections/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/posts/newsections/</guid>
-      <description>Just a little announcement today, I have added two new sections to the website: Links and Bookclub.
-Links should be pretty self-explanatory, on this page I collect links to interesting blogs, articles, documents&amp;hellip;.</description>
+      <guid>https://82mhz.net/posts/2023/08/website-update-with-new-sections/</guid>
+      <description>Just a little announcement today, I have added two new sections to the website: Links and Bookclub.</description>
     </item>
     
     <item>
       <title>New Design and now also in German</title>
-      <link>https://82mhz.github.io/posts/redesign/</link>
+      <link>https://82mhz.net/posts/2023/08/new-design-and-now-also-in-german/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.github.io/posts/redesign/</guid>
+      <guid>https://82mhz.net/posts/2023/08/new-design-and-now-also-in-german/</guid>
       <description>The site is barely two months old and already the first redesign is coming.
 I didn&amp;rsquo;t really warm up to the old theme, but luckily Hugo makes it really easy to change the theme.</description>
     </item>
