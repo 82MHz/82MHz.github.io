@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>website on 82MHz</title>
+    <link>https://82mhz.net/tags/website/</link>
+    <description>Recent content in website on 82MHz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language>
+    <lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/tags/website/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updated Design Part 2</title>
+      <link>https://82mhz.net/posts/2023/08/updated-design-part-2/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2023/08/updated-design-part-2/</guid>
+      <description>Who doesn&amp;rsquo;t know it: You only want to change a minor thing on the theme of the website, but you can&amp;rsquo;t seem to get it right and in the end escalate completely and rewrite the whole website from scratch.</description>
+    </item>
+    
+  </channel>
+</rss>

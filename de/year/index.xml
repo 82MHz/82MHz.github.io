@@ -5,6 +5,16 @@
     <link>https://82mhz.net/de/year/</link>
     <description>Recent content in Year on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>de-DE</language><atom:link href="https://82mhz.net/de/year/index.xml" rel="self" type="application/rss+xml" />
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 27 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/de/year/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023</title>
+      <link>https://82mhz.net/de/posts/2023/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/de/posts/2023/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

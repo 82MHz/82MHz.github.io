@@ -6,5 +6,14 @@
     <description>Recent content in Month on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language><atom:link href="https://82mhz.net/de/month/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2023/08</title>
+      <link>https://82mhz.net/de/posts/2023/08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/de/posts/2023/08/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>
