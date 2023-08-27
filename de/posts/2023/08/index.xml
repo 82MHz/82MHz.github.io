@@ -12,7 +12,17 @@
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/de/posts/2023/08/designupdate-teil-2/</guid>
-      <description>Man kennt es: Man will nur eine Kleinigkeit am Theme der Webseite verändern, bekommts aber nicht hin und eskaliert dann am Schluss völlig und schreibt kurzerhand die ganze Webseite neu.</description>
+      <description>&lt;p&gt;Man kennt es: Man will nur eine Kleinigkeit am Theme der Webseite verändern, bekommts aber nicht hin und eskaliert dann am Schluss völlig und schreibt kurzerhand die ganze Webseite neu.&lt;/p&gt;
+&lt;h2 id=&#34;vorgeschichte&#34;&gt;Vorgeschichte:&lt;/h2&gt;
+&lt;p&gt;Diese Webseite ist mit &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; erstellt und hatte ursprünglich das Theme &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;Papermod&lt;/a&gt;&amp;rdquo;, danach &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-blog-awesome/&#34;&gt;Hugo Blog Awesome&lt;/a&gt;&amp;rdquo; und zuletzt &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-console/&#34;&gt;Console&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;So richtig happy war ich aber mit keinem dieser Themen, deswegen hab ich das Console-Thema schon recht stark modifiziert, um eher dem zu entsprechen, was ich gerne hätte.&lt;/p&gt;
+&lt;p&gt;Leider waren aber einige Dinge im CSS doch recht stark verbastelt, und egal was ich probiert hab, manche Sachen habe ich einfach nicht so hinbekommen, wie ich es gerne hätte.&lt;/p&gt;
+&lt;h2 id=&#34;und-jetzt&#34;&gt;Und jetzt:&lt;/h2&gt;
+&lt;p&gt;Irgendwann im Lauf der vergangenen Woche hatte ich dann genug und hab einfach begonnen, die ganze Seite nochmal von Grund auf neu zu schreiben. Von der Struktur bleibt sie so wie sie bisher war, aber ohne die ganzen Dinge im Code, die ich eh nicht brauche und mit einem CSS, das genau das (und nur das!) tut, was ich haben will. Und mit etwas Hilfe von einer guten Freundin, die praktischerweise Webdesignerin ist, finde ich habe ich das auch recht gut hinbekommen!&lt;/p&gt;
+&lt;p&gt;Einige Dinge sind schon noch etwas grob und verbesserungsbedürftig, und sicher wird noch die eine oder andere Änderung kommen, aber ich glaub für jetzt hab ich die Seite erstmal so, wie sie mir gefällt und wie ich sie mir vorgestellt hab.&lt;/p&gt;
+&lt;p&gt;Jetzt kann das Bloggen also richtig losgehen. Mehr dazu Ende der nächsten Woche.&lt;/p&gt;
+&lt;p&gt;Ach und sorry an diejenigen, die meinen RSS-Feed abonniert haben, ich fürchte ich hab da etwas Chaos verursacht. Ich hoffe, die Zeit der großen Änderungen ist jetzt erstmal vorbei und die Seite kann für längere Zeit so bestehen, wie sie jetzt ist!&lt;/p&gt;
+</description>
     </item>
     
   </channel>

@@ -13,7 +13,14 @@
       <pubDate>Thu, 13 Jul 2023 13:50:48 +0200</pubDate>
       
       <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-3/</guid>
-      <description>On this day I was sick, so not a lot has happened, but I would like to still briefly share a few thoughts.</description>
+      <description>&lt;p&gt;On this day I was sick, so not a lot has happened, but I would like to still briefly share a few thoughts.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m spending far less time aimlessly surfing the web or watching youtube-videos for hours on end, simply because it&amp;rsquo;s not very much fun. Surfing works, but most sites are not very pleasant to look at or don&amp;rsquo;t work at all in a minimalist browser (think lynx, links2, luakit) or they slow the computer down to a crawl when using vivaldi (which is already slow thanks to its significant memory footprint). Important lesson: don&amp;rsquo;t have more than one or two tabs open at once. Just don&amp;rsquo;t.&lt;/p&gt;
+&lt;p&gt;And watching youtube is pretty much impossible. Even just loading the start page takes forever, and trying to load a video&amp;hellip; just no. I had downloaded yt-dlp beforehand to be able to download yt-videos at a lower resolution, but I would still have to get the url from somewhere and honestly, I don&amp;rsquo;t even miss it. I&amp;rsquo;m sure I&amp;rsquo;ll eventually catch up on a few interesting videos that I missed during the week, but right now I&amp;rsquo;m completely fine without spending the evening on my couch aimlessly browsing youtube.&lt;/p&gt;
+&lt;p&gt;A win in my opinion!&lt;/p&gt;
+&lt;p&gt;For fun I fired up a VM (one core slowed down, 512mb RAM of course) with Windows XP and browsed some old sites via &lt;a href=&#34;https://theoldnet.com&#34;&gt;the old net&lt;/a&gt; using Retrozilla, and that turned out to be a surprising amount of fun! Retrozilla is also able to access gopher sites, and since most of the OCC-participants who run blogs keep them very minimal, starting at &lt;a href=&#34;https://occ.deadnet.se&#34;&gt;occ.deadnet.se&lt;/a&gt; and looking through the blog entries listed there was no problem at all. And &lt;strong&gt;way&lt;/strong&gt; faster than doing the same thing on a modern linux, despite a minimalist window manager and a lightweight browser (Midori). I even managed to install an old version of mIRC and join #oldcomputerchallenge on libera.chat, which was very surprising but pretty awesome and gave me a huge nostalgia hit :)&lt;/p&gt;
+&lt;p&gt;Putty still works on XP as well, so I can ssh into my &amp;ldquo;server&amp;rdquo; (a raspberry pi really) and do linux-y stuff on there. All in all a surprisingly nice and nostalgic experience!&lt;/p&gt;
+&lt;p&gt;Oh, I also switched my window manager from i3 to herbstluftwm. Why? First, I had already used herbstluftwm before and am familiar with how it works, and second, I like the name :) (for the non-German speaking world, &amp;ldquo;Herbstluft&amp;rdquo; means &amp;ldquo;autumn air&amp;rdquo;, which I think is just beautiful. Once I figure out how to post audio on here, I&amp;rsquo;ll put a file online with the correct pronounciation ;) )&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,7 +29,26 @@
       <pubDate>Tue, 11 Jul 2023 18:00:48 +0200</pubDate>
       
       <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-2/</guid>
-      <description>Day 2 is coming to a close. Today I was at work all day and so didn&amp;rsquo;t spend a whole lot of time on my slow computer.</description>
+      <description>&lt;p&gt;Day 2 is coming to a close. Today I was at work all day and so didn&amp;rsquo;t spend a whole lot of time on my slow computer.&lt;/p&gt;
+&lt;p&gt;However, A thought occurred to me recently, because since I subscribed to mastodon a couple of weeks ago and especially since I started following some retro computing related postings (where I discoved the OCC in the first place), I discovered that there&amp;rsquo;s a thing called&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://communitywiki.org/static/SmolNet.html&#34;&gt;The SmolNet&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;So what is it? Well, according to the link above&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The “smol” net is the “small” net. It’s small because it is build for friends and friends of friends. It doesn’t have to scale to millions of people because those millions should build their own local small nets.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Does this help explaining it? No?&lt;/p&gt;
+&lt;p&gt;Well, if you&amp;rsquo;re in or approaching middle age right now, you probably remember the internet of the 90s.&lt;/p&gt;
+&lt;p&gt;If you&amp;rsquo;re too young for that, this might sound like grandpa telling stories about the war, but there was a time when the internet was young and it wasn&amp;rsquo;t yet entirely run by a handful of gigantic evil megacorporations (Amazon, Google, Facebook&amp;hellip;). Back then, people used to meet and chat on forums or IRC or BBSes (bulletin boards, but that was even before my time), and they would code their own personal websites and build communities and exchange their thoughts and ideas in this way.&lt;/p&gt;
+&lt;p&gt;Then came the web 2.0 with Facebook, Twitter, Youtube, Instagram etc., which opened the web up to the masses, but it also ushered in an era where everyone was on the same few platforms and where everyone&amp;rsquo;s profile looks like everyone elses because that was what the platform dictated.&lt;/p&gt;
+&lt;p&gt;And then &lt;strong&gt;The Algorithm&lt;/strong&gt; was introduced and turned the internet into a miserable and dystopian hellscape filled with online bullying and hatred and outrage because that&amp;rsquo;s what gets peoples attention and is good for the bank accounts of the Zuckerbergs and Dorseys and Musks of the world, but bad for essentially the rest of us.&lt;/p&gt;
+&lt;p&gt;And that&amp;rsquo;s where we&amp;rsquo;re still at today.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;But!&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;In between the cracks of this modern, corporatized, &lt;a href=&#34;https://pluralistic.net/2023/01/21/potemkin-ai/#hey-guys&#34;&gt;enshittified&lt;/a&gt; internet where everything looks the same and everyone is out to get your data and track you and bombard you with ads there is a small world where the internet of old still (or again?) exists. Where people build small websites, talk on IRC or BBSes, and use old protocols like &lt;a href=&#34;https://en.wikipedia.org/wiki/Gopher_(protocol)&#34;&gt;gopher&lt;/a&gt; (or modernized versions like &lt;a href=&#34;https://en.wikipedia.org/wiki/Gemini_(protocol)&#34;&gt;gemini&lt;/a&gt;) and exchange information in this way, far away from the walled gardens of Facebook, Twitter and such.&lt;/p&gt;
+&lt;p&gt;Just like it was when the internet was new.&lt;/p&gt;
+&lt;p&gt;The internet of old is still alive today. You just have to look in the right places.&lt;/p&gt;
+&lt;p&gt;And I think this is beautiful, and it makes me happy, and I&amp;rsquo;m glad I discovered it.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s explore it some more on day 3 :)&lt;/p&gt;
+</description>
     </item>
     
   </channel>

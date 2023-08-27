@@ -13,7 +13,19 @@
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/posts/2023/08/updated-design-part-2/</guid>
-      <description>Who doesn&amp;rsquo;t know it: You only want to change a minor thing on the theme of the website, but you can&amp;rsquo;t seem to get it right and in the end escalate completely and rewrite the whole website from scratch.</description>
+      <description>&lt;p&gt;Who doesn&amp;rsquo;t know it: You only want to change a minor thing on the theme of the website, but you can&amp;rsquo;t seem to get it right and in the end escalate completely and rewrite the whole website from scratch.&lt;/p&gt;
+&lt;h2 id=&#34;back-story&#34;&gt;Back story:&lt;/h2&gt;
+&lt;p&gt;This website was created with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and originally had the theme &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;Papermod&lt;/a&gt;&amp;rdquo;, then &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-blog-awesome/&#34;&gt;Hugo Blog Awesome&lt;/a&gt;&amp;rdquo; and finally &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-console/&#34;&gt;Console&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;But I wasn&amp;rsquo;t really happy with any of these themes, so I had already modified the Console theme quite a bit to be more like what I wanted it to be.&lt;/p&gt;
+&lt;p&gt;Unfortunately, some things in the CSS were quite weirdly implemented, and no matter what I tried, some things just didn&amp;rsquo;t work out the way I wanted them to.&lt;/p&gt;
+&lt;h2 id=&#34;and-now&#34;&gt;And now:&lt;/h2&gt;
+&lt;p&gt;Sometime during the past week I had enough and just started to rewrite the whole site from scratch. The structure of course stays as it was before, but without all the things in the code I don&amp;rsquo;t need anyway and with a CSS that does exactly what (and only what!) I want. And with a little help from a good friend, who happens to be a web designer, I think I did a pretty good job!&lt;/p&gt;
+&lt;p&gt;Some things are still a bit rough and in need of improvement of course, and I&amp;rsquo;m sure there will be the occasional change here and there, but I think for now I have the site the way I like it and the way I imagined it.&lt;/p&gt;
+&lt;p&gt;So now the blogging can really start. More about that at the end of next week.&lt;/p&gt;
+&lt;p&gt;Oh, and a big sorry to those who have subscribed to my RSS feed, I&amp;rsquo;m afraid I&amp;rsquo;ve caused a bit of a mess there. I hope the time of big changes is over now and the site can stay the way it is for some time to come!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This is a translation of the original German post made by &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt; and then manually adapted to (hopefully) sound a bit more human&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

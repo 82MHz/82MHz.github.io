@@ -13,7 +13,12 @@
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/posts/2023/08/website-update-with-new-sections/</guid>
-      <description>Just a little announcement today, I have added two new sections to the website: Links and Bookclub.</description>
+      <description>&lt;p&gt;Just a little announcement today, I have added two new sections to the website: Links and Bookclub.&lt;/p&gt;
+&lt;p&gt;Links should be pretty self-explanatory, on this page I collect links to interesting blogs, articles, documents&amp;hellip;. everything I find interesting or worth knowing and want to share or remember for later.&lt;/p&gt;
+&lt;p&gt;Under bookclub I collect the list of books I&amp;rsquo;ve read, maybe a book review here and there and generally everything that somehow has to do with books and reading.&lt;/p&gt;
+&lt;p&gt;I mainly read either SciFi or non-fiction about psychology, society, technology and everything in between.&lt;/p&gt;
+&lt;p&gt;Suggestions and recommendations for good books that don&amp;rsquo;t yet appear here are always welcome!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,8 +27,15 @@
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/posts/2023/08/new-design-and-now-also-in-german/</guid>
-      <description>The site is barely two months old and already the first redesign is coming.
-I didn&amp;rsquo;t really warm up to the old theme, but luckily Hugo makes it really easy to change the theme.</description>
+      <description>&lt;p&gt;The site is barely two months old and already the first redesign is coming.&lt;/p&gt;
+&lt;p&gt;I didn&amp;rsquo;t really warm up to the old theme, but luckily Hugo makes it really easy to change the theme. Of course, you&amp;rsquo;re still going to spend days tinkering to get everything exactly the way you want it, and it&amp;rsquo;s still not exactly the way &lt;strong&gt;I&lt;/strong&gt; want it, but that will come in time.&lt;/p&gt;
+&lt;p&gt;Anyway, the site is now based on a modified &lt;a href=&#34;https://github.com/mrmierzejewski/hugo-theme-console&#34;&gt;Hugo Console Theme&lt;/a&gt; and, big news, it&amp;rsquo;s bilingual!&lt;/p&gt;
+&lt;p&gt;Hugo makes it incredibly easy to create a bilingual site and switch back and forth between languages. This wasn&amp;rsquo;t a thing I was even considering when I decided to use Hugo, but it&amp;rsquo;s a happy coincidence now after all.&lt;/p&gt;
+&lt;p&gt;My plan is to write the posts in German, because I&amp;rsquo;ve always felt a bit weird writing everything in English (a foreign language for me) and then translating the German posts into English with &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt;. Maybe go over it again so that it sounds like me and not like an AI.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s see how I get on with it. I won&amp;rsquo;t translate the older posts into German for now, but I think we can live with that.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This is a translation of the &lt;a href=&#34;https://82mhz.net/de/posts/redesign&#34;&gt;original German post&lt;/a&gt; made by &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt; and then manually adapted to (hopefully) sound a bit more human&lt;/em&gt;&lt;/p&gt;
+</description>
     </item>
     
   </channel>

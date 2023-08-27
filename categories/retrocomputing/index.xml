@@ -13,7 +13,53 @@
       <pubDate>Sat, 15 Jul 2023 15:11:27 +0200</pubDate>
       
       <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-5-youtube-videos-on-an-ipod-classic/</guid>
-      <description>Note This is only semi-related to the OldComputerChallenge, but I revisited the idea of downloading videos from Youtube and putting them on an old iPod.</description>
+      <description>&lt;h4 id=&#34;note&#34;&gt;Note&lt;/h4&gt;
+&lt;p&gt;This is only semi-related to the OldComputerChallenge, but I revisited the idea of downloading videos from Youtube and putting them on an old iPod. I had already figured out the commands a while ago, but I had to refresh my memory from my bash history and because I figure this might actually be of interest to some people, I wrote it as a tutorial.&lt;/p&gt;
+&lt;p&gt;Again, this is about downloading videos from Youtube and putting them on the iPod, not about accessing Youtube straight from the iPod. That&amp;rsquo;s not possible because iPods (apart from the iPod touch, which is basically an iPhone) don&amp;rsquo;t have wifi.&lt;/p&gt;
+&lt;h4 id=&#34;introduction&#34;&gt;Introduction&lt;/h4&gt;
+&lt;p&gt;A while ago I got into old iPods (of course like so many people thanks to a certain &lt;a href=&#34;https://yewtu.be/channel/UC7Jwj9fkrf1adN4fMmTkpug&#34;&gt;easily excitable australian youtuber&lt;/a&gt;) and got myself an old iPod Classic with a 160GB harddisk.&lt;/p&gt;
+&lt;p&gt;I remember thinking back then that they looked really amazing and that 160GB was just a phenomenal amount of storage, enough for my entire music collection at the time, but of course being a university student who was just barely getting by financially there was no way I could afford one.&lt;/p&gt;
+&lt;p&gt;Fast forward a decade and a half later, thankfully I have an income now and old iPods have come down in price as well (double win!), so the time had come to get one.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://82mhz.net/iPodClassic.jpg&#34; alt=&#34;iPodClassic&#34;&gt;&lt;/p&gt;
+&lt;p&gt;Of course the first thing I did was to put &lt;a href=&#34;https://www.rockbox.org&#34;&gt;Rockbox&lt;/a&gt; on it, and here it is running the fantastic &lt;a href=&#34;https://github.com/D0-0K/adwaitapod&#34;&gt;Adawaitapod&lt;/a&gt; theme by &lt;a href=&#34;https://d00k.net/&#34;&gt;D00k&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;So then putting music and podcasts and audiobooks on it is pretty straightforward, just copy your MP3s, OGGs, FLACs etc. over and you&amp;rsquo;re good to go! No iTunes, no messing around trying to get libgtkpod working, it just works like any other MP3-Player, you mount it as a USB-storage device on your computer, copy the files over and that&amp;rsquo;s it. The way it&amp;rsquo;s supposed to be.&lt;/p&gt;
+&lt;p&gt;But wait, this thing can play videos too, right? Could it be possible to rip videos from youtube and put them on the iPod so I can strain my eyes watching them on a way too tiny screen like it&amp;rsquo;s 2005?&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;p&gt;Of course it is, I wouldn&amp;rsquo;t have wasted your time with this introduction if it wasn&amp;rsquo;t.&lt;/p&gt;
+&lt;h4 id=&#34;necessary-software&#34;&gt;Necessary software&lt;/h4&gt;
+&lt;p&gt;You need two pieces of software:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yt-dlp/yt-dlp&#34;&gt;yt-dlp&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://ffmpeg.org/&#34;&gt;ffmpeg&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Where to get them and how to install them depends on your OS and distro of choice of course, so I&amp;rsquo;m not going to write up a tutorial about that, I&amp;rsquo;m going to assume you can figure it out and have it installed.&lt;/p&gt;
+&lt;h4 id=&#34;ripping-the-videos-from-youtube-with-yt-dlp&#34;&gt;Ripping the video(s) from Youtube with yt-dlp&lt;/h4&gt;
+&lt;p&gt;First, get the URL of the youtube-video you would like to rip. Just open the video in your browser and copy it from your browsers address bar.&lt;/p&gt;
+&lt;p&gt;Then, run yt-dlp with the URL as parameter, and I like to tell it to rip the 480p version of the video to save bandwidth. We need to make the video even smaller for the iPod, so there is no point in downloading the full 1080p or 4k file.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; $ yt-dlp -S &amp;#34;res:480&amp;#34; &amp;#39;https://www.youtube.com/XXXXX&amp;#39;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Note the quotation marks (&amp;rsquo;), they are necessary in case the youtube link contains characters that the shell would interpret as special characters.&lt;/p&gt;
+&lt;p&gt;This works on playlists too btw! Just get the URL of the playlist instead and run yt-dlp like so:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; $ yt-dlp -S &amp;#34;res:480&amp;#34; --yes-playlist &amp;#39;https://www.youtube.com/watch?v=XXXXX&amp;#39;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Now we will most likely end up with a video (or videos) in the &lt;em&gt;webm&lt;/em&gt; file format. That&amp;rsquo;s nice, but way too modern and high-res for our tiny little iPod. So let&amp;rsquo;s make it smaller and crappier!&lt;/p&gt;
+&lt;h4 id=&#34;converting-for-the-ipod-with-ffmpeg&#34;&gt;Converting for the iPod with ffmpeg&lt;/h4&gt;
+&lt;p&gt;And here we come across an unfortunate issue. The iPod is modern enough to be able to decode h.264 videos in hardware, but Rockbox has no support for it and can only decode the older (and worse) mpeg2 standard. What this means in practice is that we need to convert the videos to mpeg2 which creates bigger files than h.264 at a comparable quality or worse looking video at the same filesize. Quality is of less concern in my opinion, because the iPods screen is tiny and a few compression artefacts here and there only add to the retro experience, but filesize might be important if you don&amp;rsquo;t have a lot of space available on the iPod.&lt;/p&gt;
+&lt;p&gt;Either way, we now need to fire up ffmpeg to convert the video to a format the iPod (and Rockbox) understands. The command is pretty straightforward, the for loop is only necessary if you have downloaded multiple videos, but it also works if you have only one video, so I only ever use this line:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; $ for i in *.webm; do ffmpeg -i &amp;#34;$i&amp;#34; -c:v mpeg2video -b:v 4000k -acodec libmp3lame -ab 192k -vf scale=320:-1 &amp;#34;${i%.*}.mpg&amp;#34;; done
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In order to change the filesize (and quality), you can play around with the video bitrate (the number after -b:v) and the audio bitrate (the number after -ab) until you have the right values dialed in for your usecase. The bitrates above work well for me, so I&amp;rsquo;m happy with them.&lt;/p&gt;
+&lt;p&gt;Now if everything went well, you have a bunch of video files in your folder with the extension *&lt;em&gt;mpg&lt;/em&gt;, and you can just copy them over to your iPod, open them in Rockbox like any other file and enjoy your favorite 80s music videos on the go! (I know that&amp;rsquo;s what you came here for ;) )&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;https://82mhz.net/iPodClassicMJ.jpg&#34; alt=&#34;iPodClassic&#34;&gt;&lt;/p&gt;
+&lt;p&gt;(It looks better in person btw., my camera is not the greatest. But the iPods screen is actually pretty nice for its age!)&lt;/p&gt;
+&lt;h4 id=&#34;bonus-round-converting-to-h264-for-the-original-ipod-software&#34;&gt;Bonus round: Converting to h.264 for the original iPod software&lt;/h4&gt;
+&lt;p&gt;Like I mentioned, the iPod is capable of playing h.264 videos, so if you&amp;rsquo;re still rocking the original Apple software, you can also convert you videos to a higher quality (and smaller filesize) codec like this:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; for i in *.webm; do ffmpeg -i &amp;#34;$i&amp;#34; -f mp4 -vcodec mpeg4 -vf scale=-2:320 -maxrate 1536k -b:v 768k -qmin 3 -qmax 5 -bufsize 4096k -g 300 -c:a aac -b:a 192k -ar 44100 -ac 2 &amp;#34;${i%.*}.mp4&amp;#34;; done
+&lt;/code&gt;&lt;/pre&gt;&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;The iPod Classic which I have came out in 2007 but the first iPod to allow video playback, the iPod Video, was released in 2005. They are technically very similar and have the same screen.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
     </item>
     
   </channel>

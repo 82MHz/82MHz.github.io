@@ -13,7 +13,17 @@
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/de/posts/2023/08/designupdate-teil-2/</guid>
-      <description>Man kennt es: Man will nur eine Kleinigkeit am Theme der Webseite verändern, bekommts aber nicht hin und eskaliert dann am Schluss völlig und schreibt kurzerhand die ganze Webseite neu.</description>
+      <description>&lt;p&gt;Man kennt es: Man will nur eine Kleinigkeit am Theme der Webseite verändern, bekommts aber nicht hin und eskaliert dann am Schluss völlig und schreibt kurzerhand die ganze Webseite neu.&lt;/p&gt;
+&lt;h2 id=&#34;vorgeschichte&#34;&gt;Vorgeschichte:&lt;/h2&gt;
+&lt;p&gt;Diese Webseite ist mit &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; erstellt und hatte ursprünglich das Theme &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;Papermod&lt;/a&gt;&amp;rdquo;, danach &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-blog-awesome/&#34;&gt;Hugo Blog Awesome&lt;/a&gt;&amp;rdquo; und zuletzt &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-console/&#34;&gt;Console&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;So richtig happy war ich aber mit keinem dieser Themen, deswegen hab ich das Console-Thema schon recht stark modifiziert, um eher dem zu entsprechen, was ich gerne hätte.&lt;/p&gt;
+&lt;p&gt;Leider waren aber einige Dinge im CSS doch recht stark verbastelt, und egal was ich probiert hab, manche Sachen habe ich einfach nicht so hinbekommen, wie ich es gerne hätte.&lt;/p&gt;
+&lt;h2 id=&#34;und-jetzt&#34;&gt;Und jetzt:&lt;/h2&gt;
+&lt;p&gt;Irgendwann im Lauf der vergangenen Woche hatte ich dann genug und hab einfach begonnen, die ganze Seite nochmal von Grund auf neu zu schreiben. Von der Struktur bleibt sie so wie sie bisher war, aber ohne die ganzen Dinge im Code, die ich eh nicht brauche und mit einem CSS, das genau das (und nur das!) tut, was ich haben will. Und mit etwas Hilfe von einer guten Freundin, die praktischerweise Webdesignerin ist, finde ich habe ich das auch recht gut hinbekommen!&lt;/p&gt;
+&lt;p&gt;Einige Dinge sind schon noch etwas grob und verbesserungsbedürftig, und sicher wird noch die eine oder andere Änderung kommen, aber ich glaub für jetzt hab ich die Seite erstmal so, wie sie mir gefällt und wie ich sie mir vorgestellt hab.&lt;/p&gt;
+&lt;p&gt;Jetzt kann das Bloggen also richtig losgehen. Mehr dazu Ende der nächsten Woche.&lt;/p&gt;
+&lt;p&gt;Ach und sorry an diejenigen, die meinen RSS-Feed abonniert haben, ich fürchte ich hab da etwas Chaos verursacht. Ich hoffe, die Zeit der großen Änderungen ist jetzt erstmal vorbei und die Seite kann für längere Zeit so bestehen, wie sie jetzt ist!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -22,7 +32,12 @@
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/de/posts/2023/08/website-update-mit-neuen-rubriken/</guid>
-      <description>Nur eine kleine Ankündigung heute, ich habe zwei neue Rubriken auf der Webseite eingebaut: Links und Buchclub.</description>
+      <description>&lt;p&gt;Nur eine kleine Ankündigung heute, ich habe zwei neue Rubriken auf der Webseite eingebaut: Links und Buchclub.&lt;/p&gt;
+&lt;p&gt;Links sollte relativ selbsterklärend sein, auf dieser Seite sammle ich Links zu interessanten Blogs, Artikeln, Dokumenten&amp;hellip; alles was ich interessant oder wissenswert finde und teilen oder für später festhalten möchte.&lt;/p&gt;
+&lt;p&gt;Unter Buchclub sammle ich die Liste der Bücher, die ich gelesen habe, vielleicht die eine oder andere Buchrezension und generell alles, was irgendwie mit Büchern und Lesen zu tun hat.&lt;/p&gt;
+&lt;p&gt;Hauptsächlich lese ich entweder Science Fiction oder Sachbücher über Psychologie, Gesellschaft, Technologie und alles, was sich im Spannungsfeld dazwischen bewegt.&lt;/p&gt;
+&lt;p&gt;Vorschläge und Empfehlungen für gute Bücher, die hier noch nicht auftauchen, sind jederzeit gern gesehen!&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -31,7 +46,233 @@
       <pubDate>Sun, 13 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/de/bookclub/</guid>
-      <description>Anfang 2021 habe ich mir zum Ziel gesetzt, ein Buch pro Woche zu lesen (inspiriert durch dieses Video).</description>
+      <description>&lt;p&gt;Anfang 2021 habe ich mir zum Ziel gesetzt, ein Buch pro Woche zu lesen (inspiriert durch &lt;a href=&#34;https://www.youtube.com/watch?v=ViRxtqu1AEE&#34;&gt;dieses Video&lt;/a&gt;).&lt;/p&gt;
+&lt;p&gt;Und seither ziehe ich das mit einigen Ausnahmen auch durch.  Dieses Jahr habe ich die Regeln etwas relaxed und mir mehr Zeit für Bücher gelassen und auch mal Bücher wieder beiseite gelegt, wenn sie nicht die richtigen waren, aber ich lese (schon immer) wahnsinnig gerne und immer noch ziemlich viel.&lt;/p&gt;
+&lt;p&gt;Deswegen teile ich hier meine Leselisten der letzten Jahre und vielleicht künftig auch die eine oder andere Buchkritik, wenn mir danach ist.&lt;/p&gt;
+&lt;p&gt;Ich lese Bücher mal auf Deutsch, mal auf Englisch, mal auf Papier, oft auf meinem Reader (einem Tolino), und manchmal zieh ich mir auch entspannt ein Hörbuch rein. Ganz nach Lust und Laune.&lt;/p&gt;
+&lt;details&gt;
+&lt;summary&gt;&lt;b&gt;Bücher gelesen 2023&lt;/b&gt;&lt;/summary&gt;
+&lt;h5 id=&#34;august&#34;&gt;August&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Margaret Atwood&lt;/em&gt;: The Handmaids Tale&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Steve Wozniak&lt;/em&gt;: iWoz&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Natalie Goldberg&lt;/em&gt;: Writing down the Bones&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;juli&#34;&gt;Juli&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Sabine Dardenne&lt;/em&gt;: Ihm in die Augen sehen&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Joe Haldeman&lt;/em&gt;: Forever Free&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Veit Etzold&lt;/em&gt;: Dark Web&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;juni&#34;&gt;Juni&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Arthur C. Clarke&lt;/em&gt;: Rendezvous mit Rama&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Greg McKeown&lt;/em&gt;: Multipliers&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Greg McKeown&lt;/em&gt;: Essentialism&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Greg McKeown&lt;/em&gt;: Effortless&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;mai&#34;&gt;Mai&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Joe Haldeman&lt;/em&gt;: The Forever War&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Tom Hillebrandt&lt;/em&gt;: Drohnenland&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Max Brooks&lt;/em&gt;: Devolution&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;april&#34;&gt;April&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;J.K. Rowling&lt;/em&gt;: Harry Potter und der Gefangene von Askaban [Hörbuch]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;J.K. Rowling&lt;/em&gt;: Harry Potter und der Orden des Phoenix [Hörbuch]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;J.K. Rowling&lt;/em&gt;: Harry Potter und der Halbblutprinz [Hörbuch]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;J.K. Rowling&lt;/em&gt;: Harry Potter und die Heiligtümer des Todes  [Hörbuch]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Prince Harry&lt;/em&gt;: Spare&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;märz&#34;&gt;März&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Ryan Holiday&lt;/em&gt;: Conspiracy: Peter Thiel, Hulk Hogan, Gawker, and the Anatomy of Intrigue&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Daniel Suarez&lt;/em&gt;: Kill Decision&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Cal Newport&lt;/em&gt;: Eine Welt ohne E-Mail&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Christopher Browning&lt;/em&gt;: Ordinary Men&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;J.K. Rowling&lt;/em&gt;: Harry Potter und der Stein der Weisen [Hörbuch]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;J.K. Rowling&lt;/em&gt;: Harry Potter und die Kammer des Schreckens [Hörbuch]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;C.S.Lewis&lt;/em&gt;: Das Wunder von Narnia&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;J.K. Rowling&lt;/em&gt;: Harry Potter und der Feuerkelch [Hörbuch]&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;februar&#34;&gt;Februar&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Blake Crouch&lt;/em&gt;: Recursion&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Katy Milkman&lt;/em&gt;: How to change&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Stanislaw Lem&lt;/em&gt;: Solaris [Hörbuch]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Blake Crouch&lt;/em&gt;: Dark Matter&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h5 id=&#34;januar&#34;&gt;Januar&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Terry Pratchett, Stephen Baxter&lt;/em&gt;: Das Lange Utopia [Hörbuch]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Terry Pratchett, Stephen Baxter&lt;/em&gt;: Der Lange Kosmos [Hörbuch]&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Logan Ury&lt;/em&gt;: How to not die alone&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Oliver Sax&lt;/em&gt;: Awakenings&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;&lt;b&gt;Bücher gelesen 2022&lt;/b&gt;&lt;/summary&gt;
+&lt;ol&gt;
+&lt;li&gt;Söhnke Ahrens: How to Take Smart Notes: One Simple Technique to Boost Writing, Learning and Thinking – for Students, Academics and Nonfiction Book Writers&lt;/li&gt;
+&lt;li&gt;Martha Wells: Tagebuch eines Killerbots (Murderbot diaries)&lt;/li&gt;
+&lt;li&gt;Chade-Meng Tan: Search Inside Yourself&lt;/li&gt;
+&lt;li&gt;Martha Wells: Der Netzwerkeffekt (Murderbot diaries)&lt;/li&gt;
+&lt;li&gt;Katharina Nocun, Pia Lamberty: Fake Facts. Wie Verschwörungstheorien unser Denken bestimmen&lt;/li&gt;
+&lt;li&gt;Katharina Nocun, Pia Lamberty: True Facts. Was gegen Verschwörungserzählungen wirklich hilft&lt;/li&gt;
+&lt;li&gt;Cal Newport: So good they can&amp;rsquo;t ignore you&lt;/li&gt;
+&lt;li&gt;Oliver Burkeman: Four Thousand Weeks&lt;/li&gt;
+&lt;li&gt;Dan Ariely: Predictably Irrational&lt;/li&gt;
+&lt;li&gt;Donald Hoffman: Relativ real (The Case Against Reality: Why Evolution Hid the Truth from Our Eyes)&lt;/li&gt;
+&lt;li&gt;Lisa Brennan-Jobs: Beifang (Small Fry)&lt;/li&gt;
+&lt;li&gt;Jacob Ward: The Loop: How Technology is Creating a World Without Choices and How to Fight Back&lt;/li&gt;
+&lt;li&gt;Russ Harris: Wer dem Glück hinterherrennt läuft daran vorbei (The Happiness Trap)&lt;/li&gt;
+&lt;li&gt;Devon Price: Laziness does not exist: A Defense of the Exhausted, Exploited, and Overworked&lt;/li&gt;
+&lt;li&gt;Scott Young: Ultralearning: Master Hard Skills, Outsmart the Competition, and Accelerate Your Career&lt;/li&gt;
+&lt;li&gt;Hannah Fry: Hello World: How to be Human in the Age of the Machine&lt;/li&gt;
+&lt;li&gt;Jenny Odell: How to Do Nothing: Resisting the Attention Economy&lt;/li&gt;
+&lt;li&gt;Laura Vanderkam: 168 Hours: You have more time than you think&lt;/li&gt;
+&lt;li&gt;Kurt Krömer: Du darfst nicht alles glauben, was du denkst: Meine Depression&lt;/li&gt;
+&lt;li&gt;Andreas Eschbach: Das Jesus-Video&lt;/li&gt;
+&lt;li&gt;Susan Cain: Bittersweet: How Sorrow and Longing make us whole&lt;/li&gt;
+&lt;li&gt;Clayton Christensen: How will you measure your life&lt;/li&gt;
+&lt;li&gt;Dan Brown: Sakrileg (The Da Vinci Code)&lt;/li&gt;
+&lt;li&gt;Stefanie Stahl: Jeder ist beziehungsfähig&lt;/li&gt;
+&lt;li&gt;William Gibson: The Peripheral&lt;/li&gt;
+&lt;li&gt;Jasmin Lee Cori: Wenn die Mutterliebe fehlte (The Emotionally Absent Mother)&lt;/li&gt;
+&lt;li&gt;Tom Hillenbrand: Qube&lt;/li&gt;
+&lt;li&gt;Robert Augustus Masters: To Be A Man&lt;/li&gt;
+&lt;li&gt;James Lovell, Jeffrey Kluger: Apollo 13 (Lost Moon)&lt;/li&gt;
+&lt;li&gt;Tom Hillenbrand: Hologrammatica&lt;/li&gt;
+&lt;li&gt;Philipp P. Peterson: Vakuum&lt;/li&gt;
+&lt;li&gt;Tiago Forte: Building a second Brain&lt;/li&gt;
+&lt;li&gt;Delia Owens: Der Gesang der Flusskrebse&lt;/li&gt;
+&lt;li&gt;Barbara Ehrenreich: Bright-Sided: How the Relentless Promotion of Positive Thinking Has Undermined America&lt;/li&gt;
+&lt;li&gt;Mai Thi Nguyen-Kim: Die kleinste gemeinsame Wirklichkeit&lt;/li&gt;
+&lt;li&gt;Max Chafkin: The Contrarian: Peter Thiel and Silicon Valley&amp;rsquo;s Pursuit of Power&lt;/li&gt;
+&lt;li&gt;William MacAskill: Gutes besser tun&lt;/li&gt;
+&lt;li&gt;Christiane F: Wir Kinder vom Bahnhof Zoo&lt;/li&gt;
+&lt;li&gt;Matthew Walker: Why we sleep&lt;/li&gt;
+&lt;li&gt;Viktor Frankl: Trotzdem ja zum Leben sagen&lt;/li&gt;
+&lt;li&gt;William MacAskill: What we owe the Future&lt;/li&gt;
+&lt;li&gt;David Brooks: The Second Mountain: The Quest for a Moral Life&lt;/li&gt;
+&lt;li&gt;Matthew Ball: The Metaverse: And How it Will Revolutionize Everything&lt;/li&gt;
+&lt;li&gt;Dave Cullen: Columbine&lt;/li&gt;
+&lt;li&gt;Jens-Michael Wüstel: Männliche Depression&lt;/li&gt;
+&lt;li&gt;Chris Hadfield: Die Apollo-Morde&lt;/li&gt;
+&lt;li&gt;Francesca Specter: Alonement: How to be alone &amp;amp; absolutely own it&lt;/li&gt;
+&lt;li&gt;Michael Crichton: The Andromeda Strain&lt;/li&gt;
+&lt;li&gt;Gene Kranz: Failure is not an Option&lt;/li&gt;
+&lt;li&gt;Terry Pratchett, Stephen Baxter: Die Lange Erde&lt;/li&gt;
+&lt;li&gt;Agatha Christie: And then there were none&lt;/li&gt;
+&lt;li&gt;Terry Pratchett, Stephen Baxter: Der Lange Krieg&lt;/li&gt;
+&lt;li&gt;Johann Hari: Stolen Focus&lt;/li&gt;
+&lt;li&gt;Dimitri Glukhowsky: Metro 2033&lt;/li&gt;
+&lt;li&gt;Michael Crichton: Andromeda Evolution&lt;/li&gt;
+&lt;li&gt;Terry Pratchett, Stephen Baxter: Der Lange Mars&lt;/li&gt;
+&lt;li&gt;Dimitri Glukhowsky: Metro 2034&lt;/li&gt;
+&lt;li&gt;Dan Hanks: Swashbucklers&lt;/li&gt;
+&lt;li&gt;Cal Newport: How to Become a Straight-A Student&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/details&gt;
+&lt;details&gt;
+&lt;summary&gt;&lt;b&gt;Bücher gelesen 2021&lt;/b&gt;&lt;/summary&gt;
+&lt;ol&gt;
+&lt;li&gt;Sigrid Nesterenko: Das unterschätzte Epstein Barr Virus: Was tun bei einer chronischen EBV-Infektion?&lt;/li&gt;
+&lt;li&gt;Andreas Michalsen: Heilen mit der Kraft der Natur&lt;/li&gt;
+&lt;li&gt;Jakob Lund Fisker: Early Retirement Extreme&lt;/li&gt;
+&lt;li&gt;Ash Ali &amp;amp; Hasan Kubba: The unfair advantage&lt;/li&gt;
+&lt;li&gt;Maren Schneider: Stressfrei durch Meditation&lt;/li&gt;
+&lt;li&gt;Mike Cernovich: Gorilla Mindset&lt;/li&gt;
+&lt;li&gt;Aldous Huxlex: Brave New World (Audiobook)&lt;/li&gt;
+&lt;li&gt;Morgan Housel: The Psychology of Money&lt;/li&gt;
+&lt;li&gt;Alexandra Barton: Recovery from CFS&lt;/li&gt;
+&lt;li&gt;Austin Kleon: Show your Work&lt;/li&gt;
+&lt;li&gt;Donald Miller: A Million Miles in a Thousand Years&lt;/li&gt;
+&lt;li&gt;Austin Kleon: Keep going&lt;/li&gt;
+&lt;li&gt;David Beales, Janice Benning, Helen Whitten, Julia MacDonald, Gina Johnson: Reclaim Health&lt;/li&gt;
+&lt;li&gt;Austin Kleon: Steal like an Artist&lt;/li&gt;
+&lt;li&gt;Ken Dychtwald: Körperbewusstsein&lt;/li&gt;
+&lt;li&gt;Jeff Haden: The Motivation Myth&lt;/li&gt;
+&lt;li&gt;James Clear: Atomic Habits&lt;/li&gt;
+&lt;li&gt;Gerd Kommer: Souverän investieren mit Indexfonds &amp;amp; ETFs&lt;/li&gt;
+&lt;li&gt;Eckhart Tolle: A New Earth&lt;/li&gt;
+&lt;li&gt;Jacob Teitelbaum: From Fatigued to Fantastic&lt;/li&gt;
+&lt;li&gt;Andreas Joppe: On/Off Gesundheit&lt;/li&gt;
+&lt;li&gt;Steven Pressfield: The War of Art (Audiobook)&lt;/li&gt;
+&lt;li&gt;Steven Pressfield: Turning Pro (Audiobook)&lt;/li&gt;
+&lt;li&gt;Steven Pressfield: Do the work&lt;/li&gt;
+&lt;li&gt;Tim Ferriss: Die 4-Stunden Woche&lt;/li&gt;
+&lt;li&gt;Stephen King: The Green Mile&lt;/li&gt;
+&lt;li&gt;Brown, Peter C., Roediger, Henry L., McDaniel, Mark A.: Make it stick&lt;/li&gt;
+&lt;li&gt;Yuval Noah Harari: Eine kurze Geschichte der Menschheit&lt;/li&gt;
+&lt;li&gt;Angelika Gulder: Aufgewacht!: Finde das Leben, das dich glücklich macht.&lt;/li&gt;
+&lt;li&gt;Andrew Bunnie Huang: The Hardware Hacker:Adventures in Making and Breaking Hardware&lt;/li&gt;
+&lt;li&gt;David Kushner: Masters of Doom&lt;/li&gt;
+&lt;li&gt;Bob Pape: It&amp;rsquo;s behind you&lt;/li&gt;
+&lt;li&gt;Shunmyo Masuno: Zen your LIfe&lt;/li&gt;
+&lt;li&gt;Neil DeGrasse Tyson: Das Universum für Eilige&lt;/li&gt;
+&lt;li&gt;Dalai Lama: Die Lehren des tibetischen Buddhismus&lt;/li&gt;
+&lt;li&gt;Florian Anwander: Synthesizer: So funktioniert elektronische Klangerzeugung&lt;/li&gt;
+&lt;li&gt;Sivananda Yoga Vedanta Zentrum: Ayurveda&lt;/li&gt;
+&lt;li&gt;Brockhaus: 50 Jahre Deutsche Geschichte 1949 - 1999&lt;/li&gt;
+&lt;li&gt;Cal Newport: Deep work&lt;/li&gt;
+&lt;li&gt;Sheera Frenkel &amp;amp; Cecilia Kang: An Ugly Truth: Inside Facebook&amp;rsquo;s Battle for Domination&lt;/li&gt;
+&lt;li&gt;Toby Walsh: It&amp;rsquo;s alive: Wie künstliche Intelligenz unser Leben verändern wird&lt;/li&gt;
+&lt;li&gt;Cal Newport: Digital Minimalism: Choosing a Focused Life in a Noisy World&lt;/li&gt;
+&lt;li&gt;Carol Dweck: Mindset: The New Psychology of Success&lt;/li&gt;
+&lt;li&gt;Linus Torvalds: Just for Fun&lt;/li&gt;
+&lt;li&gt;Bill Burnett &amp;amp; Dave Evans: Designing your Life&lt;/li&gt;
+&lt;li&gt;Bill Gates: Wie wir die Klimakatastrophe verhindern (How to Avoid a Climate Disaster: The Solutions We Have and the Breakthroughs We Need)&lt;/li&gt;
+&lt;li&gt;John Carreyrou: Bad Blood: Secrets and Lies in a Silicon Valley Startup&lt;/li&gt;
+&lt;li&gt;Andy Weir: Der Astronaut (Project Hail Mary)&lt;/li&gt;
+&lt;li&gt;Jonathan Haidt: The Righteous Mind&lt;/li&gt;
+&lt;li&gt;Sahra Wagenknecht: Die Selbsgerechten&lt;/li&gt;
+&lt;li&gt;Wolfgang Kaleck: Mit Recht gegen die Macht. Unser weltweiter Kampf für die Menschenrechte&lt;/li&gt;
+&lt;li&gt;Nils Melzer: Der Fall Julian Assange: Geschichte einer Verfolgung&lt;/li&gt;
+&lt;li&gt;MJ DeMarco: The Millionaire Fastlane&lt;/li&gt;
+&lt;li&gt;Mary L Trump: The Reckoning&lt;/li&gt;
+&lt;li&gt;Angela Duckworth: Grit&lt;/li&gt;
+&lt;li&gt;Richard Matheson: I am Legend&lt;/li&gt;
+&lt;li&gt;JD Salinger: the catcher in the rye&lt;/li&gt;
+&lt;li&gt;John Brunner: The Shockwaverider&lt;/li&gt;
+&lt;li&gt;Michael E. Gerber: The E-Myth revisited&lt;/li&gt;
+&lt;li&gt;Cornelius Granig: Darknet: die Welt im Schatten der Computerkriminalität&lt;/li&gt;
+&lt;li&gt;Sascha Lobo: Realitätsschock&lt;/li&gt;
+&lt;li&gt;Stefan Mey: Darknet&lt;/li&gt;
+&lt;li&gt;James S.A. Corey: Leviathan Falls&lt;/li&gt;
+&lt;li&gt;Karl Pillemer: 30 Lessons for Living: Tried and True Advice from the Wisest Americans&lt;/li&gt;
+&lt;li&gt;Raelan Agle: Finding Freedom: Escaping from the Prison of Chronic Fatigue Syndrome&lt;/li&gt;
+&lt;li&gt;Arun Gandhi: Wut ist ein Geschenk&lt;/li&gt;
+&lt;li&gt;Michael Ende: Der satanarchäolügenialkohöllische Wunschpunsch&lt;/li&gt;
+&lt;li&gt;Christian Stöcker: Das Experiment sind wir&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/details&gt;
+&lt;br/&gt;
+&lt;details&gt;
+&lt;summary&gt;&lt;b&gt;Leseliste für die Zukunft&lt;/b&gt;&lt;/summary&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;Stephen Baxter&lt;/em&gt;: Nasa-Trilogie (Ares, Titan, Moonseed)&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;David Sax&lt;/em&gt;: The revenge of analog&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;David Sax&lt;/em&gt;: The Future of analog&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Gloria Mark&lt;/em&gt;: attention span&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Matthew Dicks&lt;/em&gt;: Storyworthy&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Andrew Carnegie&lt;/em&gt;: how to stop worrying and start living&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Jessica Brody&lt;/em&gt;: Save the Cat! Writes a Novel: The Last Book On Novel Writing You&amp;rsquo;ll Ever Need&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Blake Snyder&lt;/em&gt;: Save the Cat!: The Last Book on Screenwriting You&amp;rsquo;ll Ever Need&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Ezra Klein&lt;/em&gt;: Why we&amp;rsquo;re polarized&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Derren Brown&lt;/em&gt;: Happy&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Daniel Coyle&lt;/em&gt;: the little book of talent&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Andreas M. Antonopoulos&lt;/em&gt;: The Internet of Money&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Michael Collins&lt;/em&gt; Carrying the Fire&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Bjorn Lomborg&lt;/em&gt;: False Alarm&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Mona Simpson&lt;/em&gt;: A regular Guy&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Thomas Piketty&lt;/em&gt;: Das Kapital im 21. Jahrhundert&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;Michael C. Bauer, Laura Deinzer&lt;/em&gt;: Zwischen Wahn und Wahrheit&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/details&gt;
+&lt;p&gt;Wenn ihr Empfehlungen für Bücher habt, die mir gefallen könnten oder die ich lesen sollte, dann bitte immer her damit! Man kann nie genügend Bücher zur Auswahl haben :)&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -40,8 +281,13 @@
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/de/posts/2023/08/neues-design-und-jetzt-auch-auf-deutsch/</guid>
-      <description>Kaum ist die Seite zwei Monate alt, kommt schon das erste Redesign.
-Mit dem alten Aussehen wurde ich nicht so recht warm, aber Hugo macht es ja zum Glück recht einfach, das Theme auszutauschen.</description>
+      <description>&lt;p&gt;Kaum ist die Seite zwei Monate alt, kommt schon das erste Redesign.&lt;/p&gt;
+&lt;p&gt;Mit dem alten Aussehen wurde ich nicht so recht warm, aber Hugo macht es ja zum Glück recht einfach, das Theme auszutauschen. Dann hängt man natürlich trotzdem nochmal tagelang dran, um alles genauso hinzubiegen, wie man das gerne hätte, und es ist immer noch nicht so richtig so, wie ich es mir vorstelle, aber das wird mit der Zeit schon noch.&lt;/p&gt;
+&lt;p&gt;Auf jeden Fall basiert die Seite jetzt auf einem modifizierten &lt;a href=&#34;https://github.com/mrmierzejewski/hugo-theme-console&#34;&gt;Hugo Console Theme&lt;/a&gt; und, große Neuerung, sie ist zweisprachig!&lt;/p&gt;
+&lt;p&gt;Hugo macht es erstaunlich einfach, eine zweisprachige Seite zu erzeugen und zwischen den Sprachen hin- und herzuschalten. Das hatte ich überhaupt nicht auf dem Schirm, als ich mich für Hugo entschieden hatte, aber es ist jetzt doch eine glückliche Fügung.&lt;/p&gt;
+&lt;p&gt;Mein Plan ist es, die Beiträge auf Deutsch zu schreiben, weil ich mich immer ein bisschen komisch gefühlt habe, alles auf Englisch (einer Fremdsprache für mich) zu schreiben und dann die deutschen Beiträge mit &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt; ins Englische zu übersetzen. Vielleicht nochmal drüberzugehen, damit es auch klingt, als wäre es von mir und nicht von einer KI.&lt;/p&gt;
+&lt;p&gt;Mal sehen, wie ich damit zurande komme. Die älteren Beiträge übersetze ich jetzt erstmal nicht ins Deutsche, aber ich denke das ist zu verschmerzen.&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -50,8 +296,12 @@ Mit dem alten Aussehen wurde ich nicht so recht warm, aber Hugo macht es ja zum 
       <pubDate>Wed, 12 Jul 2023 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/de/about/</guid>
-      <description>Hi, deutsche Version hier.
-Why 82MHz? Well one part comes from my year of birth, the other from the fact that I studied electrical engineering with a specialization in audio and telecommunications&amp;hellip; get it?</description>
+      <description>&lt;p&gt;Hi, deutsche Version hier.&lt;/p&gt;
+&lt;p&gt;Why 82MHz? Well one part comes from my year of birth, the other from the fact that I studied electrical engineering with a specialization in audio and telecommunications&amp;hellip; get it?&lt;/p&gt;
+&lt;p&gt;Anyway, I&amp;rsquo;m an embedded software developer in my day job and outside of that I am most interested in music (with lots of guitars or lots of synths), coding, free software, retro computing and generally tinkering around with all kinds of tech. I often start projects and have a hard time finishing them, so I hope posting about them online will help my procrastination habits a little.&lt;/p&gt;
+&lt;p&gt;I also read a lot, mostly SciFi or non-fiction about psychology, tech, society&amp;hellip; whatever I find fascinating at the moment.&lt;/p&gt;
+&lt;p&gt;This site is made with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; with &lt;a href=&#34;https://github.com/mrmierzejewski/hugo-theme-console/&#34;&gt;Console Theme&lt;/a&gt;&lt;/p&gt;
+</description>
     </item>
     
     <item>
@@ -60,7 +310,54 @@ Why 82MHz? Well one part comes from my year of birth, the other from the fact th
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/de/links/</guid>
-      <description>Hier sind einige Links, die ich im Laufe der Zeit gesammelt habe und hier teilen oder einfach für die Zukunft festhalten will.</description>
+      <description>&lt;p&gt;Hier sind einige Links, die ich im Laufe der Zeit gesammelt habe und hier teilen oder einfach für die Zukunft festhalten will.&lt;/p&gt;
+&lt;p&gt;Wenn euch tote Links unterkommen, sagt mir gerne Bescheid.&lt;/p&gt;
+&lt;h3 id=&#34;small-net-blogs&#34;&gt;Small Net Blogs&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;web&lt;/strong&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://d00k.net/&#34;&gt;https://d00k.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://box.matto.nl/&#34;&gt;http://box.matto.nl/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://noisydeadlines.net/&#34;&gt;https://noisydeadlines.net/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://tilde.town/~dustin/&#34;&gt;http://tilde.town/~dustin/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://fabulous.systems/&#34;&gt;https://fabulous.systems/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://mikegrindle.com/&#34;&gt;https://mikegrindle.com/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://www.paritybit.ca/&#34;&gt;http://www.paritybit.ca/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://supernovas.space/&#34;&gt;https://supernovas.space/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://dataswamp.org/~solene/&#34;&gt;https://dataswamp.org/~solene/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://triapul.cz/&#34;&gt;https://triapul.cz/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.grateful.garden/&#34;&gt;https://www.grateful.garden/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;gopher/gemini&lt;/strong&gt; (via web proxy)
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://portal.mozz.us/gopher/i-logout.cz/1/bongusta/&#34;&gt;https://portal.mozz.us/gopher/i-logout.cz/1/bongusta/&lt;/a&gt; &amp;lt;- phlog aggregator&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://portal.mozz.us/gemini/thelambdalab.xyz/&#34;&gt;https://portal.mozz.us/gemini/thelambdalab.xyz/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://portal.mozz.us/gopher/sdf.org/1/users/agk&#34;&gt;https://portal.mozz.us/gopher/sdf.org/1/users/agk&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://portal.mozz.us/gopher/triapul.cz/&#34;&gt;https://portal.mozz.us/gopher/triapul.cz/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://portal.mozz.us/gopher/fripster.ydns.eu/&#34;&gt;https://portal.mozz.us/gopher/fripster.ydns.eu/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;schreiben&#34;&gt;Schreiben&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://100daystooffload.com/&#34;&gt;https://100daystooffload.com/&lt;/a&gt; &amp;lt;- Challenge, 100 Blogposts innerhalb eines Jahres zu schreiben&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;retrocomputerzeug&#34;&gt;Retrocomputerzeug&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://occ.deadnet.se/&#34;&gt;http://occ.deadnet.se/&lt;/a&gt; &amp;lt;- Die Old Computer Challenge&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.hnf.de/home.html&#34;&gt;https://www.hnf.de/home.html&lt;/a&gt; &amp;lt;- Heinz Nixdorf Forum in Paderborn, großartiges Computermuseum&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://portal.mozz.us/&#34;&gt;https://portal.mozz.us/&lt;/a&gt; Proxy für gemini, gopher etc. Protokolle&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;kunst&#34;&gt;Kunst&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://frau-beeee.de/&#34;&gt;http://frau-beeee.de/&lt;/a&gt; &amp;lt;- Eine großartige Künstlerin und Freundin&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;wissenschaft&#34;&gt;Wissenschaft&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.scientificamerican.com/article/do-insects-feel-joy-and-pain/&#34;&gt;https://www.scientificamerican.com/article/do-insects-feel-joy-and-pain/&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
     </item>
     
   </channel>
