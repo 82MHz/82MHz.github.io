@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2023/09 on 82MHz</title>
+    <link>https://82mhz.net/posts/2023/09/</link>
+    <description>Recent content in 2023/09 on 82MHz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-GB</language><atom:link href="https://82mhz.net/posts/2023/09/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100 Days to offload</title>
+      <link>https://82mhz.net/posts/2023/09/100-days-to-offload/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2023/09/100-days-to-offload/</guid>
+      <description>&lt;p&gt;Sometimes there are things that you read or just see somewhere and you immediately think &amp;ldquo;that&amp;rsquo;s cool, I&amp;rsquo;ll do that&amp;rdquo;. Some time ago I came across the &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;100 Days to offload&lt;/a&gt; challenge, and this was one of those things.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;What is it about?&lt;/p&gt;
+&lt;p&gt;The challenge is to write 100 blogposts within one year. Of course, I mentioned it right away on Mastodon that I was doing the challenge, so now I have the self-imposed task of writing 100 blogposts within one year, i.e. from today until the end of August 2024.&lt;/p&gt;
+&lt;p&gt;The rules are simple, to quote from the website:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are some simple and reasonable guidelines if you want to take part in #100DaysToOffload:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This needs to be done on a personal blog, not a corporate blog. If you don’t have a personal blog, you can sign up for a free one at &lt;a href=&#34;https://bearblog.dev&#34;&gt;Bear Blog&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There is no specific start date. Your 100 posts can start or end whenever you want them to, they just need to be completed within 365 days.&lt;/li&gt;
+&lt;li&gt;Publish 100 new posts in the space of a year.&lt;/li&gt;
+&lt;li&gt;There are no limits to what you can post about – write about whatever interests you.&lt;/li&gt;
+&lt;li&gt;Once you have published an article, don’t forget to post a link on your social media with the hashtag &lt;code&gt;#100DaysToOffload&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Get your friends involved!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;What topics should I write about? No idea! Whatever comes to mind, probably a lot of stuff about tech, tutorials, some hobby projects I&amp;rsquo;m doing, rants about cars and lousy city design&amp;hellip; I think there are enough things to get off my chest.&lt;/p&gt;
+&lt;p&gt;After I posted on Mastodon that I&amp;rsquo;m doing the challenge and was looking for fellow participants, a few people actually came forward, so here are some of my fellow participants in random order &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dustin also wants to start today (&lt;a href=&#34;https://mastodon.spotek.io/@dustin&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://0xdstn.site/&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Screwtape as well (&lt;a href=&#34;https://mastodon.sdf.org/@screwtape&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://portal.mozz.us/gopher/tilde.institute/1/~screwtape/&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Matto (&lt;a href=&#34;https://pub.matto.nl/u/matto&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://box.matto.nl/&#34;&gt;Blog&lt;/a&gt;, &lt;a href=&#34;https://portal.mozz.us/gopher/box.matto.nl/&#34;&gt;Phlog&lt;/a&gt;) and Prahou (&lt;a href=&#34;https://merveilles.town/@prahou&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://triapul.cz/&#34;&gt;Blog&lt;/a&gt;, &lt;a href=&#34;https://portal.mozz.us/gopher/triapul.cz/&#34;&gt;Phlog&lt;/a&gt;) have already started last month&lt;/li&gt;
+&lt;li&gt;And Noisideadlines (&lt;a href=&#34;https://writing.exchange/@noisydeadlines&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://noisydeadlines.net/&#34;&gt;Blog&lt;/a&gt;) thought, one year is way too long, I can do it in 1/3 of the time!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You might now be wondering, what the &amp;hellip; is a phlog?&lt;/p&gt;
+&lt;p&gt;Well, some people have normal http websites, but there are also the purists who use text-based protocols, either &lt;a href=&#34;https://en.wikipedia.org/wiki/Gopher&#34;&gt;Gopher&lt;/a&gt; or &lt;a href=&#34;https://en.wikipedia.org/wiki/Gemini_(protocol)&#34;&gt;Gemini&lt;/a&gt;, and depending on the protocol, the pages are then called blogs (http), phlogs (gopher) or gemlogs (gemini). What do you know! I had no idea&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll limit myself to this website here for now, but maybe I&amp;rsquo;ll add a gopher or gemini site in the future, we&amp;rsquo;ll see.&lt;/p&gt;
+&lt;p&gt;And now to complete the confusion about all the outdated retro protocols:&lt;/p&gt;
+&lt;p&gt;Matto has set up a channel on IRC at &lt;a href=&#34;ircs://irc.libera.chat:6697&#34;&gt;libera.chat&lt;/a&gt; called #phloggersgarage, where a nice little community around blogging (phlogging&amp;hellip;) is already slowly developing.&lt;/p&gt;
+&lt;p&gt;So it&amp;rsquo;s going to be exciting, interesting, challenging and I&amp;rsquo;m sure also frustrating at times over the next few months, but that&amp;rsquo;s all part of a challenge, otherwise it wouldn&amp;rsquo;t be a challenge!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This is a translation of the original German post made by &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt; and then manually adapted to (hopefully) sound a bit more human&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;I post the gopher pages here via http proxy. I hope the purists will forgive me, but this is the way I access the pages so I don&amp;rsquo;t have to leave the comfort of my web browser&amp;hellip;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
