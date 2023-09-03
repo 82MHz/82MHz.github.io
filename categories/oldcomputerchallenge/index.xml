@@ -8,6 +8,129 @@
     <language>en-GB</language>
     <lastBuildDate>Sun, 06 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/categories/oldcomputerchallenge/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Blogroll or &#34;I want one too!&#34;</title>
+      <link>https://82mhz.net/posts/2023/09/blogroll-or-i-want-one-too/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2023/09/blogroll-or-i-want-one-too/</guid>
+      <description>&lt;p&gt;Inspired by Noisy Deadline&amp;rsquo;s post &amp;ldquo;&lt;a href=&#34;https://noisydeadlines.net/blog-update-bringing-back-the-blogroll&#34;&gt;Bringing back the Blogroll&lt;/a&gt;&amp;rdquo; and by the blogrolls I&amp;rsquo;ve already seen on some other sites, I wanted to set one up for myself too.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;I like the concept of a blogroll, which as far as I understand is a list of blogs I like and follow (which I already have on my links page), but I thought I could do one better and create a list of all the latest posts from these blogs as well, ordered by date.&lt;/p&gt;
+&lt;p&gt;I first saw this concept on &lt;a href=&#34;https://portal.mozz.us/gopher/i-logout.cz/1/bongusta&#34;&gt;Bongusta!&lt;/a&gt;, which is a gopher phlog aggregator, and matto has the same thing on his &lt;a href=&#34;https://portal.mozz.us/gopher/box.matto.nl/1/phlogroll&#34;&gt;gophersite&lt;/a&gt; as well, so I stole the idea from them (without feeling even a trace of guilt or remorse!) and created my own version.&lt;/p&gt;
+&lt;p&gt;After some failed attempts, I decided to use the tool &lt;strong&gt;sfeed&lt;/strong&gt;, which fetches the latest posts from a list of rss feeds and writes them to a tab-delimited text file for each feed. There is also an option to output the list of new posts directly as html, but I didn&amp;rsquo;t really like the formatting, I really wanted to sort according to the latest posts of all feeds sorted by date.&lt;/p&gt;
+&lt;p&gt;So I built my own parser in Python.&lt;/p&gt;
+&lt;p&gt;Now this sounds like &amp;ldquo;just quickly whipped something up&amp;rdquo;, but since I&amp;rsquo;m not a Python expert and had to google every single command, it took me a few hours.&lt;/p&gt;
+&lt;p&gt;But now it works, sfeed fetches the latest articles from a list of RSS feeds, my Python script parses them out as Markdown in the right format and Hugo then integrates it into the website.&lt;/p&gt;
+&lt;p&gt;The result can be admired &lt;a href=&#34;../../../../blogroll&#34;&gt;here&lt;/a&gt; and can be accessed via the menu option &amp;ldquo;links&amp;rdquo;. Maybe I&amp;rsquo;ll add a separate menu entry, I&amp;rsquo;m not quite sure yet.&lt;/p&gt;
+&lt;p&gt;Either way, I&amp;rsquo;m happy with it for now. So far I&amp;rsquo;m still updating manually, so the list might be a few days behind. If I find the time and feel like it, I&amp;rsquo;ll switch to automated updates.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Post 002/100 of the 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This is a translation of the original German post made by &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt; and then manually adapted to (hopefully) sound a bit more human&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>100 Days to offload</title>
+      <link>https://82mhz.net/posts/2023/09/100-days-to-offload/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2023/09/100-days-to-offload/</guid>
+      <description>&lt;p&gt;Sometimes there are things that you read or just see somewhere and you immediately think &amp;ldquo;that&amp;rsquo;s cool, I&amp;rsquo;ll do that&amp;rdquo;. Some time ago I came across the &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;100 Days to offload&lt;/a&gt; challenge, and this was one of those things.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;What is it about?&lt;/p&gt;
+&lt;p&gt;The challenge is to write 100 blogposts within one year. Of course, I mentioned it right away on Mastodon that I was doing the challenge, so now I have the self-imposed task of writing 100 blogposts within one year, i.e. from today until the end of August 2024.&lt;/p&gt;
+&lt;p&gt;The rules are simple, to quote from the website:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are some simple and reasonable guidelines if you want to take part in #100DaysToOffload:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This needs to be done on a personal blog, not a corporate blog. If you don’t have a personal blog, you can sign up for a free one at &lt;a href=&#34;https://bearblog.dev&#34;&gt;Bear Blog&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There is no specific start date. Your 100 posts can start or end whenever you want them to, they just need to be completed within 365 days.&lt;/li&gt;
+&lt;li&gt;Publish 100 new posts in the space of a year.&lt;/li&gt;
+&lt;li&gt;There are no limits to what you can post about – write about whatever interests you.&lt;/li&gt;
+&lt;li&gt;Once you have published an article, don’t forget to post a link on your social media with the hashtag &lt;code&gt;#100DaysToOffload&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Get your friends involved!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;What topics should I write about? No idea! Whatever comes to mind, probably a lot of stuff about tech, tutorials, some hobby projects I&amp;rsquo;m doing, rants about cars and lousy city design&amp;hellip; I think there are enough things to get off my chest.&lt;/p&gt;
+&lt;p&gt;After I posted on Mastodon that I&amp;rsquo;m doing the challenge and was looking for fellow participants, a few people actually came forward, so here are some of my fellow participants in random order &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dustin also wants to start today (&lt;a href=&#34;https://mastodon.spotek.io/@dustin&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://0xdstn.site/&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Screwtape as well (&lt;a href=&#34;https://mastodon.sdf.org/@screwtape&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://gopher.tildeverse.org/tilde.club/1/~screwtape/synthember-100days-tooffload/&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Matto (&lt;a href=&#34;https://pub.matto.nl/u/matto&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://box.matto.nl/&#34;&gt;Blog&lt;/a&gt;, &lt;a href=&#34;https://portal.mozz.us/gopher/box.matto.nl/&#34;&gt;Phlog&lt;/a&gt;) and Prahou (&lt;a href=&#34;https://merveilles.town/@prahou&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://triapul.cz/&#34;&gt;Blog&lt;/a&gt;, &lt;a href=&#34;https://portal.mozz.us/gopher/triapul.cz/&#34;&gt;Phlog&lt;/a&gt;) have already started last month&lt;/li&gt;
+&lt;li&gt;And Noisy Deadlines (&lt;a href=&#34;https://writing.exchange/@noisydeadlines&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://noisydeadlines.net/&#34;&gt;Blog&lt;/a&gt;) thought, one year is way too long, I can do it in 1/3 of the time!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;You might now be wondering, what the &amp;hellip; is a phlog?&lt;/p&gt;
+&lt;p&gt;Well, some people have normal http websites, but there are also the purists who use text-based protocols, either &lt;a href=&#34;https://en.wikipedia.org/wiki/Gopher&#34;&gt;Gopher&lt;/a&gt; or &lt;a href=&#34;https://en.wikipedia.org/wiki/Gemini_(protocol)&#34;&gt;Gemini&lt;/a&gt;, and depending on the protocol, the pages are then called blogs (http), phlogs (gopher) or gemlogs (gemini). What do you know! I had no idea&amp;hellip;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll limit myself to this website here for now, but maybe I&amp;rsquo;ll add a gopher or gemini site in the future, we&amp;rsquo;ll see.&lt;/p&gt;
+&lt;p&gt;And now to complete the confusion about all the outdated retro protocols:&lt;/p&gt;
+&lt;p&gt;Matto has set up a channel on IRC at &lt;a href=&#34;ircs://irc.libera.chat:6697&#34;&gt;libera.chat&lt;/a&gt; called #phloggersgarage, where a nice little community around blogging (phlogging&amp;hellip;) is already slowly developing.&lt;/p&gt;
+&lt;p&gt;So it&amp;rsquo;s going to be exciting, interesting, challenging and I&amp;rsquo;m sure also frustrating at times over the next few months, but that&amp;rsquo;s all part of a challenge, otherwise it wouldn&amp;rsquo;t be a challenge!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This is a translation of the original German post made by &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt; and then manually adapted to (hopefully) sound a bit more human&lt;/em&gt;&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;I post the gopher pages here via http proxy. I hope the purists will forgive me, but this is the way I access the pages so I don&amp;rsquo;t have to leave the comfort of my web browser&amp;hellip;.&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Updated Design Part 2</title>
+      <link>https://82mhz.net/posts/2023/08/updated-design-part-2/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2023/08/updated-design-part-2/</guid>
+      <description>&lt;p&gt;Who doesn&amp;rsquo;t know it: You only want to change a minor thing on the theme of the website, but you can&amp;rsquo;t seem to get it right and in the end escalate completely and rewrite the whole website from scratch.&lt;/p&gt;
+&lt;h2 id=&#34;back-story&#34;&gt;Back story:&lt;/h2&gt;
+&lt;p&gt;This website was created with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and originally had the theme &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;Papermod&lt;/a&gt;&amp;rdquo;, then &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-blog-awesome/&#34;&gt;Hugo Blog Awesome&lt;/a&gt;&amp;rdquo; and finally &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-console/&#34;&gt;Console&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;But I wasn&amp;rsquo;t really happy with any of these themes, so I had already modified the Console theme quite a bit to be more like what I wanted it to be.&lt;/p&gt;
+&lt;p&gt;Unfortunately, some things in the CSS were quite weirdly implemented, and no matter what I tried, some things just didn&amp;rsquo;t work out the way I wanted them to.&lt;/p&gt;
+&lt;h2 id=&#34;and-now&#34;&gt;And now:&lt;/h2&gt;
+&lt;p&gt;Sometime during the past week I had enough and just started to rewrite the whole site from scratch. The structure of course stays as it was before, but without all the things in the code I don&amp;rsquo;t need anyway and with a CSS that does exactly what (and only what!) I want. And with a little help from a good friend, who happens to be a web designer, I think I did a pretty good job!&lt;/p&gt;
+&lt;p&gt;Some things are still a bit rough and in need of improvement of course, and I&amp;rsquo;m sure there will be the occasional change here and there, but I think for now I have the site the way I like it and the way I imagined it.&lt;/p&gt;
+&lt;p&gt;So now the blogging can really start. More about that at the end of next week.&lt;/p&gt;
+&lt;p&gt;Oh, and a big sorry to those who have subscribed to my RSS feed, I&amp;rsquo;m afraid I&amp;rsquo;ve caused a bit of a mess there. I hope the time of big changes is over now and the site can stay the way it is for some time to come!&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This is a translation of the original German post made by &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt; and then manually adapted to (hopefully) sound a bit more human&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Website update with new sections</title>
+      <link>https://82mhz.net/posts/2023/08/website-update-with-new-sections/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2023/08/website-update-with-new-sections/</guid>
+      <description>&lt;p&gt;Just a little announcement today, I have added two new sections to the website: Links and Bookclub.&lt;/p&gt;
+&lt;p&gt;Links should be pretty self-explanatory, on this page I collect links to interesting blogs, articles, documents&amp;hellip;. everything I find interesting or worth knowing and want to share or remember for later.&lt;/p&gt;
+&lt;p&gt;Under bookclub I collect the list of books I&amp;rsquo;ve read, maybe a book review here and there and generally everything that somehow has to do with books and reading.&lt;/p&gt;
+&lt;p&gt;I mainly read either SciFi or non-fiction about psychology, society, technology and everything in between.&lt;/p&gt;
+&lt;p&gt;Suggestions and recommendations for good books that don&amp;rsquo;t yet appear here are always welcome!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Design and now also in German</title>
+      <link>https://82mhz.net/posts/2023/08/new-design-and-now-also-in-german/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2023/08/new-design-and-now-also-in-german/</guid>
+      <description>&lt;p&gt;The site is barely two months old and already the first redesign is coming.&lt;/p&gt;
+&lt;p&gt;I didn&amp;rsquo;t really warm up to the old theme, but luckily Hugo makes it really easy to change the theme. Of course, you&amp;rsquo;re still going to spend days tinkering to get everything exactly the way you want it, and it&amp;rsquo;s still not exactly the way &lt;strong&gt;I&lt;/strong&gt; want it, but that will come in time.&lt;/p&gt;
+&lt;p&gt;Anyway, the site is now based on a modified &lt;a href=&#34;https://github.com/mrmierzejewski/hugo-theme-console&#34;&gt;Hugo Console Theme&lt;/a&gt; and, big news, it&amp;rsquo;s bilingual!&lt;/p&gt;
+&lt;p&gt;Hugo makes it incredibly easy to create a bilingual site and switch back and forth between languages. This wasn&amp;rsquo;t a thing I was even considering when I decided to use Hugo, but it&amp;rsquo;s a happy coincidence now after all.&lt;/p&gt;
+&lt;p&gt;My plan is to write the posts in German, because I&amp;rsquo;ve always felt a bit weird writing everything in English (a foreign language for me) and then translating the German posts into English with &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt;. Maybe go over it again so that it sounds like me and not like an AI.&lt;/p&gt;
+&lt;p&gt;Let&amp;rsquo;s see how I get on with it. I won&amp;rsquo;t translate the older posts into German for now, but I think we can live with that.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;em&gt;This is a translation of the &lt;a href=&#34;https://82mhz.net/de/posts/redesign&#34;&gt;original German post&lt;/a&gt; made by &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt; and then manually adapted to (hopefully) sound a bit more human&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Old Computer Challenge 2023 - Epilogue</title>
       <link>https://82mhz.net/posts/2023/08/old-computer-challenge-2023-epilogue/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>

@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>blogroll on 82MHz</title>
+    <link>https://82mhz.net/de/tags/blogroll/</link>
+    <description>Recent content in blogroll on 82MHz</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/de/tags/blogroll/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogroll oder &#34;will ich auch haben!&#34;</title>
+      <link>https://82mhz.net/de/posts/2023/09/blogroll-oder-will-ich-auch-haben/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/de/posts/2023/09/blogroll-oder-will-ich-auch-haben/</guid>
+      <description>&lt;p&gt;Inspiriert durch Noisy Deadlines Post &amp;ldquo;&lt;a href=&#34;https://noisydeadlines.net/blog-update-bringing-back-the-blogroll&#34;&gt;Bringing back the Blogroll&lt;/a&gt;&amp;rdquo; und durch die Blogrolls, die ich auf einigen anderen Seiten schon gesehen habe, wollte ich mir auch eine einrichten.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;Ich mag das Konzept einer Blogroll, die, soweit ich das verstanden hab, eine Liste von Blogs ist, die ich mag und denen ich folge. Das ist ja quasi schon das, was meine Links-Seite ist, aber ich dachte ich setze noch einen drauf und erstelle eine Seite, die von den jeweiligen Blogs jeweils die neuesten Beiträge chronologisch geordnet anzeigt.&lt;/p&gt;
+&lt;p&gt;Ich bin diesem Konzept zum ersten Mal auf &lt;a href=&#34;https://portal.mozz.us/gopher/i-logout.cz/1/bongusta&#34;&gt;Bongusta!&lt;/a&gt; begegnet, einem Gopher-Phlog-Aggregator, und Matto hat dasselbe auch auf seiner &lt;a href=&#34;https://portal.mozz.us/gopher/box.matto.nl/1/phlogroll&#34;&gt;Gopherseite&lt;/a&gt;, also habe ich die Idee völlig schamlos und ohne jegliches Schuldgefühl von dort übernommen und meine eigene Version davon gebastelt.&lt;/p&gt;
+&lt;p&gt;Nach einigen Irrungen und Wirrungen habe ich mich entschieden, dafür das Tool sfeed zu verwenden, das aus einer List von rss-Feeds jeweils die neuesten Beiträge abholt und pro Feed in eine Tab-separierte Textdatei schreibt. Es gibt auch eine Option, die Liste der neuen Beiträge direkt als html ausgeben zu lassen, aber die Formatierung hat mir nicht so richtig zugesagt, ich wollte unbedingt eine Sortierung nach den neuesten Beiträgen aller Feeds nach Datum sortiert.&lt;/p&gt;
+&lt;p&gt;Also hab ich kurzerhand meinen eigenen Parser in Python gebastelt.&lt;/p&gt;
+&lt;p&gt;Das klingt jetzt nach &amp;ldquo;mal eben runtergetippt&amp;rdquo;, aber nachdem ich kein Python-Experte bin und quasi jeden einzelnen Befehl erstmal googlen musste, hat es mich doch einige Stunden gekostet.&lt;/p&gt;
+&lt;p&gt;Jetzt läuft es aber, sfeed holt aus einer Liste von RSS-Feeds die neuesten Beiträge ab, mein Python-Skript parst sie als Markdown im gewünschen Format raus und Hugo bindet es dann in die Webseite ein.&lt;/p&gt;
+&lt;p&gt;Das Ergebnis lässt sich &lt;a href=&#34;../../../../blogroll&#34;&gt;hier&lt;/a&gt; bewundern und künftig über das Menü via &amp;ldquo;links&amp;rdquo; erreichen. Vielleicht führe ich noch einen eigenen Menüeintrag hinzu, das muss ich noch etwas auf mich wirken lassen.&lt;/p&gt;
+&lt;p&gt;Auf jeden Fall bin ich damit erstmal soweit happy. Bisher update ich noch manuell, die Liste könnte also ein paar Tage hinterher sein. Wenn ich die Zeit und Muße finde, werd ich das auf automatisierte Updates umstellen.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Post 002/100 der 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>100 Days to offload</title>
+      <link>https://82mhz.net/de/posts/2023/09/100-days-to-offload/</link>
+      <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/de/posts/2023/09/100-days-to-offload/</guid>
+      <description>&lt;p&gt;Manchmal gibt es Dinge, die man nur kurz irgendwo liest oder sieht und bei denen man sich sofort denkt &amp;ldquo;cool, das mach ich&amp;rdquo;. Vor einiger Zeit bin ich über die &amp;ldquo;&lt;a href=&#34;https://100daystooffload.com/&#34;&gt;100 Days to offload&lt;/a&gt;&amp;quot;-Challenge gestolpert, und da wars genau so.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;Worum gehts?&lt;/p&gt;
+&lt;p&gt;Die Herausforderung ist, innerhalb eines Jahres 100 Blogposts zu verfassen. Ich hab natürlich direkt auf Mastodon verkündet, dass ich die Challenge mache, also hab ich jetzt die selbst gesetzte Aufgabe vor mir, innerhalb eines Jahres, das heißt ab heute bis Ende August 2024, 100 Blogposts zu verfassen.&lt;/p&gt;
+&lt;p&gt;Die Regeln sind einfach, ich zitiere mal von der Webseite:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;There are some simple and reasonable guidelines if you want to take part in #100DaysToOffload:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;This needs to be done on a personal blog, not a corporate blog. If you don’t have a personal blog, you can sign up for a free one at &lt;a href=&#34;https://bearblog.dev&#34;&gt;Bear Blog&lt;/a&gt;.&lt;/li&gt;
+&lt;li&gt;There is no specific start date. Your 100 posts can start or end whenever you want them to, they just need to be completed within 365 days.&lt;/li&gt;
+&lt;li&gt;Publish 100 new posts in the space of a year.&lt;/li&gt;
+&lt;li&gt;There are no limits to what you can post about – write about whatever interests you.&lt;/li&gt;
+&lt;li&gt;Once you have published an article, don’t forget to post a link on your social media with the hashtag &lt;code&gt;#100DaysToOffload&lt;/code&gt;.&lt;/li&gt;
+&lt;li&gt;Get your friends involved!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/blockquote&gt;
+&lt;br&gt;
+Über welche Themen soll ich schreiben? Keine Ahnung! Was mir halt so einfällt, vermutlich viel Zeug über Technik, Tutorials, irgendwelche Hobbyprojekte die ich mache, schimpfen über Autos und mieses Städtedesign... ich glaub es gibt genügend Dinge, die ich mir mal von der Seele schreiben kann.
+&lt;p&gt;Nachdem ich auf Mastodon gepostet habe, dass ich die Challenge mache und noch Mitstreiter suche, haben sich auch tatsächlich ein paar Leute gemeldet, deswegen mal hier in zufälliger Reihenfolge einige meiner Mitstreiter &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Dustin will auch heute starten (&lt;a href=&#34;https://mastodon.spotek.io/@dustin&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://0xdstn.site/&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Screwtape genauso (&lt;a href=&#34;https://mastodon.sdf.org/@screwtape&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://gopher.tildeverse.org/tilde.club/1/~screwtape/synthember-100days-tooffload/&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Matto (&lt;a href=&#34;https://pub.matto.nl/u/matto&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://box.matto.nl/&#34;&gt;Blog&lt;/a&gt;, &lt;a href=&#34;https://portal.mozz.us/gopher/box.matto.nl/&#34;&gt;Phlog&lt;/a&gt;) und Prahou (&lt;a href=&#34;https://merveilles.town/@prahou&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://triapul.cz/&#34;&gt;Blog&lt;/a&gt;, &lt;a href=&#34;https://portal.mozz.us/gopher/triapul.cz/&#34;&gt;Phlog&lt;/a&gt;) haben bereits letzten Monat angefangen&lt;/li&gt;
+&lt;li&gt;Und Noisy Deadlines (&lt;a href=&#34;https://writing.exchange/@noisydeadlines&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://noisydeadlines.net/&#34;&gt;Blog&lt;/a&gt;) dachte sich, ein Jahr ist einfach viel zu lang, das schaff ich auch in 1/3 der Zeit!&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Falls jetzt die Frage aufkommt, was denn ein Phlog ist&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Manche Leute haben normale http-Webseiten, aber es gibt auch die Puristen die textbasierte Protokolle verwenden, entweder &lt;a href=&#34;https://de.wikipedia.org/wiki/Gopher&#34;&gt;Gopher&lt;/a&gt; oder &lt;a href=&#34;https://de.wikipedia.org/wiki/Geminispace&#34;&gt;Gemini&lt;/a&gt;, und je nach Protokoll nennen sich die Seiten dann Blogs (http), Phlogs (gopher) oder Gemlogs (gemini). Ja, man lernt nie aus, gell&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Ich beschränke mich mal auf diese Webseite hier, aber vielleicht leg ich mir ja in Zukunft noch eine Gopher- oder Geminiseite zu, mal schauen.&lt;/p&gt;
+&lt;p&gt;Um jetzt die Verwirrung mit den ganzen veralteten Retroprotokollen noch komplett zu machen:
+Matto hat auch noch im IRC auf &lt;a href=&#34;ircs://irc.libera.chat:6697&#34;&gt;libera.chat&lt;/a&gt; einen Channel mit dem Namen #phloggersgarage eingerichtet, auf dem sich tatsächlich auch schon langsam eine Community rund ums bloggen (phloggen&amp;hellip;) entwickelt.&lt;/p&gt;
+&lt;p&gt;Es wird also spannend, interessant, herausfordernd und bestimmt auch mal frustrierend in den nächsten Monaten, aber das gehört zu einer Challenge dazu, sonst wäre es ja keine!&lt;/p&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;Ich poste die Gopherseiten hier via http-Proxy. Ich hoffe die Puristen vergeben mir das, aber das ist die Art, wie ich auf die Seiten zugreife, um meinen gemütlichen Browser nicht verlassen zu müssen&amp;hellip;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+&lt;/div&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Designupdate Teil 2</title>
+      <link>https://82mhz.net/de/posts/2023/08/designupdate-teil-2/</link>
+      <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/de/posts/2023/08/designupdate-teil-2/</guid>
+      <description>&lt;p&gt;Man kennt es: Man will nur eine Kleinigkeit am Theme der Webseite verändern, bekommts aber nicht hin und eskaliert dann am Schluss völlig und schreibt kurzerhand die ganze Webseite neu.&lt;/p&gt;
+&lt;h2 id=&#34;vorgeschichte&#34;&gt;Vorgeschichte:&lt;/h2&gt;
+&lt;p&gt;Diese Webseite ist mit &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; erstellt und hatte ursprünglich das Theme &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;Papermod&lt;/a&gt;&amp;rdquo;, danach &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-blog-awesome/&#34;&gt;Hugo Blog Awesome&lt;/a&gt;&amp;rdquo; und zuletzt &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-console/&#34;&gt;Console&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
+&lt;p&gt;So richtig happy war ich aber mit keinem dieser Themen, deswegen hab ich das Console-Thema schon recht stark modifiziert, um eher dem zu entsprechen, was ich gerne hätte.&lt;/p&gt;
+&lt;p&gt;Leider waren aber einige Dinge im CSS doch recht stark verbastelt, und egal was ich probiert hab, manche Sachen habe ich einfach nicht so hinbekommen, wie ich es gerne hätte.&lt;/p&gt;
+&lt;h2 id=&#34;und-jetzt&#34;&gt;Und jetzt:&lt;/h2&gt;
+&lt;p&gt;Irgendwann im Lauf der vergangenen Woche hatte ich dann genug und hab einfach begonnen, die ganze Seite nochmal von Grund auf neu zu schreiben. Von der Struktur bleibt sie so wie sie bisher war, aber ohne die ganzen Dinge im Code, die ich eh nicht brauche und mit einem CSS, das genau das (und nur das!) tut, was ich haben will. Und mit etwas Hilfe von einer guten Freundin, die praktischerweise Webdesignerin ist, finde ich habe ich das auch recht gut hinbekommen!&lt;/p&gt;
+&lt;p&gt;Einige Dinge sind schon noch etwas grob und verbesserungsbedürftig, und sicher wird noch die eine oder andere Änderung kommen, aber ich glaub für jetzt hab ich die Seite erstmal so, wie sie mir gefällt und wie ich sie mir vorgestellt hab.&lt;/p&gt;
+&lt;p&gt;Jetzt kann das Bloggen also richtig losgehen. Mehr dazu Ende der nächsten Woche.&lt;/p&gt;
+&lt;p&gt;Ach und sorry an diejenigen, die meinen RSS-Feed abonniert haben, ich fürchte ich hab da etwas Chaos verursacht. Ich hoffe, die Zeit der großen Änderungen ist jetzt erstmal vorbei und die Seite kann für längere Zeit so bestehen, wie sie jetzt ist!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Website Update mit neuen Rubriken</title>
+      <link>https://82mhz.net/de/posts/2023/08/website-update-mit-neuen-rubriken/</link>
+      <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/de/posts/2023/08/website-update-mit-neuen-rubriken/</guid>
+      <description>&lt;p&gt;Nur eine kleine Ankündigung heute, ich habe zwei neue Rubriken auf der Webseite eingebaut: Links und Buchclub.&lt;/p&gt;
+&lt;p&gt;Links sollte relativ selbsterklärend sein, auf dieser Seite sammle ich Links zu interessanten Blogs, Artikeln, Dokumenten&amp;hellip; alles was ich interessant oder wissenswert finde und teilen oder für später festhalten möchte.&lt;/p&gt;
+&lt;p&gt;Unter Buchclub sammle ich die Liste der Bücher, die ich gelesen habe, vielleicht die eine oder andere Buchrezension und generell alles, was irgendwie mit Büchern und Lesen zu tun hat.&lt;/p&gt;
+&lt;p&gt;Hauptsächlich lese ich entweder Science Fiction oder Sachbücher über Psychologie, Gesellschaft, Technologie und alles, was sich im Spannungsfeld dazwischen bewegt.&lt;/p&gt;
+&lt;p&gt;Vorschläge und Empfehlungen für gute Bücher, die hier noch nicht auftauchen, sind jederzeit gern gesehen!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Neues Design und jetzt auch auf Deutsch</title>
+      <link>https://82mhz.net/de/posts/2023/08/neues-design-und-jetzt-auch-auf-deutsch/</link>
+      <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/de/posts/2023/08/neues-design-und-jetzt-auch-auf-deutsch/</guid>
+      <description>&lt;p&gt;Kaum ist die Seite zwei Monate alt, kommt schon das erste Redesign.&lt;/p&gt;
+&lt;p&gt;Mit dem alten Aussehen wurde ich nicht so recht warm, aber Hugo macht es ja zum Glück recht einfach, das Theme auszutauschen. Dann hängt man natürlich trotzdem nochmal tagelang dran, um alles genauso hinzubiegen, wie man das gerne hätte, und es ist immer noch nicht so richtig so, wie ich es mir vorstelle, aber das wird mit der Zeit schon noch.&lt;/p&gt;
+&lt;p&gt;Auf jeden Fall basiert die Seite jetzt auf einem modifizierten &lt;a href=&#34;https://github.com/mrmierzejewski/hugo-theme-console&#34;&gt;Hugo Console Theme&lt;/a&gt; und, große Neuerung, sie ist zweisprachig!&lt;/p&gt;
+&lt;p&gt;Hugo macht es erstaunlich einfach, eine zweisprachige Seite zu erzeugen und zwischen den Sprachen hin- und herzuschalten. Das hatte ich überhaupt nicht auf dem Schirm, als ich mich für Hugo entschieden hatte, aber es ist jetzt doch eine glückliche Fügung.&lt;/p&gt;
+&lt;p&gt;Mein Plan ist es, die Beiträge auf Deutsch zu schreiben, weil ich mich immer ein bisschen komisch gefühlt habe, alles auf Englisch (einer Fremdsprache für mich) zu schreiben und dann die deutschen Beiträge mit &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt; ins Englische zu übersetzen. Vielleicht nochmal drüberzugehen, damit es auch klingt, als wäre es von mir und nicht von einer KI.&lt;/p&gt;
+&lt;p&gt;Mal sehen, wie ich damit zurande komme. Die älteren Beiträge übersetze ich jetzt erstmal nicht ins Deutsche, aber ich denke das ist zu verschmerzen.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

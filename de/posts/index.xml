@@ -6,7 +6,27 @@
     <description>Recent content in Posts on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Fri, 01 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/de/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blogroll oder &#34;will ich auch haben!&#34;</title>
+      <link>https://82mhz.net/de/posts/2023/09/blogroll-oder-will-ich-auch-haben/</link>
+      <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/de/posts/2023/09/blogroll-oder-will-ich-auch-haben/</guid>
+      <description>&lt;p&gt;Inspiriert durch Noisy Deadlines Post &amp;ldquo;&lt;a href=&#34;https://noisydeadlines.net/blog-update-bringing-back-the-blogroll&#34;&gt;Bringing back the Blogroll&lt;/a&gt;&amp;rdquo; und durch die Blogrolls, die ich auf einigen anderen Seiten schon gesehen habe, wollte ich mir auch eine einrichten.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;Ich mag das Konzept einer Blogroll, die, soweit ich das verstanden hab, eine Liste von Blogs ist, die ich mag und denen ich folge. Das ist ja quasi schon das, was meine Links-Seite ist, aber ich dachte ich setze noch einen drauf und erstelle eine Seite, die von den jeweiligen Blogs jeweils die neuesten Beiträge chronologisch geordnet anzeigt.&lt;/p&gt;
+&lt;p&gt;Ich bin diesem Konzept zum ersten Mal auf &lt;a href=&#34;https://portal.mozz.us/gopher/i-logout.cz/1/bongusta&#34;&gt;Bongusta!&lt;/a&gt; begegnet, einem Gopher-Phlog-Aggregator, und Matto hat dasselbe auch auf seiner &lt;a href=&#34;https://portal.mozz.us/gopher/box.matto.nl/1/phlogroll&#34;&gt;Gopherseite&lt;/a&gt;, also habe ich die Idee völlig schamlos und ohne jegliches Schuldgefühl von dort übernommen und meine eigene Version davon gebastelt.&lt;/p&gt;
+&lt;p&gt;Nach einigen Irrungen und Wirrungen habe ich mich entschieden, dafür das Tool sfeed zu verwenden, das aus einer List von rss-Feeds jeweils die neuesten Beiträge abholt und pro Feed in eine Tab-separierte Textdatei schreibt. Es gibt auch eine Option, die Liste der neuen Beiträge direkt als html ausgeben zu lassen, aber die Formatierung hat mir nicht so richtig zugesagt, ich wollte unbedingt eine Sortierung nach den neuesten Beiträgen aller Feeds nach Datum sortiert.&lt;/p&gt;
+&lt;p&gt;Also hab ich kurzerhand meinen eigenen Parser in Python gebastelt.&lt;/p&gt;
+&lt;p&gt;Das klingt jetzt nach &amp;ldquo;mal eben runtergetippt&amp;rdquo;, aber nachdem ich kein Python-Experte bin und quasi jeden einzelnen Befehl erstmal googlen musste, hat es mich doch einige Stunden gekostet.&lt;/p&gt;
+&lt;p&gt;Jetzt läuft es aber, sfeed holt aus einer Liste von RSS-Feeds die neuesten Beiträge ab, mein Python-Skript parst sie als Markdown im gewünschen Format raus und Hugo bindet es dann in die Webseite ein.&lt;/p&gt;
+&lt;p&gt;Das Ergebnis lässt sich &lt;a href=&#34;../../../../blogroll&#34;&gt;hier&lt;/a&gt; bewundern und künftig über das Menü via &amp;ldquo;links&amp;rdquo; erreichen. Vielleicht führe ich noch einen eigenen Menüeintrag hinzu, das muss ich noch etwas auf mich wirken lassen.&lt;/p&gt;
+&lt;p&gt;Auf jeden Fall bin ich damit erstmal soweit happy. Bisher update ich noch manuell, die Liste könnte also ein paar Tage hinterher sein. Wenn ich die Zeit und Muße finde, werd ich das auf automatisierte Updates umstellen.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Post 002/100 der 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>100 Days to offload</title>
       <link>https://82mhz.net/de/posts/2023/09/100-days-to-offload/</link>
@@ -34,9 +54,9 @@
 &lt;p&gt;Nachdem ich auf Mastodon gepostet habe, dass ich die Challenge mache und noch Mitstreiter suche, haben sich auch tatsächlich ein paar Leute gemeldet, deswegen mal hier in zufälliger Reihenfolge einige meiner Mitstreiter &lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Dustin will auch heute starten (&lt;a href=&#34;https://mastodon.spotek.io/@dustin&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://0xdstn.site/&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Screwtape genauso (&lt;a href=&#34;https://mastodon.sdf.org/@screwtape&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://portal.mozz.us/gopher/tilde.institute/1/~screwtape/&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;Screwtape genauso (&lt;a href=&#34;https://mastodon.sdf.org/@screwtape&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://gopher.tildeverse.org/tilde.club/1/~screwtape/synthember-100days-tooffload/&#34;&gt;Blog&lt;/a&gt;)&lt;/li&gt;
 &lt;li&gt;Matto (&lt;a href=&#34;https://pub.matto.nl/u/matto&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://box.matto.nl/&#34;&gt;Blog&lt;/a&gt;, &lt;a href=&#34;https://portal.mozz.us/gopher/box.matto.nl/&#34;&gt;Phlog&lt;/a&gt;) und Prahou (&lt;a href=&#34;https://merveilles.town/@prahou&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://triapul.cz/&#34;&gt;Blog&lt;/a&gt;, &lt;a href=&#34;https://portal.mozz.us/gopher/triapul.cz/&#34;&gt;Phlog&lt;/a&gt;) haben bereits letzten Monat angefangen&lt;/li&gt;
-&lt;li&gt;Und Noisideadlines (&lt;a href=&#34;https://writing.exchange/@noisydeadlines&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://noisydeadlines.net/&#34;&gt;Blog&lt;/a&gt;) dachte sich, ein Jahr ist einfach viel zu lang, das schaff ich auch in 1/3 der Zeit!&lt;/li&gt;
+&lt;li&gt;Und Noisy Deadlines (&lt;a href=&#34;https://writing.exchange/@noisydeadlines&#34;&gt;Mastodon&lt;/a&gt;, &lt;a href=&#34;https://noisydeadlines.net/&#34;&gt;Blog&lt;/a&gt;) dachte sich, ein Jahr ist einfach viel zu lang, das schaff ich auch in 1/3 der Zeit!&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Falls jetzt die Frage aufkommt, was denn ein Phlog ist&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Manche Leute haben normale http-Webseiten, aber es gibt auch die Puristen die textbasierte Protokolle verwenden, entweder &lt;a href=&#34;https://de.wikipedia.org/wiki/Gopher&#34;&gt;Gopher&lt;/a&gt; oder &lt;a href=&#34;https://de.wikipedia.org/wiki/Geminispace&#34;&gt;Gemini&lt;/a&gt;, und je nach Protokoll nennen sich die Seiten dann Blogs (http), Phlogs (gopher) oder Gemlogs (gemini). Ja, man lernt nie aus, gell&amp;hellip;&lt;/p&gt;
