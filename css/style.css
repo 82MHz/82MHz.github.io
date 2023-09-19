@@ -154,6 +154,13 @@ a{
     text-decoration:none
 }
 
+.image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+  }
+
 
 /* style.css | http://localhost:1313/css/style.css */
 
