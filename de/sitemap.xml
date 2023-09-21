@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://82mhz.net/de/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/de/tags/100daystooffload/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/de/posts/2023/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -41,21 +41,21 @@
                 href="https://82mhz.net/de/posts/2023/"
                 />
   </url><url>
-    <loc>https://82mhz.net/de/posts/2023/09/cal-newports-4-monats-plan/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <loc>https://82mhz.net/de/posts/2023/09/cal-newports-deep-life-stack-ebene-1-disziplin/</loc>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://82mhz.net/posts/2023/09/cal-newports-4-months-to-reinvent-your-life/"
+                href="https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-layer-1-discipline/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://82mhz.net/de/posts/2023/09/cal-newports-4-monats-plan/"
+                href="https://82mhz.net/de/posts/2023/09/cal-newports-deep-life-stack-ebene-1-disziplin/"
                 />
   </url><url>
     <loc>https://82mhz.net/de/tags/deeplifestack/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -68,7 +68,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/de/posts/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -81,13 +81,13 @@
                 />
   </url><url>
     <loc>https://82mhz.net/de/tags/produktivit%C3%A4t/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/de/tags/psychischegesundheit/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/de/tags/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -100,7 +100,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/de/year/</loc>
-    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -110,6 +110,19 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://82mhz.net/de/year/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/de/posts/2023/09/cal-newports-4-monats-plan-der-deep-life-stack/</loc>
+    <lastmod>2023-09-19T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-4-months-to-reinvent-your-life/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/2023/09/cal-newports-4-monats-plan-der-deep-life-stack/"
                 />
   </url><url>
     <loc>https://82mhz.net/de/tags/#100daystooffload/</loc>
