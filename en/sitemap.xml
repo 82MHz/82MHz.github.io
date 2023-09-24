@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://82mhz.net/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -13,6 +13,87 @@
                 rel="alternate"
                 hreflang="en-GB"
                 href="https://82mhz.net/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/posts/2023/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/2023/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/tags/mentalhealth/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://82mhz.net/posts/2023/09/my-relationship-with-digital-communication-the-beginnings/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/2023/09/mein-verh%C3%A4ltnis-zu-digitaler-kommunikation-die-anf%C3%A4nge/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/2023/09/my-relationship-with-digital-communication-the-beginnings/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/posts/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/tags/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/tags/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/tags/tech/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/tags/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/tags/tech/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/year/</loc>
+    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/year/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/year/"
                 />
   </url><url>
     <loc>https://82mhz.net/tags/100daystooffload/</loc>
@@ -26,19 +107,6 @@
                 rel="alternate"
                 hreflang="en-GB"
                 href="https://82mhz.net/tags/100daystooffload/"
-                />
-  </url><url>
-    <loc>https://82mhz.net/posts/2023/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/posts/2023/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/posts/2023/"
                 />
   </url><url>
     <loc>https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-layer-1-discipline/</loc>
@@ -67,50 +135,8 @@
                 href="https://82mhz.net/tags/deeplifestack/"
                 />
   </url><url>
-    <loc>https://82mhz.net/tags/mentalhealth/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://82mhz.net/posts/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/posts/"
-                />
-  </url><url>
     <loc>https://82mhz.net/tags/productivity/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://82mhz.net/tags/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/tags/"
-                />
-  </url><url>
-    <loc>https://82mhz.net/year/</loc>
-    <lastmod>2023-09-21T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/year/"
-                />
   </url><url>
     <loc>https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-4-months-to-reinvent-your-life/</loc>
     <lastmod>2023-09-19T00:00:00+00:00</lastmod>
