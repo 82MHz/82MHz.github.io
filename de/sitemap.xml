@@ -46,6 +46,16 @@
   </url><url>
     <loc>https://82mhz.net/de/posts/2023/10/b%C3%BCcher-die-ich-im-september-2023-gelesen-habe/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/2023/10/the-books-i-read-in-september-2023/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/2023/10/b%C3%BCcher-die-ich-im-september-2023-gelesen-habe/"
+                />
   </url><url>
     <loc>https://82mhz.net/de/tags/lesen/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
@@ -428,6 +438,16 @@
                 />
   </url><url>
     <loc>https://82mhz.net/de/posts/2023/10/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/2023/10/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/2023/10/"
+                />
   </url><url>
     <loc>https://82mhz.net/de/links/</loc>
     <xhtml:link
