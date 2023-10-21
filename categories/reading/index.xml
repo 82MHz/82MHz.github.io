@@ -8,6 +8,112 @@
     <language>en-GB</language>
     <lastBuildDate>Sun, 13 Aug 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/categories/reading/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Using two USB Sticks as a Raid on a Raspberry Pi</title>
+      <link>https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</link>
+      <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</guid>
+      <description>&lt;p&gt;The other day I mentioned in passing on Mastodon that I am using two USB-Sticks as a RAID array on my homeserver, which is a Raspberry Pi 4. Much to my surprise, two people actually asked how this was done, so I promised I would write it up as a blog post. And so here we are. Let&amp;rsquo;s have a look at how it works.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: I&amp;rsquo;m not an IT expert, some things in this tutorial could be wrong or even lead to data loss, so use the information here at your own risk.&lt;/p&gt;
+&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
+&lt;p&gt;First, what is a RAID? RAID stands for &amp;ldquo;redundant array of independent disks&amp;rdquo;, which simply means that more than one physical drive are connected together to form one logical drive.&lt;/p&gt;
+&lt;p&gt;There&amp;rsquo;s a variety of different ways to set this up, called RAID levels, which I won&amp;rsquo;t get into here, but &lt;a href=&#34;https://en.wikipedia.org/wiki/RAID&#34;&gt;wikipedia&lt;/a&gt; and many other pages have you covered.&lt;/p&gt;
+&lt;p&gt;I set up my USB sticks as a RAID 1 array, which means the data is mirrored across two (could also be more than two for extra redundancy) drives and they all contain the exact same information. This way, if one drive fails, the other still has everything saved and no data is lost. Of course when this happens, the faulty drive needs to be replaced as soon as possible before the other one fails as well.&lt;/p&gt;
+&lt;p&gt;I got two inexpensive Sandisk 64GB USB drives from &lt;a href=&#34;https://www.amazon.de/SanDisk-Ultra-Flair-USB-Flash-Laufwerk-150-MB/dp/B015CH1NAQ/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=2KRIYR2F3VF31&amp;amp;keywords=64gb+sandisk+usb&amp;amp;qid=1697862134&amp;amp;sprefix=64gb+sandisk+usb%2Caps%2C205&amp;amp;sr=8-3&#34;&gt;Amazon&lt;/a&gt; that I connected to my Raspi and set up as a RAID 1 array. This is not a buying recommendation by the way, but I never had a problem with Sandisk drives in the past and these were reasonably cheap, so I went with them.&lt;/p&gt;
+&lt;p&gt;I plugged them into my Raspi, and that&amp;rsquo;s the hardware setup taken care of.&lt;/p&gt;
+&lt;h2 id=&#34;software-configuration&#34;&gt;Software configuration&lt;/h2&gt;
+&lt;p&gt;I&amp;rsquo;ll walk through the installation here, for reference a list of all the commands is at the &lt;a href=&#34;#summary&#34;&gt;bottom of the post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;The raid is configured through a utility called &amp;lsquo;mdadm&amp;rsquo;, which you can install through the packet manager of your distro or compile from scratch if you&amp;rsquo;re hardcore. I&amp;rsquo;m not hardcore, so I simply installed it.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo apt install mdadm
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Next, I checked if the USB drives are available.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ lsblk
+NAME        MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+sda           8:0    1 57,3G  0 disk 
+sdb           8:16   1 57,3G  0 disk 
+mmcblk0     179:0    0 29,1G  0 disk 
+├─mmcblk0p1 179:1    0  256M  0 part /boot
+└─mmcblk0p2 179:2    0 28,9G  0 part /
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I can see they&amp;rsquo;re connected as drives sda and sdb, so I&amp;rsquo;m good to continue.&lt;/p&gt;
+&lt;p&gt;The next command creates the RAID array, level 1 (mirrored) from the two USB devices. Make sure you use the correct device name!&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo mdadm --create --verbose /dev/md0 --level=1 --raid-devices=2 /dev/sda /dev/sdb
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Here&amp;rsquo;s the output from the command, it tells me that the drives already have a  partition table, which doesn&amp;rsquo;t matter because they will be reformatted, and asks me to confirm. Then it returns to the console and the array is created in the background:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo mdadm --create --verbose /dev/md0 --level=1 --raid-devices=2 /dev/sda /dev/sdb
+mdadm: partition table exists on /dev/sda
+mdadm: partition table exists on /dev/sda but will be lost or
+       meaningless after creating array
+mdadm: Note: this array has metadata at the start and
+    may not be suitable as a boot device.  If you plan to
+    store &amp;#39;/boot&amp;#39; on this device please ensure that
+    your boot-loader understands md/v1.x metadata, or use
+    --metadata=0.90
+mdadm: partition table exists on /dev/sdb
+mdadm: partition table exists on /dev/sdb but will be lost or
+       meaningless after creating array
+mdadm: size set to 60029952K
+Continue creating array? (y/n) y
+mdadm: Defaulting to version 1.2 metadata
+mdadm: array /dev/md0 started.
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Reading the file &amp;lsquo;/proc/mdstat&amp;rsquo; shows the progress of this operation, depending on the size and speed of the drives this can take a long time, for my two 64GB USB sticks it took about an hour.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ watch &amp;#39;cat /proc/mdstat&amp;#39;
+$ cat /proc/mdstat
+Personalities : [raid1] 
+md0 : active raid1 sdb[1] sda[0]
+      60029952 blocks super 1.2 [2/2] [UU]
+      [&amp;gt;....................]  resync =  0.5% (336448/60029952) finish=62.0min speed=16021K/sec
+      
+unused devices: &amp;lt;none&amp;gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I followed the process with the &amp;lsquo;watch&amp;rsquo; command:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ watch &amp;#39;cat /proc/mdstat&amp;#39;
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;According to the tutorial I followed, I can start using the array even before it is fully assembled, so the next thing I needed to do was to format the new file system:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo mkfs.ext4 -F /dev/md0
+mke2fs 1.46.2 (28-Feb-2021)
+/dev/md0 contains a ext4 file system
+	last mounted on Fri Oct 20 11:48:52 2023
+Creating filesystem with 15007488 4k blocks and 3751936 inodes
+Filesystem UUID: 2361e08e-3703-46f5-b425-ad4d519b555c
+Superblock backups stored on blocks: 
+	32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208, 
+	4096000, 7962624, 11239424
+
+Allocating group tables: done                            
+Writing inode tables: done                            
+Creating journal (65536 blocks): 
+done
+Writing superblocks and filesystem accounting information: done   
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;I then created a mount point and mounted the new drive:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo mkdir -p /mnt/md0
+$ sudo mount /dev/md0 /mnt/md0
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;And looking at my drives with &amp;lsquo;df&amp;rsquo;, I can see that the array is mounted and ready to use (I shortened the output for readability):&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ df -h
+Dateisystem    Typ      Größe Benutzt Verf. Verw% Eingehängt auf
+...
+/dev/md0       ext4       57G     24K   54G    1% /mnt/md0
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;That&amp;rsquo;s almost it already, just a few small things need to be done.&lt;/p&gt;
+&lt;p&gt;First, save the array configuration:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo mdadm --detail --scan | sudo tee -a /etc/mdadm/mdadm.conf
+ARRAY /dev/md0 metadata=1.2 name=pi4srv:0 UUID=402c7741:7e70698e:b2ed9be5:c6e3531e
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Add the array to fstab so it is automatically mounted at startup:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ echo &amp;#39;/dev/md0 /mnt/md0 ext4 rw,user,exec,defaults,nofail,discard 0 0&amp;#39; | sudo tee -a /etc/fstab
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;And change the access rights of the mount folder so a regular user can write to it:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo chmod 777 /mnt/md0/
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;And with that, I have a working RAID 1 array consisting of two cheap USB drives running on my Raspberry Pi homeserver, which I can use for backup.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m planning to use it to mirror my server config files and docker setup from the internal SD card to this external storage, and also use it to backup and distribute important files across my home network.&lt;/p&gt;
+&lt;p&gt;Before I do this though, I want to test what happens if one of the drives &amp;lsquo;fails&amp;rsquo; and how the data can be accessed/restored in this case. A backup is only a backup if it can be restored after all.&lt;/p&gt;
+&lt;p&gt;But I&amp;rsquo;m still in the process of setting this all up, so that might be a topic for another day.&lt;/p&gt;
+&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;
+&lt;p&gt;Here&amp;rsquo;s the list of commands I ran for future reference.&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;sudo mdadm --create --verbose /dev/md0 --level=1 --raid-devices=2 /dev/sda /dev/sdb #make sure you have the correct devices selected
+cat /proc/mdstat
+sudo mkfs.ext4 -F /dev/md0
+sudo mkdir -p /mnt/md0
+sudo mount /dev/md0 /mnt/md0
+sudo mdadm --detail --scan | sudo tee -a /etc/mdadm/mdadm.conf
+echo &amp;#39;/dev/md0 /mnt/md0 ext4 rw,user,exec,defaults,nofail,discard 0 0&amp;#39; | sudo tee -a /etc/fstab
+sudo chmod 777 /mnt/md0/
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;&lt;em&gt;Post 010/100 of the 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Living in the (technological) past</title>
       <link>https://82mhz.net/posts/2023/10/living-in-the-technological-past/</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>

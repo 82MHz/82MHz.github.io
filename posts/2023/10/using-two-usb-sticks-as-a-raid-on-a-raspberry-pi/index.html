@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> 82MHz </title>
+    <link rel="stylesheet" href="/css/style.css">
+</head><body>
+        <div class="container">
+            <div class="navblock">
+                <div class="home-logo">
+<header>
+    <div class="logo"><a href="https://82mhz.net/">82MHz</a></div>
+</header></div>
+                <div class="home-nav">
+
+
+
+
+<nav class="site-menu">
+        <a href="/posts">blog</a>
+    
+        <a href="/bookclub">bookclub</a>
+    
+        <a href="/links">links</a>
+    
+        <a href="/tags">tags</a>
+    
+    
+        <a class="language-select" href="https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/">EN</a>
+  
+</nav>
+
+
+</div>
+            </div>
+            <div id="content">
+    <article class="post">
+        <header>
+            <h1>Using two USB Sticks as a Raid on a Raspberry Pi</h1>
+            <p>
+                Oct 21, 2023
+            </p>
+            <p>
+                <span class="tags">
+                    
+                    
+                        
+                            <a class="tag" href="/tags/tech">tech</a>
+                        
+                            <a class="tag" href="/tags/100daystooffload">100DaysToOffload</a>
+                        
+                    
+                    
+                </span>
+            </p>
+            <p>
+                
+                    Reading time: 8 minutes
+                
+            </p>
+        </header>
+
+        <section class="body">
+            <p>The other day I mentioned in passing on Mastodon that I am using two USB-Sticks as a RAID array on my homeserver, which is a Raspberry Pi 4. Much to my surprise, two people actually asked how this was done, so I promised I would write it up as a blog post. And so here we are. Let&rsquo;s have a look at how it works.</p>
+<p><strong>Disclaimer</strong>: I&rsquo;m not an IT expert, some things in this tutorial could be wrong or even lead to data loss, so use the information here at your own risk.</p>
+<h2 id="introduction">Introduction</h2>
+<p>First, what is a RAID? RAID stands for &ldquo;redundant array of independent disks&rdquo;, which simply means that more than one physical drive are connected together to form one logical drive.</p>
+<p>There&rsquo;s a variety of different ways to set this up, called RAID levels, which I won&rsquo;t get into here, but <a href="https://en.wikipedia.org/wiki/RAID">wikipedia</a> and many other pages have you covered.</p>
+<p>I set up my USB sticks as a RAID 1 array, which means the data is mirrored across two (could also be more than two for extra redundancy) drives and they all contain the exact same information. This way, if one drive fails, the other still has everything saved and no data is lost. Of course when this happens, the faulty drive needs to be replaced as soon as possible before the other one fails as well.</p>
+<p>I got two inexpensive Sandisk 64GB USB drives from <a href="https://www.amazon.de/SanDisk-Ultra-Flair-USB-Flash-Laufwerk-150-MB/dp/B015CH1NAQ/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=2KRIYR2F3VF31&amp;keywords=64gb+sandisk+usb&amp;qid=1697862134&amp;sprefix=64gb+sandisk+usb%2Caps%2C205&amp;sr=8-3">Amazon</a> that I connected to my Raspi and set up as a RAID 1 array. This is not a buying recommendation by the way, but I never had a problem with Sandisk drives in the past and these were reasonably cheap, so I went with them.</p>
+<p>I plugged them into my Raspi, and that&rsquo;s the hardware setup taken care of.</p>
+<h2 id="software-configuration">Software configuration</h2>
+<p>I&rsquo;ll walk through the installation here, for reference a list of all the commands is at the <a href="#summary">bottom of the post</a>.</p>
+<p>The raid is configured through a utility called &lsquo;mdadm&rsquo;, which you can install through the packet manager of your distro or compile from scratch if you&rsquo;re hardcore. I&rsquo;m not hardcore, so I simply installed it.</p>
+<pre tabindex="0"><code>$ sudo apt install mdadm
+</code></pre><p>Next, I checked if the USB drives are available.</p>
+<pre tabindex="0"><code>$ lsblk
+NAME        MAJ:MIN RM  SIZE RO TYPE MOUNTPOINT
+sda           8:0    1 57,3G  0 disk 
+sdb           8:16   1 57,3G  0 disk 
+mmcblk0     179:0    0 29,1G  0 disk 
+├─mmcblk0p1 179:1    0  256M  0 part /boot
+└─mmcblk0p2 179:2    0 28,9G  0 part /
+</code></pre><p>I can see they&rsquo;re connected as drives sda and sdb, so I&rsquo;m good to continue.</p>
+<p>The next command creates the RAID array, level 1 (mirrored) from the two USB devices. Make sure you use the correct device name!</p>
+<pre tabindex="0"><code>$ sudo mdadm --create --verbose /dev/md0 --level=1 --raid-devices=2 /dev/sda /dev/sdb
+</code></pre><p>Here&rsquo;s the output from the command, it tells me that the drives already have a  partition table, which doesn&rsquo;t matter because they will be reformatted, and asks me to confirm. Then it returns to the console and the array is created in the background:</p>
+<pre tabindex="0"><code>$ sudo mdadm --create --verbose /dev/md0 --level=1 --raid-devices=2 /dev/sda /dev/sdb
+mdadm: partition table exists on /dev/sda
+mdadm: partition table exists on /dev/sda but will be lost or
+       meaningless after creating array
+mdadm: Note: this array has metadata at the start and
+    may not be suitable as a boot device.  If you plan to
+    store &#39;/boot&#39; on this device please ensure that
+    your boot-loader understands md/v1.x metadata, or use
+    --metadata=0.90
+mdadm: partition table exists on /dev/sdb
+mdadm: partition table exists on /dev/sdb but will be lost or
+       meaningless after creating array
+mdadm: size set to 60029952K
+Continue creating array? (y/n) y
+mdadm: Defaulting to version 1.2 metadata
+mdadm: array /dev/md0 started.
+</code></pre><p>Reading the file &lsquo;/proc/mdstat&rsquo; shows the progress of this operation, depending on the size and speed of the drives this can take a long time, for my two 64GB USB sticks it took about an hour.</p>
+<pre tabindex="0"><code>$ watch &#39;cat /proc/mdstat&#39;
+$ cat /proc/mdstat
+Personalities : [raid1] 
+md0 : active raid1 sdb[1] sda[0]
+      60029952 blocks super 1.2 [2/2] [UU]
+      [&gt;....................]  resync =  0.5% (336448/60029952) finish=62.0min speed=16021K/sec
+      
+unused devices: &lt;none&gt;
+</code></pre><p>I followed the process with the &lsquo;watch&rsquo; command:</p>
+<pre tabindex="0"><code>$ watch &#39;cat /proc/mdstat&#39;
+</code></pre><p>According to the tutorial I followed, I can start using the array even before it is fully assembled, so the next thing I needed to do was to format the new file system:</p>
+<pre tabindex="0"><code>$ sudo mkfs.ext4 -F /dev/md0
+mke2fs 1.46.2 (28-Feb-2021)
+/dev/md0 contains a ext4 file system
+	last mounted on Fri Oct 20 11:48:52 2023
+Creating filesystem with 15007488 4k blocks and 3751936 inodes
+Filesystem UUID: 2361e08e-3703-46f5-b425-ad4d519b555c
+Superblock backups stored on blocks: 
+	32768, 98304, 163840, 229376, 294912, 819200, 884736, 1605632, 2654208, 
+	4096000, 7962624, 11239424
+
+Allocating group tables: done                            
+Writing inode tables: done                            
+Creating journal (65536 blocks): 
+done
+Writing superblocks and filesystem accounting information: done   
+</code></pre><p>I then created a mount point and mounted the new drive:</p>
+<pre tabindex="0"><code>$ sudo mkdir -p /mnt/md0
+$ sudo mount /dev/md0 /mnt/md0
+</code></pre><p>And looking at my drives with &lsquo;df&rsquo;, I can see that the array is mounted and ready to use (I shortened the output for readability):</p>
+<pre tabindex="0"><code>$ df -h
+Dateisystem    Typ      Größe Benutzt Verf. Verw% Eingehängt auf
+...
+/dev/md0       ext4       57G     24K   54G    1% /mnt/md0
+</code></pre><p>That&rsquo;s almost it already, just a few small things need to be done.</p>
+<p>First, save the array configuration:</p>
+<pre tabindex="0"><code>$ sudo mdadm --detail --scan | sudo tee -a /etc/mdadm/mdadm.conf
+ARRAY /dev/md0 metadata=1.2 name=pi4srv:0 UUID=402c7741:7e70698e:b2ed9be5:c6e3531e
+</code></pre><p>Add the array to fstab so it is automatically mounted at startup:</p>
+<pre tabindex="0"><code>$ echo &#39;/dev/md0 /mnt/md0 ext4 rw,user,exec,defaults,nofail,discard 0 0&#39; | sudo tee -a /etc/fstab
+</code></pre><p>And change the access rights of the mount folder so a regular user can write to it:</p>
+<pre tabindex="0"><code>$ sudo chmod 777 /mnt/md0/
+</code></pre><p>And with that, I have a working RAID 1 array consisting of two cheap USB drives running on my Raspberry Pi homeserver, which I can use for backup.</p>
+<p>I&rsquo;m planning to use it to mirror my server config files and docker setup from the internal SD card to this external storage, and also use it to backup and distribute important files across my home network.</p>
+<p>Before I do this though, I want to test what happens if one of the drives &lsquo;fails&rsquo; and how the data can be accessed/restored in this case. A backup is only a backup if it can be restored after all.</p>
+<p>But I&rsquo;m still in the process of setting this all up, so that might be a topic for another day.</p>
+<h2 id="summary">Summary</h2>
+<p>Here&rsquo;s the list of commands I ran for future reference.</p>
+<pre tabindex="0"><code>sudo mdadm --create --verbose /dev/md0 --level=1 --raid-devices=2 /dev/sda /dev/sdb #make sure you have the correct devices selected
+cat /proc/mdstat
+sudo mkfs.ext4 -F /dev/md0
+sudo mkdir -p /mnt/md0
+sudo mount /dev/md0 /mnt/md0
+sudo mdadm --detail --scan | sudo tee -a /etc/mdadm/mdadm.conf
+echo &#39;/dev/md0 /mnt/md0 ext4 rw,user,exec,defaults,nofail,discard 0 0&#39; | sudo tee -a /etc/fstab
+sudo chmod 777 /mnt/md0/
+</code></pre><p><em>Post 010/100 of the 100DaysToOffload-Challenge</em></p>
+        </section>
+    </article>
+
+            </div><div class="footer">
+    <div class="footer_social-icons">
+
+    <a href="mailto:82mhz%20%28at%29%20mailbox%20%28dot%29%20org" target="_blank" rel="noopener noreferrer me"
+        title="Email">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round" width="25px">
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+    <polyline points="22,6 12,13 2,6"></polyline>
+</svg>
+    </a>
+
+
+
+    <a href="https://oldbytes.space/@82mhz" target="_blank" rel="noopener noreferrer me"
+        title="Mastodon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round" width="25px">
+    <path
+        d="M21.58 13.913c-.29 1.469-2.592 3.121-5.238 3.396-1.379.184-2.737.368-4.185.276-2.368-.092-4.237-.551-4.237-.551 0 .184.014.459.043.643.308 2.294 2.317 2.478 4.22 2.57 1.922 0 3.633-.46 3.633-.46l.079 1.653s-1.344.734-3.738.918c-1.32.091-2.96-.092-4.869-.551-4.14-1.102-4.853-5.507-4.961-10.005-.034-1.285-.013-2.57-.013-3.58 0-4.589 3-5.966 3-5.966 1.513-.734 4.11-1.01 6.808-1.01h.067c2.699 0 5.296.276 6.81 1.01 0 0 3 1.377 3 5.967 0 0 .037 3.304-.419 5.69"
+        stroke="currentColor" />
+    <path
+        d="M17.832 8.633v5h-1.978V8.78c0-1.023-.43-1.542-1.29-1.542-.95 0-1.427.616-1.427 1.834v2.655H11.17V9.072c0-1.218-.476-1.834-1.427-1.834-.86 0-1.29.52-1.29 1.542v4.852H6.475V8.633c0-1.022.26-1.834.782-2.434.538-.6 1.243-.909 2.118-.909 1.012 0 1.779.39 2.286 1.169l.492.827.493-.827c.507-.78 1.274-1.169 2.286-1.169.875 0 1.58.308 2.118.909.522.6.782 1.412.782 2.434"
+        fill="currentColor" stroke="none" />
+</svg>
+    </a>
+
+
+
+    <a href="/index.xml" target="_blank" rel="noopener noreferrer me"
+        title="RSS">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round" width="25px">
+    <path d="M4 11a9 9 0 0 1 9 9" />
+    <path d="M4 4a16 16 0 0 1 16 16" />
+    <circle cx="5" cy="19" r="1" />
+</svg>
+    </a>
+
+
+</div>
+</div></div>
+    </body>
+</html>
