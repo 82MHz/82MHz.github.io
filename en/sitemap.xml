@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://82mhz.net/</loc>
-    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/tags/100daystooffload/</loc>
-    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/posts/2023/</loc>
-    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -41,8 +41,14 @@
                 href="https://82mhz.net/posts/2023/"
                 />
   </url><url>
+    <loc>https://82mhz.net/posts/2023/11/good-bye-raspberry-pi/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://82mhz.net/tags/homelab/</loc>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://82mhz.net/posts/</loc>
-    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -55,7 +61,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/tags/</loc>
-    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -68,7 +74,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/tags/tech/</loc>
-    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -80,11 +86,8 @@
                 href="https://82mhz.net/tags/tech/"
                 />
   </url><url>
-    <loc>https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</loc>
-    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>https://82mhz.net/year/</loc>
-    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
+    <lastmod>2023-11-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -95,6 +98,9 @@
                 hreflang="en-GB"
                 href="https://82mhz.net/year/"
                 />
+  </url><url>
+    <loc>https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</loc>
+    <lastmod>2023-10-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/posts/2023/10/living-in-the-technological-past/</loc>
     <lastmod>2023-10-16T00:00:00+00:00</lastmod>
@@ -522,6 +528,8 @@
                 hreflang="en-GB"
                 href="https://82mhz.net/posts/2023/10/"
                 />
+  </url><url>
+    <loc>https://82mhz.net/posts/2023/11/</loc>
   </url><url>
     <loc>https://82mhz.net/links/</loc>
     <xhtml:link

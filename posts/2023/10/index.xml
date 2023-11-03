@@ -7,6 +7,29 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language><atom:link href="https://82mhz.net/posts/2023/10/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Good Bye, Raspberry Pi</title>
+      <link>https://82mhz.net/posts/2023/11/good-bye-raspberry-pi/</link>
+      <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2023/11/good-bye-raspberry-pi/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been using a Raspberry Pi 4 as my homeserver, it&amp;rsquo;s running off an SD card. Or it was, because the SD card died recently, and I don&amp;rsquo;t know why.&lt;/p&gt;
+&lt;p&gt;One day I woke up to the server not responding, and a reboot didn&amp;rsquo;t help either. So I attached a monitor and found that the Pi was stuck in the &amp;ldquo;bios&amp;rdquo;, telling me that it couldn&amp;rsquo;t find the SD card, even though it was plugged in.&lt;/p&gt;
+&lt;p&gt;So I looked at the card on my normal PC and found that it was recognized as a drive with 0 bytes. Not great.&lt;/p&gt;
+&lt;p&gt;I googled for a while to see if there was a way to revive the card, and I also asked on mastodon if anyone had an idea, but the responses were&amp;hellip; not encouraging. Seems like the card is dead and at least with normal methods there is no way to restore it.&lt;/p&gt;
+&lt;h3 id=&#34;what-happened-and-what-next&#34;&gt;What happened, and what next?&lt;/h3&gt;
+&lt;p&gt;Since I can&amp;rsquo;t look at any logs anymore, figuring out what happened is pure speculation. Someone on mastodon suggested that it might be excessive writes to the card due to the USB-stick RAID array I set up. Maybe that was the case, I don&amp;rsquo;t know. I wasn&amp;rsquo;t aware that a RAID can cause excessive writes to the system disk, but it could have been. Could have also been a power loss during a write and that corrupted the card&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Unfortunately, this is not the first time that&amp;rsquo;s happened. I have a Raspi 4 at work that already killed two cards during normal operation, and there I was also not able to determine what had happened.&lt;/p&gt;
+&lt;p&gt;Could have been a problem with the cards, or with the Raspi, or a power failure, or a fault with the hardware that was plugged into it&amp;hellip;&lt;/p&gt;
+&lt;p&gt;The problem is that I&amp;rsquo;m starting to lose trust in Rasperry Pis, especially since there are a ton of posts online about Raspis killing SD cards&amp;hellip; and of course I have backups and everything, so no data was lost, but setting it all up again is still a pain.&lt;/p&gt;
+&lt;h3 id=&#34;new-server&#34;&gt;New server&lt;/h3&gt;
+&lt;p&gt;I was a bit annoyed with the Raspi anyway, because I use docker a lot for the services I&amp;rsquo;m running, and I often found that docker images weren&amp;rsquo;t available for ARM at all or not for the specific ARM version the Pi is using, so I was already thinking about switching to x86, and this event finalized the decision.&lt;/p&gt;
+&lt;p&gt;My idea was to get either a SFF machine or an old laptop, so I can set up a server that consumes as little power as possible. I looked around on classified ads and found an old Dell Latitude E7440 with an i5 4200U mobile processor, 8GB RAM and 128GB SSD from a local guy, which is just about perfect for my usecase, so I bought it straight away.&lt;/p&gt;
+&lt;p&gt;And so here we are, an old business laptop is my new server!&lt;/p&gt;
+&lt;p&gt;Now I&amp;rsquo;m in the process of setting it back up and (a first for me, but essential) documenting every step of the way in the form of a bash script that I can just run if I want to install a new server, and everything will be set up the way it was in no time. At least that&amp;rsquo;s my goal, we&amp;rsquo;ll see if I achieve it.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Post 011/100 of the 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Using two USB Sticks as a Raid on a Raspberry Pi</title>
       <link>https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
