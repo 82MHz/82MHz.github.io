@@ -8,6 +8,44 @@
     <language>en-GB</language>
     <lastBuildDate>Wed, 27 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/tags/enshittification/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Apps I&#39;m using in 2023</title>
+      <link>https://82mhz.net/posts/2023/11/apps-im-using-in-2023/</link>
+      <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2023/11/apps-im-using-in-2023/</guid>
+      <description>&lt;p&gt;I saw a post from &lt;a href=&#34;https://0xdstn.site/thoughts/default-apps-2023/&#34;&gt;Dustin&lt;/a&gt;, who saw a post from someone else, who probably saw a post from someone else about writing up which apps and services you are currently using. So let&amp;rsquo;s jump on the hype train while it is rolling and see which apps I am using!&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;Remember when apps used to be called programs? And phones were used to talk to people? Anyway, here&amp;rsquo;s my list:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;💾 &lt;strong&gt;Operating System&lt;/strong&gt;: &lt;a href=&#34;https://archlinux.org/&#34;&gt;Arch Linux&lt;/a&gt; (desktop), &lt;a href=&#34;https://lineageos.org/&#34;&gt;LineageOS&lt;/a&gt; (mobile)&lt;/li&gt;
+&lt;li&gt;📨 &lt;strong&gt;Mail provider&lt;/strong&gt;: &lt;a href=&#34;https://mailbox.org/en/&#34;&gt;Mailbox.org&lt;/a&gt;, as well as GMX.de and WEB.de for legacy email addresses (all are German providers)&lt;/li&gt;
+&lt;li&gt;📬 &lt;strong&gt;Mail client&lt;/strong&gt;: &lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Thunderbird&lt;/a&gt; (desktop), &lt;a href=&#34;https://k9mail.app/&#34;&gt;K9 Mail&lt;/a&gt; (mobile)&lt;/li&gt;
+&lt;li&gt;🗒 &lt;strong&gt;Notes&lt;/strong&gt;: &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📅 &lt;strong&gt;Calendar&lt;/strong&gt;: Mailbox.org calendar, synced to Android and Thunderbird&lt;/li&gt;
+&lt;li&gt;📰 &lt;strong&gt;RSS reader&lt;/strong&gt;: &lt;a href=&#34;https://codemadness.org/sfeed-simple-feed-parser.html&#34;&gt;sfeed&lt;/a&gt; and some python-fu around it to generate a website &lt;a href=&#34;https://82mhz.net/blogroll/&#34;&gt;(like this)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🌐 &lt;strong&gt;Browser&lt;/strong&gt;: &lt;a href=&#34;https://www.mozilla.org/de/firefox/new/&#34;&gt;Firefox&lt;/a&gt; (desktop), &lt;a href=&#34;https://f-droid.org/en/packages/com.duckduckgo.mobile.android/&#34;&gt;DuckDuckGo&lt;/a&gt; (mobile)&lt;/li&gt;
+&lt;li&gt;🔖 &lt;strong&gt;Bookmarks&lt;/strong&gt;: I spread them everywhere and never find them again. Please help!&lt;/li&gt;
+&lt;li&gt;💬 &lt;strong&gt;Chat (mobile)&lt;/strong&gt;: Signal, Threema, Whatsapp&lt;/li&gt;
+&lt;li&gt;💬 &lt;strong&gt;Chat (desktop)&lt;/strong&gt;: &lt;a href=&#34;https://github.com/d99kris/nchat&#34;&gt;Nchat&lt;/a&gt; for Whatsapp, &lt;a href=&#34;https://hexchat.github.io/&#34;&gt;HexChat&lt;/a&gt; for IRC&lt;/li&gt;
+&lt;li&gt;📔 &lt;strong&gt;Reading&lt;/strong&gt;: &lt;a href=&#34;https://mytolino.de/&#34;&gt;Tolino&lt;/a&gt; Shine 2hd&lt;/li&gt;
+&lt;li&gt;🎧 &lt;strong&gt;Music&lt;/strong&gt;: iPod Classic, Winamp (desktop), &lt;a href=&#34;https://f-droid.org/packages/net.programmierecke.radiodroid2/&#34;&gt;RadioDroid&lt;/a&gt; (mobile, for Radio), Vinyl and CDs&lt;/li&gt;
+&lt;li&gt;🎙 &lt;strong&gt;Podcasts&lt;/strong&gt;: &lt;a href=&#34;https://antennapod.org/&#34;&gt;AntennaPod&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;🎥 &lt;strong&gt;Youtube&lt;/strong&gt;: &lt;a href=&#34;https://yewtu.be/&#34;&gt;Invidious&lt;/a&gt; if possible&lt;/li&gt;
+&lt;li&gt;🔐 &lt;strong&gt;Password Manager&lt;/strong&gt;: &lt;a href=&#34;https://keepassxc.org/&#34;&gt;Keepassxc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;💵 &lt;strong&gt;Personal Finance Tracking&lt;/strong&gt;: Excel sheet I found somewhere online more than a decade ago, converted to odt&lt;/li&gt;
+&lt;li&gt;📊 &lt;strong&gt;Word processing, Spreadsheet&lt;/strong&gt;: &lt;a href=&#34;https://www.libreoffice.org/&#34;&gt;Libre Office&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📝 &lt;strong&gt;Editor&lt;/strong&gt;: Obsidian for .md, vim for system files and quick edits, VS Code OSS for coding&lt;/li&gt;
+&lt;li&gt;☁️ &lt;strong&gt;Cloud&lt;/strong&gt;: &lt;a href=&#34;https://syncthing.net/&#34;&gt;Syncthing&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And I believe that&amp;rsquo;s it, that is most of the stuff I use on a regular basis.&lt;/p&gt;
+&lt;p&gt;I try to stick to open source software and privacy friendly services wherever possible (unfortunately, there is just no escaping WhatsApp&amp;hellip;) as well as keeping my data and files mostly local. I might miss out on some integration features by not using the Google/Apple/Microsoft/Amazon &lt;del&gt;digital prisons&lt;/del&gt; ecosystems, but that is okay. I have survived 41 years on this planet without them, and I&amp;rsquo;m sure I will do fine in the future, too.&lt;/p&gt;
+&lt;p&gt;The thorn in my side here is of course WhatApp, where I&amp;rsquo;m firmly locked in without much chance of escaping. I&amp;rsquo;m hoping for the Digital Markets Act of the EU enforcing some interoperability, maybe then Meta will be forced to open the service up at least a little.&lt;/p&gt;
+&lt;p&gt;But that&amp;rsquo;s a topic for another day.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Post 013/100 of the 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The books I read in October 2023</title>
       <link>https://82mhz.net/posts/2023/11/the-books-i-read-in-october-2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
