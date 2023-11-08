@@ -174,8 +174,11 @@ a{
     margin-left: auto;
     margin-right: auto;
     width: 100%;
-  }
+}
 
+li {
+    padding-bottom: .5rem;
+}
 
 /* style.css | http://localhost:1313/css/style.css */
 
