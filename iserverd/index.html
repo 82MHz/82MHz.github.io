@@ -105,6 +105,7 @@ Nov 11 07:34:44 ak-VirtualBox systemd[1]: Starting PostgreSQL Cluster 14-main...
 Nov 11 07:34:46 ak-VirtualBox systemd[1]: Started PostgreSQL Cluster 14-main.
 </code></pre><h1 id="new-attempt">New Attempt</h1>
 <ul>
+<li>change pg_hba.conf to use e.g. &ldquo;trust&rdquo; for local connections (so replace peer with trust and restart the DB process)</li>
 <li>iserverd says it fails to start</li>
 <li>Output of syslog after trying to start iserverd:</li>
 </ul>
