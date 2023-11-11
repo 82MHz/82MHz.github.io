@@ -103,6 +103,64 @@ Nov 11 07:45:12 ak-VirtualBox IServer: Init: RDBMS is down. Waiting for working 
 
 Nov 11 07:34:44 ak-VirtualBox systemd[1]: Starting PostgreSQL Cluster 14-main...
 Nov 11 07:34:46 ak-VirtualBox systemd[1]: Started PostgreSQL Cluster 14-main.
+</code></pre><h1 id="new-attempt">New Attempt</h1>
+<ul>
+<li>iserverd says it fails to start</li>
+<li>Output of syslog after trying to start iserverd:</li>
+</ul>
+<pre tabindex="0"><code>Nov 11 13:30:18 ak-VirtualBox IServer: 
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: IServerd started: [Ver: 2.5.5-20080609]
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: checking byteorder... LITTLE_ENDIAN
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: checking for random device... /dev/urandom
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: Detaching from control terminal
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: Wrote &amp; lock server pidfile
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: Creating new process group
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: Allocated shm segment (size=512000 bytes)
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: Max 888 concurent online users allowed
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: IPC objects init success
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: UDP server (S/ICQ) started on [10.0.2.15:4000]
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: TCP server (OSCAR) started on [10.0.2.15:5190]
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: WWP socket initialized successfully
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: RDBMS is online. Firing up processing...
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: Checking DB (users_db) integrity...
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: Starting packet/event processors
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: EPacket processor initialization success
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: Maximum tcp connections number = 512
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: Ready to serve requests on sockets [poll]
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: ETimer processor initialization success
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: AP found sections: 1, rules: 1, variables: 6
+Nov 11 13:30:18 ak-VirtualBox IServer: Init: EUser processor initialization success
+</code></pre><ul>
+<li>output of ps:</li>
+</ul>
+<pre tabindex="0"><code>ak@ak-VirtualBox:~$ ps ax | grep -i iserve
+   2259 ?        Ss     0:00 IServerd: [socket  processor] 
+   2264 ?        S      0:00 IServerd: [packet  processor] 
+   2265 ?        S      0:00 IServerd: [packet  processor] 
+   2266 ?        S      0:00 IServerd: [packet  processor] 
+   2267 ?        Ss     0:00 postgres: 14/main: iserverd users_db [local] idle
+   2268 ?        S      0:00 IServerd: [packet  processor] 
+   2269 ?        S      0:00 IServerd: [defrag  processor] 
+   2270 ?        Ss     0:00 postgres: 14/main: iserverd users_db [local] idle
+   2271 ?        S      0:00 IServerd: [euser   processor] 
+   2272 ?        Ss     0:00 postgres: 14/main: iserverd users_db [local] idle
+   2273 ?        S      0:00 IServerd: [epacket processor] 
+   2274 ?        S      0:00 IServerd: [etimer  processor] 
+   2275 ?        Ss     0:00 postgres: 14/main: iserverd users_db [local] idle
+   2276 ?        S      0:00 IServerd: [actions processor] 
+   2277 ?        Ss     0:00 postgres: 14/main: iserverd users_db [local] idle
+   2278 ?        Ss     0:00 postgres: 14/main: iserverd users_db [local] idle
+   2279 ?        Ss     0:00 postgres: 14/main: iserverd users_db [local] idle
+   2280 ?        Ss     0:00 postgres: 14/main: iserverd users_db [local] idle
+</code></pre><ul>
+<li>trying to create a new ICQ user with sudo ./icquser in /etc/iserverd/db/icquser:</li>
+</ul>
+<pre tabindex="0"><code>ak@ak-VirtualBox:/etc/iserverd/db$ sudo ./icquser 
+Error!
+Possible cause of error:
+PostgreSQL isn&#39;t running?
+Error message:
+psql: error: connection to server on socket &#34;/var/run/postgresql/.s.PGSQL.5432&#34; failed: FATAL: role &#34;root&#34; does not exist
 </code></pre>
 
 
