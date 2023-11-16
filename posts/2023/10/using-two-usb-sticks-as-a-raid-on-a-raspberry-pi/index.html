@@ -55,14 +55,14 @@
             </p>
             <p>
                 
-                    Reading time: 8 minutes
+                    Reading time: 9 minutes
                 
             </p>
         </header>
 
         <section class="body">
             <p>The other day I mentioned in passing on Mastodon that I am using two USB-Sticks as a RAID array on my homeserver, which is a Raspberry Pi 4. Much to my surprise, two people actually asked how this was done, so I promised I would write it up as a blog post. And so here we are. Let&rsquo;s have a look at how it works.</p>
-<p><strong>Disclaimer</strong>: I&rsquo;m not an IT expert, some things in this tutorial could be wrong or even lead to data loss, so use the information here at your own risk.</p>
+<p><strong>Disclaimer</strong>: I&rsquo;m not an IT expert, some things in this tutorial could be wrong or even lead to data loss, so use the information here at your own risk. At the bottom of this post are links to more in-depth articles and tutorials, I highly recommend giving those a read as they contain much more information than this.</p>
 <h2 id="introduction">Introduction</h2>
 <p>First, what is a RAID? RAID stands for &ldquo;redundant array of independent disks&rdquo;, which simply means that more than one physical drive are connected together to form one logical drive.</p>
 <p>There&rsquo;s a variety of different ways to set this up, called RAID levels, which I won&rsquo;t get into here, but <a href="https://en.wikipedia.org/wiki/RAID">wikipedia</a> and many other pages have you covered.</p>
@@ -148,6 +148,9 @@ ARRAY /dev/md0 metadata=1.2 name=pi4srv:0 UUID=402c7741:7e70698e:b2ed9be5:c6e353
 <p>I&rsquo;m planning to mirror my server config files and docker setup from the internal SD card to this external storage, and also use it to backup and distribute important files across my home network.</p>
 <p>Before I do this though, I want to test what happens if one of the drives &lsquo;fails&rsquo; and how the data can be accessed/restored in this case. A backup is only a backup if it can be restored after all.</p>
 <p>But I&rsquo;m still in the process of setting this all up, so that might be a topic for another day.</p>
+<h2 id="caveat">Caveat</h2>
+<p>In all of this, &lsquo;mdadm&rsquo; is functioning as the RAID controller, and the data on the drives is only available going through mdadm. Simply plugging in one of the drives into a computer and expecting to see all the data that is stored on the RAID doesn&rsquo;t work, it needs to be opened through mdadm first and only then is the data visible.</p>
+<p>The links at the bottom of this post give more information about setting up and using RAIDs in this way.</p>
 <h2 id="summary">Summary</h2>
 <p>Here&rsquo;s the list of commands I ran for future reference.</p>
 <pre tabindex="0"><code>sudo mdadm --create --verbose /dev/md0 --level=1 --raid-devices=2 /dev/sda /dev/sdb #make sure you have the correct devices selected
@@ -161,7 +164,9 @@ sudo chmod 777 /mnt/md0/
 </code></pre><h2 id="references">References</h2>
 <ul>
 <li><a href="https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-ubuntu-22-04">https://www.digitalocean.com/community/tutorials/how-to-create-raid-arrays-with-mdadm-on-ubuntu-22-04</a></li>
+<li><a href="https://www.digitalocean.com/community/tutorials/how-to-manage-raid-arrays-with-mdadm-on-ubuntu-22-04">https://www.digitalocean.com/community/tutorials/how-to-manage-raid-arrays-with-mdadm-on-ubuntu-22-04</a></li>
 <li><a href="https://serverfault.com/questions/32709/how-do-i-move-a-linux-software-raid-to-a-new-machine">https://serverfault.com/questions/32709/how-do-i-move-a-linux-software-raid-to-a-new-machine</a></li>
+<li><a href="https://unix.stackexchange.com/questions/300122/mount-a-single-hard-disk-that-was-part-of-raid-1">https://unix.stackexchange.com/questions/300122/mount-a-single-hard-disk-that-was-part-of-raid-1</a></li>
 </ul>
 <p><em>Post 010/100 of the 100DaysToOffload-Challenge</em></p>
         </section>
