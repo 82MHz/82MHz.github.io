@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://82mhz.net/de/</loc>
-    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/de/tags/100daystooffload/</loc>
-    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
@@ -26,6 +26,74 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://82mhz.net/de/tags/100daystooffload/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/de/posts/2024/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/2024/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/de/posts/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/de/tags/psychischegesundheit/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://82mhz.net/de/tags/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/tags/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/de/posts/2024/01/willkommen-2024/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/2024/01/new-year-2024/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/2024/01/willkommen-2024/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/de/year/</loc>
+    <lastmod>2024-01-03T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/year/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/year/"
                 />
   </url><url>
     <loc>https://82mhz.net/de/posts/2023/</loc>
@@ -59,45 +127,6 @@
   </url><url>
     <loc>https://82mhz.net/de/tags/lesen/</loc>
     <lastmod>2023-11-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://82mhz.net/de/posts/</loc>
-    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/posts/"
-                />
-  </url><url>
-    <loc>https://82mhz.net/de/tags/</loc>
-    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/tags/"
-                />
-  </url><url>
-    <loc>https://82mhz.net/de/year/</loc>
-    <lastmod>2023-11-06T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/year/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/year/"
-                />
   </url><url>
     <loc>https://82mhz.net/de/posts/2023/10/b%C3%BCcher-die-ich-im-september-2023-gelesen-habe/</loc>
     <lastmod>2023-10-01T00:00:00+00:00</lastmod>
@@ -176,9 +205,6 @@
                 hreflang="de-DE"
                 href="https://82mhz.net/de/posts/2023/09/mein-verh%C3%A4ltnis-zu-digitaler-kommunikation-die-anf%C3%A4nge/"
                 />
-  </url><url>
-    <loc>https://82mhz.net/de/tags/psychischegesundheit/</loc>
-    <lastmod>2023-09-24T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/de/posts/2023/09/cal-newports-deep-life-stack-ebene-1-disziplin/</loc>
     <lastmod>2023-09-21T00:00:00+00:00</lastmod>
@@ -472,6 +498,18 @@
                 rel="alternate"
                 hreflang="de-DE"
                 href="https://82mhz.net/de/posts/2023/11/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/de/posts/2024/01/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/2024/01/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/2024/01/"
                 />
   </url><url>
     <loc>https://82mhz.net/de/links/</loc>
