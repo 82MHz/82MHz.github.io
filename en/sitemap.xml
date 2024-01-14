@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://82mhz.net/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/tags/100daystooffload/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -29,7 +29,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/posts/2024/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -42,10 +42,10 @@
                 />
   </url><url>
     <loc>https://82mhz.net/tags/bookclub/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/posts/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -58,7 +58,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/tags/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -70,11 +70,11 @@
                 href="https://82mhz.net/tags/"
                 />
   </url><url>
-    <loc>https://82mhz.net/posts/2024/01/the-books-i-read-in-november-2023/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <loc>https://82mhz.net/posts/2024/01/the-books-i-read-in-december-2023/</loc>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/year/</loc>
-    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
+    <lastmod>2024-01-12T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -85,6 +85,9 @@
                 hreflang="en-GB"
                 href="https://82mhz.net/year/"
                 />
+  </url><url>
+    <loc>https://82mhz.net/posts/2024/01/the-books-i-read-in-november-2023/</loc>
+    <lastmod>2024-01-05T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/tags/mentalhealth/</loc>
     <lastmod>2024-01-03T00:00:00+00:00</lastmod>
