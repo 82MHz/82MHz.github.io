@@ -1,12 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on 82MHz</title>
-    <link>https://82mhz.net/tags/</link>
-    <description>Recent content in Tags on 82MHz</description>
+    <title>2024/02 on 82MHz</title>
+    <link>https://82mhz.net/posts/2024/02/</link>
+    <description>Recent content in 2024/02 on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language>
-    <lastBuildDate>Sat, 03 Feb 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language><atom:link href="https://82mhz.net/posts/2024/02/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Abandoning 100 Days to offload</title>
       <link>https://82mhz.net/posts/2024/02/abandoning-100-days-to-offload/</link>
