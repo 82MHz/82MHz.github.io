@@ -19,6 +19,8 @@
 <nav class="site-menu">
         <a href="/posts">blog</a>
     
+        <a href="/thoughts">thoughts</a>
+    
         <a href="/bookclub">bookclub</a>
     
         <a href="/links">links</a>
@@ -68,10 +70,10 @@
 <p>First, what is a RAID? RAID stands for &ldquo;redundant array of independent disks&rdquo;, which simply means that more than one physical drive are connected together to form one logical drive.</p>
 <p>There&rsquo;s a variety of different ways to set this up, called RAID levels, which I won&rsquo;t get into here, but <a href="https://en.wikipedia.org/wiki/RAID">wikipedia</a> and many other pages have you covered.</p>
 <p>I set up my USB sticks as a RAID 1 array, which means the data is mirrored across two (could also be more than two for extra redundancy) drives and they all contain the exact same information. This way, if one drive fails, the other still has everything saved and no data is lost. Of course when this happens, the faulty drive needs to be replaced as soon as possible before the other one fails as well.</p>
-<p>I got two inexpensive Sandisk 64GB USB drives from <a href="https://www.amazon.de/SanDisk-Ultra-Flair-USB-Flash-Laufwerk-150-MB/dp/B015CH1NAQ/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=2KRIYR2F3VF31&amp;keywords=64gb+sandisk+usb&amp;qid=1697862134&amp;sprefix=64gb+sandisk+usb%2Caps%2C205&amp;sr=8-3">Amazon</a> that I connected to my Raspi and set up as a RAID 1 array. This is not a buying recommendation by the way, but I never had a problem with Sandisk drives in the past and these were reasonably cheap, so I went with them.</p>
+<p>I got two inexpensive Sandisk 64GB USB drives from <a href="https://www.amazon.de/SanDisk-Ultra-Flair-USB-Flash-Laufwerk-150-MB/dp/B015CH1NAQ/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=2KRIYR2F3VF31&keywords=64gb+sandisk+usb&qid=1697862134&sprefix=64gb+sandisk+usb%2Caps%2C205&sr=8-3">Amazon</a> that I connected to my Raspi and set up as a RAID 1 array. This is not a buying recommendation by the way, but I never had a problem with Sandisk drives in the past and these were reasonably cheap, so I went with them.</p>
 <p>I plugged them into my Raspi, and that&rsquo;s the hardware setup taken care of.</p>
 <h2 id="software-configuration">Software configuration</h2>
-<p>I&rsquo;ll walk through the installation here, for reference a list of all the commands is at the <a href="#summary">bottom of the post</a>.</p>
+<p>I&rsquo;ll walk through the installation here, for reference a list of all the commands is at the <a href="/#summary">bottom of the post</a>.</p>
 <p>The raid is configured through a utility called &lsquo;mdadm&rsquo;, which you can install through the packet manager of your distro or compile from scratch if you&rsquo;re hardcore. I&rsquo;m not hardcore, so I simply installed it.</p>
 <pre tabindex="0"><code>$ sudo apt install mdadm
 </code></pre><p>Next, I checked if the USB drives are available.</p>

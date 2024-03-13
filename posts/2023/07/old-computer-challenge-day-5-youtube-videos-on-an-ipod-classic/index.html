@@ -19,6 +19,8 @@
 <nav class="site-menu">
         <a href="/posts">blog</a>
     
+        <a href="/thoughts">thoughts</a>
+    
         <a href="/bookclub">bookclub</a>
     
         <a href="/links">links</a>
@@ -65,7 +67,7 @@
 <p>A while ago I got into old iPods (of course like so many people thanks to a certain <a href="https://yewtu.be/channel/UC7Jwj9fkrf1adN4fMmTkpug">easily excitable australian youtuber</a>) and got myself an old iPod Classic with a 160GB harddisk.</p>
 <p>I remember thinking back then that they looked really amazing and that 160GB was just a phenomenal amount of storage, enough for my entire music collection at the time, but of course being a university student who was just barely getting by financially there was no way I could afford one.</p>
 <p>Fast forward a decade and a half later, thankfully I have an income now and old iPods have come down in price as well (double win!), so the time had come to get one.</p>
-<p><img src="/iPodClassic.jpg" alt="iPodClassic"></p>
+<p><img alt="iPodClassic" src="/iPodClassic.jpg"></p>
 <p>Of course the first thing I did was to put <a href="https://www.rockbox.org">Rockbox</a> on it, and here it is running the fantastic <a href="https://github.com/D0-0K/adwaitapod">Adawaitapod</a> theme by <a href="https://d00k.net/">D00k</a>!</p>
 <p>So then putting music and podcasts and audiobooks on it is pretty straightforward, just copy your MP3s, OGGs, FLACs etc. over and you&rsquo;re good to go! No iTunes, no messing around trying to get libgtkpod working, it just works like any other MP3-Player, you mount it as a USB-storage device on your computer, copy the files over and that&rsquo;s it. The way it&rsquo;s supposed to be.</p>
 <p>But wait, this thing can play videos too, right? Could it be possible to rip videos from youtube and put them on the iPod so I can strain my eyes watching them on a way too tiny screen like it&rsquo;s 2005?<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
@@ -91,7 +93,7 @@
 <pre tabindex="0"><code> $ for i in *.webm; do ffmpeg -i &#34;$i&#34; -c:v mpeg2video -b:v 4000k -acodec libmp3lame -ab 192k -vf scale=320:-1 &#34;${i%.*}.mpg&#34;; done
 </code></pre><p>In order to change the filesize (and quality), you can play around with the video bitrate (the number after -b:v) and the audio bitrate (the number after -ab) until you have the right values dialed in for your usecase. The bitrates above work well for me, so I&rsquo;m happy with them.</p>
 <p>Now if everything went well, you have a bunch of video files in your folder with the extension *<em>mpg</em>, and you can just copy them over to your iPod, open them in Rockbox like any other file and enjoy your favorite 80s music videos on the go! (I know that&rsquo;s what you came here for ;) )</p>
-<p><img src="/iPodClassicMJ.jpg" alt="iPodClassic"></p>
+<p><img alt="iPodClassic" src="/iPodClassicMJ.jpg"></p>
 <p>(It looks better in person btw., my camera is not the greatest. But the iPods screen is actually pretty nice for its age!)</p>
 <h4 id="bonus-round-converting-to-h264-for-the-original-ipod-software">Bonus round: Converting to h.264 for the original iPod software</h4>
 <p>Like I mentioned, the iPod is capable of playing h.264 videos, so if you&rsquo;re still rocking the original Apple software, you can also convert you videos to a higher quality (and smaller filesize) codec like this:</p>

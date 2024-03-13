@@ -1,12 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>iPod on 82MHz</title>
+    <title>IPod on 82MHz</title>
     <link>https://82mhz.net/categories/ipod/</link>
-    <description>Recent content in iPod on 82MHz</description>
+    <description>Recent content in IPod on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
     <lastBuildDate>Sat, 15 Jul 2023 15:11:27 +0200</lastBuildDate><atom:link href="https://82mhz.net/categories/ipod/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New Microblogging Section</title>
+      <link>https://82mhz.net/posts/2024/03/new-microblogging-section/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2024/03/new-microblogging-section/</guid>
+      <description>&lt;p&gt;I added a new microblogging section called &amp;ldquo;thoughts&amp;rdquo; to this site.&lt;/p&gt;
+&lt;p&gt;Why?&lt;/p&gt;
+&lt;p&gt;Well, I&amp;rsquo;ve noticed that I don&amp;rsquo;t blog as much as I&amp;rsquo;d like to, and the reason I belive is that I think of blog posts as a kind of long-form article with a clear message and structure. Something that could be published in a magazine or on a news website (although I&amp;rsquo;m not nearly good enough at writing for that).&lt;/p&gt;
+&lt;p&gt;But that keeps me from blogging, because I often just have a half structured thought in my head that I want to get out without spending an hour or more shaping it into a full article.&lt;/p&gt;
+&lt;p&gt;I realise that&amp;rsquo;s a bit irrational and a problem I&amp;rsquo;m creating for myself - after all, this is my site and I can do whatever I want on it. But still, that&amp;rsquo;s the way my brain works, and rather than try to fight it, I&amp;rsquo;m going to go with it and have different sections for quick posts and longer articles from now on.&lt;/p&gt;
+&lt;p&gt;One thing I&amp;rsquo;m not quite sure about is how to handle the RSS feed. Have everything in one feed, or separate feeds for blog posts and microblogs? For now I&amp;rsquo;ve got them both in one feed and I guess I&amp;rsquo;ll see how it goes and if I want to change it. Any thoughts or feedback is of course welcome!&lt;/p&gt;
+&lt;p&gt;I hope this makes it easier for me to get more stuff out without worrying so much about the quality of the posts.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Abandoning 100 Days to offload</title>
       <link>https://82mhz.net/posts/2024/02/abandoning-100-days-to-offload/</link>
@@ -226,10 +241,10 @@
 &lt;p&gt;First, what is a RAID? RAID stands for &amp;ldquo;redundant array of independent disks&amp;rdquo;, which simply means that more than one physical drive are connected together to form one logical drive.&lt;/p&gt;
 &lt;p&gt;There&amp;rsquo;s a variety of different ways to set this up, called RAID levels, which I won&amp;rsquo;t get into here, but &lt;a href=&#34;https://en.wikipedia.org/wiki/RAID&#34;&gt;wikipedia&lt;/a&gt; and many other pages have you covered.&lt;/p&gt;
 &lt;p&gt;I set up my USB sticks as a RAID 1 array, which means the data is mirrored across two (could also be more than two for extra redundancy) drives and they all contain the exact same information. This way, if one drive fails, the other still has everything saved and no data is lost. Of course when this happens, the faulty drive needs to be replaced as soon as possible before the other one fails as well.&lt;/p&gt;
-&lt;p&gt;I got two inexpensive Sandisk 64GB USB drives from &lt;a href=&#34;https://www.amazon.de/SanDisk-Ultra-Flair-USB-Flash-Laufwerk-150-MB/dp/B015CH1NAQ/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=2KRIYR2F3VF31&amp;amp;keywords=64gb+sandisk+usb&amp;amp;qid=1697862134&amp;amp;sprefix=64gb+sandisk+usb%2Caps%2C205&amp;amp;sr=8-3&#34;&gt;Amazon&lt;/a&gt; that I connected to my Raspi and set up as a RAID 1 array. This is not a buying recommendation by the way, but I never had a problem with Sandisk drives in the past and these were reasonably cheap, so I went with them.&lt;/p&gt;
+&lt;p&gt;I got two inexpensive Sandisk 64GB USB drives from &lt;a href=&#34;https://www.amazon.de/SanDisk-Ultra-Flair-USB-Flash-Laufwerk-150-MB/dp/B015CH1NAQ/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=2KRIYR2F3VF31&amp;keywords=64gb+sandisk+usb&amp;qid=1697862134&amp;sprefix=64gb+sandisk+usb%2Caps%2C205&amp;sr=8-3&#34;&gt;Amazon&lt;/a&gt; that I connected to my Raspi and set up as a RAID 1 array. This is not a buying recommendation by the way, but I never had a problem with Sandisk drives in the past and these were reasonably cheap, so I went with them.&lt;/p&gt;
 &lt;p&gt;I plugged them into my Raspi, and that&amp;rsquo;s the hardware setup taken care of.&lt;/p&gt;
 &lt;h2 id=&#34;software-configuration&#34;&gt;Software configuration&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;ll walk through the installation here, for reference a list of all the commands is at the &lt;a href=&#34;#summary&#34;&gt;bottom of the post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll walk through the installation here, for reference a list of all the commands is at the &lt;a href=&#34;https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/#summary&#34;&gt;bottom of the post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The raid is configured through a utility called &amp;lsquo;mdadm&amp;rsquo;, which you can install through the packet manager of your distro or compile from scratch if you&amp;rsquo;re hardcore. I&amp;rsquo;m not hardcore, so I simply installed it.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo apt install mdadm
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Next, I checked if the USB drives are available.&lt;/p&gt;
@@ -425,7 +440,7 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;p&gt;Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die.&lt;/p&gt;
 &lt;p&gt;I call this enshittification [&amp;hellip;]&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;The latest victim of this process (from my own personal point of view) is Whatsapp, but for me, they were already on my &amp;ldquo;shitlist&amp;rdquo; anyway, on the one hand because of the unbearable behavior of Facebook, which by now &lt;a href=&#34;https://www.amazon.com/-/de/dp/B07YSHD2C5/ref=sr_1_23?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;keywords=facebook&amp;amp;qid=1695806285&amp;amp;sr=8-23&#34;&gt;fills&lt;/a&gt; &lt;a href=&#34;https://www.amazon.com/-/de/dp/B0BHSNK6BV/ref=sr_1_18?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;keywords=facebook&amp;amp;qid=1695806285&amp;amp;sr=8-18&#34;&gt;entire&lt;/a&gt; &lt;a href=&#34;https://www.amazon.com/-/de/dp/B07V8CL7RH/ref=sr_1_8?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;keywords=facebook&amp;amp;qid=1695806285&amp;amp;sr=8-8&#34;&gt;books&lt;/a&gt;, and on the other hand because they have been announcing for years now that ads will be shown in Whatsapp at some point. So it was only a matter of time before it happened.&lt;/p&gt;
+&lt;p&gt;The latest victim of this process (from my own personal point of view) is Whatsapp, but for me, they were already on my &amp;ldquo;shitlist&amp;rdquo; anyway, on the one hand because of the unbearable behavior of Facebook, which by now &lt;a href=&#34;https://www.amazon.com/-/de/dp/B07YSHD2C5/ref=sr_1_23?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=facebook&amp;qid=1695806285&amp;sr=8-23&#34;&gt;fills&lt;/a&gt; &lt;a href=&#34;https://www.amazon.com/-/de/dp/B0BHSNK6BV/ref=sr_1_18?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=facebook&amp;qid=1695806285&amp;sr=8-18&#34;&gt;entire&lt;/a&gt; &lt;a href=&#34;https://www.amazon.com/-/de/dp/B07V8CL7RH/ref=sr_1_8?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;keywords=facebook&amp;qid=1695806285&amp;sr=8-8&#34;&gt;books&lt;/a&gt;, and on the other hand because they have been announcing for years now that ads will be shown in Whatsapp at some point. So it was only a matter of time before it happened.&lt;/p&gt;
 &lt;p&gt;But this made me think about the past&amp;hellip; in my last post I wrote a bit about my favorite messenger from the old days, ICQ.&lt;/p&gt;
 &lt;p&gt;ICQ was great, had a simple interface, you could use it to chat with your friends and that was it.&lt;/p&gt;
 &lt;p&gt;Really?&lt;/p&gt;
@@ -594,7 +609,7 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;p&gt;So I built my own parser in Python.&lt;/p&gt;
 &lt;p&gt;Now this sounds like &amp;ldquo;just quickly whipped something up&amp;rdquo;, but since I&amp;rsquo;m not a Python expert and had to google every single command, it took me a few hours.&lt;/p&gt;
 &lt;p&gt;But now it works, sfeed fetches the latest articles from a list of RSS feeds, my Python script parses them out as Markdown in the right format and Hugo then integrates it into the website.&lt;/p&gt;
-&lt;p&gt;The result can be admired &lt;a href=&#34;../../../../blogroll&#34;&gt;here&lt;/a&gt; and can be accessed via the menu option &amp;ldquo;links&amp;rdquo;. Maybe I&amp;rsquo;ll add a separate menu entry, I&amp;rsquo;m not quite sure yet.&lt;/p&gt;
+&lt;p&gt;The result can be admired &lt;a href=&#34;https://82mhz.net/blogroll/&#34;&gt;here&lt;/a&gt; and can be accessed via the menu option &amp;ldquo;links&amp;rdquo;. Maybe I&amp;rsquo;ll add a separate menu entry, I&amp;rsquo;m not quite sure yet.&lt;/p&gt;
 &lt;p&gt;Either way, I&amp;rsquo;m happy with it for now. So far I&amp;rsquo;m still updating manually, so the list might be a few days behind. If I find the time and feel like it, I&amp;rsquo;ll switch to automated updates.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Post 002/100 of the 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -786,7 +801,7 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;p&gt;A while ago I got into old iPods (of course like so many people thanks to a certain &lt;a href=&#34;https://yewtu.be/channel/UC7Jwj9fkrf1adN4fMmTkpug&#34;&gt;easily excitable australian youtuber&lt;/a&gt;) and got myself an old iPod Classic with a 160GB harddisk.&lt;/p&gt;
 &lt;p&gt;I remember thinking back then that they looked really amazing and that 160GB was just a phenomenal amount of storage, enough for my entire music collection at the time, but of course being a university student who was just barely getting by financially there was no way I could afford one.&lt;/p&gt;
 &lt;p&gt;Fast forward a decade and a half later, thankfully I have an income now and old iPods have come down in price as well (double win!), so the time had come to get one.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://82mhz.net/iPodClassic.jpg&#34; alt=&#34;iPodClassic&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;iPodClassic&#34; src=&#34;https://82mhz.net/iPodClassic.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Of course the first thing I did was to put &lt;a href=&#34;https://www.rockbox.org&#34;&gt;Rockbox&lt;/a&gt; on it, and here it is running the fantastic &lt;a href=&#34;https://github.com/D0-0K/adwaitapod&#34;&gt;Adawaitapod&lt;/a&gt; theme by &lt;a href=&#34;https://d00k.net/&#34;&gt;D00k&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;So then putting music and podcasts and audiobooks on it is pretty straightforward, just copy your MP3s, OGGs, FLACs etc. over and you&amp;rsquo;re good to go! No iTunes, no messing around trying to get libgtkpod working, it just works like any other MP3-Player, you mount it as a USB-storage device on your computer, copy the files over and that&amp;rsquo;s it. The way it&amp;rsquo;s supposed to be.&lt;/p&gt;
 &lt;p&gt;But wait, this thing can play videos too, right? Could it be possible to rip videos from youtube and put them on the iPod so I can strain my eyes watching them on a way too tiny screen like it&amp;rsquo;s 2005?&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -812,7 +827,7 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; $ for i in *.webm; do ffmpeg -i &amp;#34;$i&amp;#34; -c:v mpeg2video -b:v 4000k -acodec libmp3lame -ab 192k -vf scale=320:-1 &amp;#34;${i%.*}.mpg&amp;#34;; done
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In order to change the filesize (and quality), you can play around with the video bitrate (the number after -b:v) and the audio bitrate (the number after -ab) until you have the right values dialed in for your usecase. The bitrates above work well for me, so I&amp;rsquo;m happy with them.&lt;/p&gt;
 &lt;p&gt;Now if everything went well, you have a bunch of video files in your folder with the extension *&lt;em&gt;mpg&lt;/em&gt;, and you can just copy them over to your iPod, open them in Rockbox like any other file and enjoy your favorite 80s music videos on the go! (I know that&amp;rsquo;s what you came here for ;) )&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://82mhz.net/iPodClassicMJ.jpg&#34; alt=&#34;iPodClassic&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;iPodClassic&#34; src=&#34;https://82mhz.net/iPodClassicMJ.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;(It looks better in person btw., my camera is not the greatest. But the iPods screen is actually pretty nice for its age!)&lt;/p&gt;
 &lt;h4 id=&#34;bonus-round-converting-to-h264-for-the-original-ipod-software&#34;&gt;Bonus round: Converting to h.264 for the original iPod software&lt;/h4&gt;
 &lt;p&gt;Like I mentioned, the iPod is capable of playing h.264 videos, so if you&amp;rsquo;re still rocking the original Apple software, you can also convert you videos to a higher quality (and smaller filesize) codec like this:&lt;/p&gt;
@@ -933,7 +948,7 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;/blockquote&gt;
 &lt;p&gt;Okay, easy enough, right? Well, of course my natural tendency to overthink everything kicked in.&lt;/p&gt;
 &lt;p&gt;First I thought, I&amp;rsquo;d fire up my (almost) 20 year old laptop from back when I was in university. Turns out, the thing is really on its last legs, the battery has died long ago, the display hinges are barely holding together, the backlight (CFL, no LEDs) could give up at any moment&amp;hellip; not a pleasant experience.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://82mhz.net/aspire2001.jpg&#34; alt=&#34;Acer Aspire 2001&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Acer Aspire 2001&#34; src=&#34;https://82mhz.net/aspire2001.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Next, I thought I&amp;rsquo;d just slow down my normal desktop PC to one core, 512mb RAM and limit the cpu frequency&amp;hellip; but that didn&amp;rsquo;t really feel old, it was just my normal computer a bit slower.&lt;/p&gt;
 &lt;p&gt;So after a lot of thinking what I ended up with is this:&lt;/p&gt;
 &lt;ul&gt;
@@ -946,10 +961,12 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;li&gt;Music comes from physical media, meaning CDs, vinyl, radio or an old iPod (yes, I&amp;rsquo;m lumping the iPod in with the physical media because it&amp;rsquo;s a dedicated device whose only purpose is to play music - and most importantly it can&amp;rsquo;t go online!)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;So this is the setup for now, we&amp;rsquo;ll see how the week goes.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&#34;https://82mhz.net/oldComputerSetup.jpg&#34; alt=&#34;Setup for the OldComputerChallenge&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Setup for the OldComputerChallenge&#34; src=&#34;https://82mhz.net/oldComputerSetup.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Let the fun begin!&lt;/p&gt;
 </description>
     </item>
+    
+
     
   </channel>
 </rss>

@@ -68,8 +68,13 @@ h1 {
 h2 {
     font-size: 1.4em;
     font-weight: bold;
-    margin: 20px 0 10px 0;
+    margin: 20px 0 30px 0;
 }
+
+h3 {
+    margin: 15px 0 5px 0;
+}
+
 
 .container {
     margin: 0 auto;
@@ -87,6 +92,7 @@ nav {
 article .date {
     font-size: 0.8em;
     color:var(--secondary-color);
+    margin: 15px 0 15px 0;
 }
 
 .footer {
@@ -182,7 +188,3 @@ li {
 
 /* style.css | http://localhost:1313/css/style.css */
 
-h1 {
-    /* margin: 35px 0 10px 0; */
-    margin: 35px 0 30px 0;
-  }

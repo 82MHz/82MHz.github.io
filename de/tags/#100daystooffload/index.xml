@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>#100DaysToOffload on 82MHz</title>
-    <link>https://82mhz.net/de/tags/#100daystooffload/</link>
+    <link>https://82mhz.net/de/tags/</link>
     <description>Recent content in #100DaysToOffload on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/de/tags/#100daystooffload/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/de/tags/" rel="self" type="application/rss+xml" />
     <item>
       <title>Willkommen 2024</title>
       <link>https://82mhz.net/de/posts/2024/01/willkommen-2024/</link>
@@ -124,7 +124,7 @@
 &lt;p&gt;Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die.&lt;/p&gt;
 &lt;p&gt;I call this enshittification [&amp;hellip;]&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Das letzte Opfer dieses Prozesses (aus meiner ganz persönlichen Sicht) ist Whatsapp, aber für mich waren die eh schon lange angezählt, zum einen wegen des unerträglichen Gebarens von Facebook, das mittlerweile &lt;a href=&#34;https://www.amazon.de/Wahrheit-%C3%BCber-Facebook-Whistleblowerin-Social-Media-Plattform-ebook/dp/B0BJW56PBT/ref=sr_1_8?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=1YJV5BCESEJTO&amp;amp;keywords=facebook&amp;amp;qid=1695802939&amp;amp;sprefix=facebook%2Caps%2C139&amp;amp;sr=8-8&#34;&gt;ganze&lt;/a&gt; &lt;a href=&#34;https://www.amazon.de/Untitled-Sheera-Frenkel-ebook/dp/B07ZGF536G/ref=sr_1_21?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=1YJV5BCESEJTO&amp;amp;keywords=facebook&amp;amp;qid=1695802939&amp;amp;sprefix=facebook%2Caps%2C139&amp;amp;sr=8-21&#34;&gt;Bücher&lt;/a&gt; &lt;a href=&#34;https://www.amazon.de/Facebook-Inside-English-Steven-Levy-ebook/dp/B081R296DR/ref=sr_1_14?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=1YJV5BCESEJTO&amp;amp;keywords=facebook&amp;amp;qid=1695802939&amp;amp;sprefix=facebook%2Caps%2C139&amp;amp;sr=8-14&#34;&gt;füllt&lt;/a&gt;, und zum anderen weil sie schon seit Jahren immer wieder andeuten, dass sie in Whatsapp irgendwann Anzeigen schalten wollen. Es war also nur eine Frage der Zeit, bis es so weit kommt.&lt;/p&gt;
+&lt;p&gt;Das letzte Opfer dieses Prozesses (aus meiner ganz persönlichen Sicht) ist Whatsapp, aber für mich waren die eh schon lange angezählt, zum einen wegen des unerträglichen Gebarens von Facebook, das mittlerweile &lt;a href=&#34;https://www.amazon.de/Wahrheit-%C3%BCber-Facebook-Whistleblowerin-Social-Media-Plattform-ebook/dp/B0BJW56PBT/ref=sr_1_8?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=1YJV5BCESEJTO&amp;keywords=facebook&amp;qid=1695802939&amp;sprefix=facebook%2Caps%2C139&amp;sr=8-8&#34;&gt;ganze&lt;/a&gt; &lt;a href=&#34;https://www.amazon.de/Untitled-Sheera-Frenkel-ebook/dp/B07ZGF536G/ref=sr_1_21?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=1YJV5BCESEJTO&amp;keywords=facebook&amp;qid=1695802939&amp;sprefix=facebook%2Caps%2C139&amp;sr=8-21&#34;&gt;Bücher&lt;/a&gt; &lt;a href=&#34;https://www.amazon.de/Facebook-Inside-English-Steven-Levy-ebook/dp/B081R296DR/ref=sr_1_14?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=1YJV5BCESEJTO&amp;keywords=facebook&amp;qid=1695802939&amp;sprefix=facebook%2Caps%2C139&amp;sr=8-14&#34;&gt;füllt&lt;/a&gt;, und zum anderen weil sie schon seit Jahren immer wieder andeuten, dass sie in Whatsapp irgendwann Anzeigen schalten wollen. Es war also nur eine Frage der Zeit, bis es so weit kommt.&lt;/p&gt;
 &lt;p&gt;Jedenfalls hat mich das dazu gebracht, mal ein bisschen über die Vergangenheit nachzudenken&amp;hellip; in meinem letzten Post hab ich ja etwas über meinen bevorzugten Messenger aus der alten Zeit geschrieben, ICQ.&lt;/p&gt;
 &lt;p&gt;ICQ war großartig, hatte ein simples Interface, man konnte mit seinen Freunden chatten und das wars.&lt;/p&gt;
 &lt;p&gt;Wirklich?&lt;/p&gt;
@@ -285,7 +285,7 @@ Ich würde das Buch aber nicht unbedingt als Science Fiction bezeichnen, eher al
 &lt;p&gt;Also hab ich kurzerhand meinen eigenen Parser in Python gebastelt.&lt;/p&gt;
 &lt;p&gt;Das klingt jetzt nach &amp;ldquo;mal eben runtergetippt&amp;rdquo;, aber nachdem ich kein Python-Experte bin und quasi jeden einzelnen Befehl erstmal googlen musste, hat es mich doch einige Stunden gekostet.&lt;/p&gt;
 &lt;p&gt;Jetzt läuft es aber, sfeed holt aus einer Liste von RSS-Feeds die neuesten Beiträge ab, mein Python-Skript parst sie als Markdown im gewünschen Format raus und Hugo bindet es dann in die Webseite ein.&lt;/p&gt;
-&lt;p&gt;Das Ergebnis lässt sich &lt;a href=&#34;../../../../blogroll&#34;&gt;hier&lt;/a&gt; bewundern und künftig über das Menü via &amp;ldquo;links&amp;rdquo; erreichen. Vielleicht führe ich noch einen eigenen Menüeintrag hinzu, das muss ich noch etwas auf mich wirken lassen.&lt;/p&gt;
+&lt;p&gt;Das Ergebnis lässt sich &lt;a href=&#34;https://82mhz.net/de/blogroll/&#34;&gt;hier&lt;/a&gt; bewundern und künftig über das Menü via &amp;ldquo;links&amp;rdquo; erreichen. Vielleicht führe ich noch einen eigenen Menüeintrag hinzu, das muss ich noch etwas auf mich wirken lassen.&lt;/p&gt;
 &lt;p&gt;Auf jeden Fall bin ich damit erstmal soweit happy. Bisher update ich noch manuell, die Liste könnte also ein paar Tage hinterher sein. Wenn ich die Zeit und Muße finde, werd ich das auf automatisierte Updates umstellen.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Post 002/100 der 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -386,6 +386,8 @@ Matto hat auch noch im IRC auf &lt;a href=&#34;ircs://irc.libera.chat:6697&#34;&
 &lt;p&gt;Mal sehen, wie ich damit zurande komme. Die älteren Beiträge übersetze ich jetzt erstmal nicht ins Deutsche, aber ich denke das ist zu verschmerzen.&lt;/p&gt;
 </description>
     </item>
+    
+
     
   </channel>
 </rss>
