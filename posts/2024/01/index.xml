@@ -23,18 +23,6 @@
     </item>
     
     <item>
-      <title>Abandoning 100 Days to offload</title>
-      <link>https://82mhz.net/posts/2024/02/abandoning-100-days-to-offload/</link>
-      <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://82mhz.net/posts/2024/02/abandoning-100-days-to-offload/</guid>
-      <description>&lt;p&gt;In September I started the 100 days to offload challenge, in which I decided to write 100 blog posts over the course of a year. Today I&amp;rsquo;m ending the challenge.&lt;/p&gt;
-&lt;p&gt;So why am I doing this? Well, to put it simply, 100 posts in a year is about two blog posts a week, and if I&amp;rsquo;m counting correctly, I&amp;rsquo;m now 17 posts in, so to get to 100 posts by the end of August I&amp;rsquo;d have to write 3 or 4 posts a week consistently for months. That&amp;rsquo;s doable, of course, if I stick to shorter posts and write consistently, but the thing is, I don&amp;rsquo;t.&lt;/p&gt;
-&lt;p&gt;I have discovered that I write blog posts when I have something to say, when I have something I want to share with a wider audience, and when I want to engage in a discussion with people. And I don&amp;rsquo;t think I have enough interesting things to say to fill 3 or 4 posts a week, and I don&amp;rsquo;t want to write posts just for the sake of having written something. I&amp;rsquo;d rather focus on writing fewer posts with more interesting topics (interesting to me anyway) than writing about mundane things just for the sake of having written something. Quality over quantity.&lt;/p&gt;
-&lt;p&gt;So do I feel bad about &amp;ldquo;failing&amp;rdquo; the challenge? Not really, no. I gave it a go and discovered that it wasn&amp;rsquo;t for me, and rather than grit my teeth and try to force myself to do it, I&amp;rsquo;m content to realise that blogging a lot isn&amp;rsquo;t for me, and I&amp;rsquo;d rather take it easy than push myself to do something I&amp;rsquo;m not fully committed to.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Reflections on Pacifism</title>
       <link>https://82mhz.net/posts/2024/01/reflections-on-pacifism/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
@@ -966,7 +954,43 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 </description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://82mhz.net/posts/1/01/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/1/01/</guid>
+      <description>&lt;p&gt;y
+y&amp;mdash;
+title: &amp;ldquo;Abandoning 100 Days to offload&amp;rdquo;
+date: 2024-02-03
+draft: false
+author: 82mhz
+year: &amp;ldquo;2024&amp;rdquo;
+month: &amp;ldquo;2024/02&amp;rdquo;
+tags:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;100DaysToOffload&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;p&gt;In September I started the 100 days to offload challenge, in which I decided to write 100 blog posts over the course of a year. Today I&amp;rsquo;m ending the challenge.&lt;/p&gt;
+&lt;p&gt;So why am I doing this? Well, to put it simply, 100 posts in a year is about two blog posts a week, and if I&amp;rsquo;m counting correctly, I&amp;rsquo;m now 17 posts in, so to get to 100 posts by the end of August I&amp;rsquo;d have to write 3 or 4 posts a week consistently for months. That&amp;rsquo;s doable, of course, if I stick to shorter posts and write consistently, but the thing is, I don&amp;rsquo;t.&lt;/p&gt;
+&lt;p&gt;I have discovered that I write blog posts when I have something to say, when I have something I want to share with a wider audience, and when I want to engage in a discussion with people. And I don&amp;rsquo;t think I have enough interesting things to say to fill 3 or 4 posts a week, and I don&amp;rsquo;t want to write posts just for the sake of having written something. I&amp;rsquo;d rather focus on writing fewer posts with more interesting topics (interesting to me anyway) than writing about mundane things just for the sake of having written something. Quality over quantity.&lt;/p&gt;
+&lt;p&gt;So do I feel bad about &amp;ldquo;failing&amp;rdquo; the challenge? Not really, no. I gave it a go and discovered that it wasn&amp;rsquo;t for me, and rather than grit my teeth and try to force myself to do it, I&amp;rsquo;m content to realise that blogging a lot isn&amp;rsquo;t for me, and I&amp;rsquo;d rather take it easy than push myself to do something I&amp;rsquo;m not fully committed to.&lt;/p&gt;</description>
+    </item>
+    
 
+    
+    <item>
+      <title>Dark Mode</title>
+      <link>https://82mhz.net/thoughts/dark-mode/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/thoughts/dark-mode/</guid>
+      <description>&lt;p&gt;I implemented a (pretty rudimentary) dark mode for the website. It&amp;rsquo;s set to follow the operating system preferences for light or dark mode. I considered adding a switch to the website to toggle between light and dark, but I don&amp;rsquo;t know if this is really necessary&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Feedback is of course welcome, as well as bug reports if something isn&amp;rsquo;t working right.&lt;/p&gt;
+</description>
+    </item>
     
   </channel>
 </rss>

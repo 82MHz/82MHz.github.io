@@ -34,13 +34,37 @@
     --font-stack: Jost;
     --mono-font-stack: Jost Mono;
     --global-font-size: 20px;
-    --global-font-color: #444;
-
+    /*--global-font-color: #444;
     --background-color:#fff;
     --primary-color:#3e158b;
-    --secondary-color:#727578;
+    --secondary-color:#727578;*/
     --global-line-height: 1.6em;
     --page-width: 40em;
+}
+
+@media (prefers-color-scheme: dark) {
+	:root {
+		--background-color: #2f2f2f;
+        --global-font-color: #d8d8d8;
+        --primary-color:#9d74ea;
+        --secondary-color:#727578;
+	}
+}
+
+@media (prefers-color-scheme: light) {
+	:root {
+		--background-color: #fff;
+        --global-font-color: #444;
+        --primary-color:#3e158b;
+        --secondary-color:#727578;
+    	}
+}
+
+@media only screen and (max-width: 768px) {
+	:root {
+        margin:10px;
+		--global-font-size: 18px;
+	}
 }
 
 body {
@@ -160,13 +184,6 @@ nav > a {
     text-decoration: none;
     color:var(--global-font-color);
     margin-right: 25px;
-}
-
-@media only screen and (max-width: 768px) {
-	:root {
-        margin:10px;
-		--global-font-size: 18px;
-	}
 }
 
 a{
