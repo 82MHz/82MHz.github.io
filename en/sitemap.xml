@@ -503,19 +503,6 @@
                 href="https://82mhz.net/posts/2023/08/updated-design-part-2/"
                 />
   </url><url>
-    <loc>https://82mhz.net/about/</loc>
-    <lastmod>2023-08-23T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/about/"
-                />
-  </url><url>
     <loc>https://82mhz.net/categories/</loc>
     <lastmod>2023-08-20T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -616,6 +603,19 @@
   </url><url>
     <loc>https://82mhz.net/tags/smolnet/</loc>
     <lastmod>2023-07-13T13:50:48+02:00</lastmod>
+  </url><url>
+    <loc>https://82mhz.net/about/</loc>
+    <lastmod>2023-07-12T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/about/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/about/"
+                />
   </url><url>
     <loc>https://82mhz.net/posts/2023/07/old-computer-challenge-day-2/</loc>
     <lastmod>2023-07-11T18:00:48+02:00</lastmod>
