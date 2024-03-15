@@ -8,6 +8,21 @@
     <language>en-GB</language>
     <lastBuildDate>Fri, 26 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/tags/100daystooffload/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Different RSS feeds for Posts and Thoughts</title>
+      <link>https://82mhz.net/posts/2024/03/different-rss-feeds-for-posts-and-thoughts/</link>
+      <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2024/03/different-rss-feeds-for-posts-and-thoughts/</guid>
+      <description>&lt;p&gt;I thought about whether I should have one RSS feed for everything on the site or separate feeds for posts (longer articles) and thoughts (shorter ones). After getting some feedback and also thinking about it for a bit, I decided to have separate RSS feeds.&lt;/p&gt;
+&lt;p&gt;So now there&amp;rsquo;s two feeds for the site:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://82mhz.net/index.xml&#34;&gt;https://82mhz.net/index.xml&lt;/a&gt; for longer posts&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://82mhz.net/thoughts/index.xml&#34;&gt;https://82mhz.net/thoughts/index.xml&lt;/a&gt; for shorter thoughts and notes&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>New Microblogging Section</title>
       <link>https://82mhz.net/posts/2024/03/new-microblogging-section/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
