@@ -6,7 +6,18 @@
     <description>Recent content in Thoughts on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 27 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 28 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Fixed RSS feeds</title>
+      <link>https://82mhz.net/thoughts/fixed-rss-feeds/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/thoughts/fixed-rss-feeds/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://0xdstn.site/&#34;&gt;Dustin&lt;/a&gt; notified me that my thoughts posts also showed up in the RSS feed for the posts posts (okay, I need better names for this), so I had a look and fixed it.
+So now this should only show up once in your feed reader if you are subscribed to both my feeds. Thanks Dustin!&lt;/p&gt;
+</description>
+    </item>
+    
     <item>
       <title>Antisocial Behaviour</title>
       <link>https://82mhz.net/thoughts/antisocial-behaviour/</link>

@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://82mhz.net/</loc>
-    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -15,10 +15,13 @@
                 href="https://82mhz.net/"
                 />
   </url><url>
-    <loc>https://82mhz.net/thoughts/antisocial-behaviour/</loc>
-    <lastmod>2024-03-27T00:00:00+00:00</lastmod>
+    <loc>https://82mhz.net/thoughts/fixed-rss-feeds/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/thoughts/</loc>
+    <lastmod>2024-03-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://82mhz.net/thoughts/antisocial-behaviour/</loc>
     <lastmod>2024-03-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/thoughts/black-sabbath-finally-re-releases-the-tony-martin-era-albums/</loc>
