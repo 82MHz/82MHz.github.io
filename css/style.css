@@ -99,6 +99,9 @@ h3 {
     margin: 15px 0 5px 0;
 }
 
+hr {
+    border-top: 1px solid var(--secondary-color);
+  }
 
 .container {
     margin: 0 auto;
