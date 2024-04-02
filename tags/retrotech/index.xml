@@ -8,6 +8,23 @@
     <language>en-GB</language>
     <lastBuildDate>Tue, 11 Jul 2023 18:00:48 +0200</lastBuildDate><atom:link href="https://82mhz.net/tags/retrotech/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Goodbye Lenna</title>
+      <link>https://82mhz.net/posts/2024/04/goodbye-lenna/</link>
+      <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2024/04/goodbye-lenna/</guid>
+      <description>&lt;p&gt;The IEEE Computer Society &lt;a href=&#34;https://www.techspot.com/news/102460-ieee-no-longer-accept-playboy-lenna-image-image.html&#34;&gt;announced a few days ago&lt;/a&gt; that they will no longer accept publications about image processing research containing the &amp;ldquo;Lenna&amp;rdquo; image.&lt;/p&gt;
+&lt;p&gt;The &amp;ldquo;Lenna&amp;rdquo; image is a photograph from the 1972 issue of Playboy, that somebody at a research lab scanned (in 1973!) and that&amp;rsquo;s been used to test the quality of image processing algorithms ever since.&lt;/p&gt;
+&lt;p&gt;I remember the image from back when I was in University. We had a few classes on image signal processing, and this image was indeed frequently used in the lecture slides and our own experiments to demonstrate the effects of different processing and compression methods.&lt;/p&gt;
+&lt;p&gt;So why is it being retired now? Well firstly, it was never used with permission of either the model herself or the publication (Playboy). Secondly, maybe having an image of a naked woman (even though it was cropped to just the face) out of Playboy magazine spread across decades of scientific research literature was never the best idea in the first place&amp;hellip;&lt;/p&gt;
+&lt;p&gt;But most importantly in my opinion, the woman depicted in the picture herself asked for the image to be retired. And even if all the other factors didn&amp;rsquo;t exist, that alone is more than enough reason to stop use of the image.&lt;/p&gt;
+&lt;p&gt;I don&amp;rsquo;t work in the field of image signal processing, so I had not seen or thought about the image since I left university. But it was kind of nostalgic seeing it again, and now it&amp;rsquo;s officially time to say &amp;ldquo;Goodbye, Lenna&amp;rdquo;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Lenna&#34;&gt;Here&lt;/a&gt; is the wikipedia article with some more information about the image.
+And &lt;a href=&#34;https://www.vice.com/en/article/z44qg5/meet-lenna-the-first-lady-of-the-internet--2&#34;&gt;here&lt;/a&gt; is an article that also goes into more detail about the history and use of the image, and there&amp;rsquo;s also a print of the full image available (NSFW).&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Different RSS feeds for Posts and Thoughts</title>
       <link>https://82mhz.net/posts/2024/03/different-rss-feeds-for-posts-and-thoughts/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
