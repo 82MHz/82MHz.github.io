@@ -8,6 +8,22 @@
     <language>en-GB</language>
     <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/posts/2024/03/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Suzanne Vega and the MP3 format</title>
+      <link>https://82mhz.net/posts/2024/04/suzanne-vega-and-the-mp3-format/</link>
+      <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2024/04/suzanne-vega-and-the-mp3-format/</guid>
+      <description>&lt;p&gt;Yesterday I wrote about using an image from Playboy as a test image for testing image compression algorithms, and that reminded me of another anecdote from university where a piece of popular media was used in the development of a new technology.&lt;/p&gt;
+&lt;p&gt;I studied at the University Erlangen-Nürnberg in Germany, which is closely connected to the Fraunhofer Institute for Integrated Circuits in Erlangen, where the mp3 file format was developed in the 80s and 90s. I also used to work there during and after University for a while, but not at the Audio department.&lt;/p&gt;
+&lt;p&gt;Anyway, many of the mp3 developers were still working at Fraunhofer when I studied there, and I had a few classes about audio signal processing with them. And they used to tell the story where they would test the quality of the compression by listening to the song &lt;a href=&#34;https://www.youtube.com/watch?v=mto47BMT3yA&#34;&gt;&amp;ldquo;Toms Diner&amp;rdquo; by Suzanne Vega&lt;/a&gt; over and over again, because the original version of the song (not the DNA remix) is purely a capella, vocals only and nothing else.&lt;/p&gt;
+&lt;p&gt;Because our ears are very finely tuned to recognizing human voices and spotting even the tiniest nuances and fluctuations in the sound of a voice, this song was the perfect candidate to test the compression algorithm on, since every tiny bit of distortion or compression artifact would stand out and be immediately noticeable.&lt;/p&gt;
+&lt;p&gt;And so, just like Lena Forsén was instrumental in developing the jpeg image format, Suzanne Vega was instrumental in developing the mp3 audio format.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;Unfortunately, there is no such story about the development of video compression algorithms, at least not that I remember, so there won&amp;rsquo;t be a part three in this mini series.&lt;/p&gt;
+&lt;p&gt;This anecdote is also &lt;a href=&#34;https://observer.com/2008/09/suzanne-vega-is-the-mother-of-the-mp3/&#34;&gt;well documented online&lt;/a&gt;, but I&amp;rsquo;m pretty sure I heard about it first in a university lecture about mp3.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>Goodbye Lenna</title>
       <link>https://82mhz.net/posts/2024/04/goodbye-lenna/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
