@@ -6,7 +6,7 @@
     <description>Recent content in Thoughts on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Fri, 19 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 19 Apr 2024 20:02:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Stadtautobahn</title>
       <link>https://82mhz.net/thoughts/stadtautobahn/</link>
@@ -17,16 +17,6 @@
 &lt;p&gt;Just a reminder, this is a current thing from the 2020s, not the 1960s.&lt;/p&gt;
 &lt;p&gt;And what do you get if you build more and better roads into the city? More cars inside the city of course. In a city that&amp;rsquo;s already suffocating under the current amount of traffic.&lt;/p&gt;
 &lt;p&gt;I think I need a better place to live in. This is just too depressing.&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Testing automatic reposting to Mastodon</title>
-      <link>https://82mhz.net/thoughts/testing-automatic-reposting-to-mastodon/</link>
-      <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
-      
-      <guid>https://82mhz.net/thoughts/testing-automatic-reposting-to-mastodon/</guid>
-      <description>&lt;p&gt;This is a test entry to see if automatically reposting new posts on Mastodon works. If it does, I&amp;rsquo;ll write a longer post about it. If not, there might be more tests, but hopefully not.&lt;/p&gt;
 </description>
     </item>
     
@@ -141,6 +131,16 @@ So now this should only show up once in your feed reader if you are subscribed t
       <guid>https://82mhz.net/thoughts/dark-mode/</guid>
       <description>&lt;p&gt;I implemented a (pretty rudimentary) dark mode for the website. It&amp;rsquo;s set to follow the operating system preferences for light or dark mode. I considered adding a switch to the website to toggle between light and dark, but I don&amp;rsquo;t know if this is really necessary&amp;hellip;&lt;/p&gt;
 &lt;p&gt;Feedback is of course welcome, as well as bug reports if something isn&amp;rsquo;t working right.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Testpost</title>
+      <link>https://82mhz.net/thoughts/testpost/</link>
+      <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/thoughts/testpost/</guid>
+      <description>&lt;p&gt;Hier kommen Gedanken rein.&lt;/p&gt;
 </description>
     </item>
     
