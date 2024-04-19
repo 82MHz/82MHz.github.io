@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://82mhz.net/</loc>
-    <lastmod>2024-04-19T20:02:00+00:00</lastmod>
+    <lastmod>2024-04-19T18:02:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -15,8 +15,11 @@
                 href="https://82mhz.net/"
                 />
   </url><url>
+    <loc>https://82mhz.net/thoughts/testing-automatic-reposting-to-mastodon/</loc>
+    <lastmod>2024-04-19T18:02:00+00:00</lastmod>
+  </url><url>
     <loc>https://82mhz.net/thoughts/</loc>
-    <lastmod>2024-04-19T20:02:00+00:00</lastmod>
+    <lastmod>2024-04-19T18:02:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/thoughts/stadtautobahn/</loc>
     <lastmod>2024-04-19T00:00:00+00:00</lastmod>
