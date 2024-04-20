@@ -6,7 +6,38 @@
     <description>Recent content in Thoughts on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Fri, 19 Apr 2024 18:02:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linkdump No 1</title>
+      <link>https://82mhz.net/thoughts/linkdump-no-1/</link>
+      <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/thoughts/linkdump-no-1/</guid>
+      <description>&lt;p&gt;I constantly collect links and dump them into my bookmarking system, so I thought I&amp;rsquo;d share some of the more interesting ones I came across in the last couple of weeks.&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://stackoverflow.com/questions/4929251/how-to-step-through-python-code-to-help-debug-issues&#34;&gt;Debugging Python code from the command line via Python debugger &amp;lsquo;pdb&amp;rsquo;&lt;/a&gt;.&lt;/strong&gt;
+&lt;br&gt;I recently needed to debug some Python code and had no idea how (I rarely write anything in Python), but a short search away I found this question on StackOverflow, and the first answer provided everything I needed to know.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/edsu/feediverse&#34;&gt;Send RSS/Atom feeds to Mastodon&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;A pretty simple Python script that can consume an RSS feed and post new feed items to Mastodon. Simple, easy to understand and debug, and does exactly what I need. I&amp;rsquo;m using it now to automatically post links to new blog posts on this site on my Mastodon profile.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.businessinsider.com/why-reddit-is-taking-over-google-right-now-2024-4&#34;&gt;Google search is becoming worse&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt; Google is sending more and more traffic towards places like Reddit and Quora, and honestly I&amp;rsquo;m not sure if that&amp;rsquo;s a loss or a win for the small web and people with personal homepages&amp;hellip;&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://forums.macrumors.com/threads/windows-2000-install-success.202695/&#34;&gt;Ever wanted to install Windows 2000 on an old Core2Duo Macbook&lt;/a&gt;?&lt;/strong&gt;
+&lt;br&gt; The Windows 2000 installation disk doesn&amp;rsquo;t boot on these types of Macbooks, but by exchanging a file on the disc with the equivalent from a Windows XP installation disk, you can make it work. If you want to is an entirely different question of course.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/xwmx/nb&#34;&gt;A CLI note taking and bookmarking system.&lt;/a&gt;&lt;/strong&gt;
+&lt;nb&gt; I&amp;rsquo;ve been using this for the past few weeks to store bookmarks, and I really like the simplicity of it. You just call &lt;code&gt;nb &amp;lt;URL&amp;gt;&lt;/code&gt; and it stores the site as a bookmark and downloads a (text only) snapshot of it too, if possible.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>Testing automatic reposting to Mastodon</title>
       <link>https://82mhz.net/thoughts/testing-automatic-reposting-to-mastodon/</link>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Month on 82MHz</title>
-    <link>https://82mhz.net/month/</link>
-    <description>Recent content in Month on 82MHz</description>
+    <title>Links on 82MHz</title>
+    <link>https://82mhz.net/tags/links/</link>
+    <description>Recent content in Links on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/month/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 20 Apr 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/tags/links/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>My 46 Cents Watch from China</title>
       <link>https://82mhz.net/posts/2024/04/my-46-cents-watch-from-china/</link>
