@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://82mhz.net/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -16,7 +16,7 @@
                 />
   </url><url>
     <loc>https://82mhz.net/posts/2024/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -29,16 +29,13 @@
                 />
   </url><url>
     <loc>https://82mhz.net/posts/2024/04/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://82mhz.net/thoughts/linkdump-no-1/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://82mhz.net/tags/links/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <loc>https://82mhz.net/posts/2024/04/announcing-blog-posts-automatically-on-mastodon/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/month/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -50,8 +47,21 @@
                 href="https://82mhz.net/month/"
                 />
   </url><url>
+    <loc>https://82mhz.net/posts/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/"
+                />
+  </url><url>
     <loc>https://82mhz.net/tags/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -63,11 +73,34 @@
                 href="https://82mhz.net/tags/"
                 />
   </url><url>
-    <loc>https://82mhz.net/thoughts/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <loc>https://82mhz.net/tags/tech/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/tags/tech/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/tags/tech/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/tags/website/</loc>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/tags/website/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/tags/website/"
+                />
   </url><url>
     <loc>https://82mhz.net/year/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+    <lastmod>2024-04-25T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -78,6 +111,15 @@
                 hreflang="en-GB"
                 href="https://82mhz.net/year/"
                 />
+  </url><url>
+    <loc>https://82mhz.net/thoughts/linkdump-no-1/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://82mhz.net/tags/links/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://82mhz.net/thoughts/</loc>
+    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/thoughts/testing-automatic-reposting-to-mastodon/</loc>
     <lastmod>2024-04-19T18:02:00+00:00</lastmod>
@@ -94,19 +136,6 @@
     <loc>https://82mhz.net/posts/2024/04/my-46-cents-watch-from-china/</loc>
     <lastmod>2024-04-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://82mhz.net/posts/</loc>
-    <lastmod>2024-04-12T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/posts/"
-                />
-  </url><url>
     <loc>https://82mhz.net/thoughts/physicsgirl-and-long-covid/</loc>
     <lastmod>2024-04-07T00:00:00+00:00</lastmod>
   </url><url>
@@ -118,19 +147,6 @@
   </url><url>
     <loc>https://82mhz.net/posts/2024/04/suzanne-vega-and-the-mp3-format/</loc>
     <lastmod>2024-04-03T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://82mhz.net/tags/tech/</loc>
-    <lastmod>2024-04-03T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/tags/tech/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/tags/tech/"
-                />
   </url><url>
     <loc>https://82mhz.net/posts/2024/04/goodbye-lenna/</loc>
     <lastmod>2024-04-02T00:00:00+00:00</lastmod>
@@ -155,19 +171,6 @@
   </url><url>
     <loc>https://82mhz.net/thoughts/different-rss-feeds-for-posts-and-thoughts/</loc>
     <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://82mhz.net/tags/website/</loc>
-    <lastmod>2024-03-15T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/tags/website/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/tags/website/"
-                />
   </url><url>
     <loc>https://82mhz.net/thoughts/dark-mode/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
@@ -440,23 +443,23 @@
                 href="https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-4-months-to-reinvent-your-life/"
                 />
   </url><url>
-    <loc>https://82mhz.net/tags/</loc>
+    <loc>https://82mhz.net/tags/%23100daystooffload/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
-                href="https://82mhz.net/de/tags/"
+                href="https://82mhz.net/de/tags/%23100daystooffload/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en-GB"
-                href="https://82mhz.net/tags/"
+                href="https://82mhz.net/tags/%23100daystooffload/"
                 />
   </url><url>
-    <loc>https://82mhz.net/tags/</loc>
+    <loc>https://82mhz.net/tags/%23bookclub/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://82mhz.net/tags/</loc>
+    <loc>https://82mhz.net/tags/%23reading/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/posts/2023/09/books-i-read-in-august-2023/</loc>

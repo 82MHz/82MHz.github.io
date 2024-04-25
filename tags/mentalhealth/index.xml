@@ -8,6 +8,25 @@
     <language>en-GB</language>
     <lastBuildDate>Wed, 03 Jan 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/tags/mentalhealth/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Announcing Blog Posts automatically on Mastodon</title>
+      <link>https://82mhz.net/posts/2024/04/announcing-blog-posts-automatically-on-mastodon/</link>
+      <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2024/04/announcing-blog-posts-automatically-on-mastodon/</guid>
+      <description>&lt;p&gt;Recently I came across a &lt;a href=&#34;https://kevquirk.com/cross-posting-with-echofeed&#34;&gt;Post by Kev Quirk&lt;/a&gt; where he talks about how he uses a service called &lt;a href=&#34;https://echofeed.app/&#34;&gt;&amp;ldquo;Echo Feed&amp;rdquo;&lt;/a&gt; to cross post his blog posts to Mastodon. I had thought about implementing something like this too for a while, and this gave me the motivation to look into it again.&lt;/p&gt;
+&lt;p&gt;But I didn&amp;rsquo;t want to subscribe to a service, and I also didn&amp;rsquo;t want to self host this, because it sounded a bit complicated, so I went looking for a simpler solution.&lt;/p&gt;
+&lt;p&gt;After a bit of googling I found &lt;a href=&#34;https://github.com/edsu/feediverse&#34;&gt;&amp;ldquo;feediverse&amp;rdquo;&lt;/a&gt;, which does exactly what I want: It consumes the RSS feed of my site and posts new posts to Mastodon. And it&amp;rsquo;s just a python script that I can run locally. Perfect.&lt;/p&gt;
+&lt;p&gt;So I installed it on my server (using pipx, which is awesome as it takes care of dependencies and creates a virtual Python environment).&lt;/p&gt;
+&lt;p&gt;On first run it asks for your Mastodon credentials, registers to Mastodon, asks for the URL to your feed and that&amp;rsquo;s it. It creates a config file in the home directory called .feediverse where all relevant info is stored. No on every run it parses the RSS feed and posts new items to Mastodon.&lt;/p&gt;
+&lt;p&gt;The only thing I adapted slightly was the &amp;ldquo;template&amp;rdquo; line in the config file, so I could get line breaks and a hashtag in the Mastodon post. The line in question is:&lt;/p&gt;
+&lt;p&gt;&lt;code&gt;- template: &amp;quot;New blog post: \n\n{title} \n{url} \n\n#phloggersgarage&amp;quot;&lt;/code&gt;&lt;/p&gt;
+&lt;p&gt;Feediverse can also add hashtags from the blog post to the Mastodon post automatically, but I haven&amp;rsquo;t looked into that any further.&lt;/p&gt;
+&lt;p&gt;But that&amp;rsquo;s it already. I put a line in my crontab to run the program once every hour like so:&lt;/p&gt;
+&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;@hourly /home/ak/.local/bin/feediverse
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;And now with any luck a post about this post will appear on Mastodon without me having to do anything at the next full hour. Let&amp;rsquo;s see!&lt;/p&gt;</description>
+    </item>
+    
+    <item>
       <title>My 46 Cents Watch from China</title>
       <link>https://82mhz.net/posts/2024/04/my-46-cents-watch-from-china/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
