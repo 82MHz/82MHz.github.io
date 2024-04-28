@@ -8,6 +8,32 @@
     <language>en-GB</language>
     <lastBuildDate>Sun, 28 Apr 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Linkdump No 2</title>
+      <link>https://82mhz.net/thoughts/linkdump-no-2/</link>
+      <pubDate>Sun, 28 Apr 2024 12:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/thoughts/linkdump-no-2/</guid>
+      <description>&lt;p&gt;Here are some interesting things I came across this week. I might make this into a regular series, if for nobody else than me so I can look back a year from now at the things that fascinated and interested me right now.&lt;/p&gt;
+&lt;h3 id=&#34;articles&#34;&gt;Articles&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:6789/?url=https%3A%2F%2Fdanluu.com%2Fslow-device%2F&#34;&gt;How web bloat impacts users with slow devices&lt;/a&gt;
+&lt;br&gt;A pretty torough look at how software has gotten more and more bloated and is making slower devices unusable&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:6789/?url=https%3A%2F%2Fwww.elysian.press%2Fp%2Fno-one-buys-books&#34;&gt;No one buys books - by Elle Griffin - The Elysian&lt;/a&gt;
+&lt;br&gt;An insightful and slightly depressing look into the inner workings of the publishing industry&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:6789/?url=https%3A%2F%2Fwww.noemamag.com%2Fwe-need-to-rewild-the-internet%2F&#34;&gt;We Need To Rewild The Internet&lt;/a&gt;
+&lt;br&gt;This is a long one, but absolutely worth the read! The article makes a pretty thorough case for getting away from walled gardens online and back to using smaller services and personal websites&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;softwareservices&#34;&gt;Software/Services&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:6789/?url=https%3A%2F%2Fgithub.com%2Fedsu%2Ffeediverse&#34;&gt;GitHub - edsu/feediverse: Send RSS/Atom feeds to Mastodon&lt;/a&gt;
+&lt;br&gt; Python script to automatically cross post items from an RSS feed to Mastodon. I am using this!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:6789/?url=https%3A%2F%2Fwww.radio-browser.info%2F&#34;&gt;radio-browser.info&lt;/a&gt;
+&lt;br&gt;A collection of pretty much every radio station in the world that has a web stream&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Linkdump No 1</title>
       <link>https://82mhz.net/thoughts/linkdump-no-1/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
