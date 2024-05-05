@@ -79,6 +79,17 @@ body {
     padding: 20px 0 0 0;
 }
 
+.post_short {
+    /*max-width: 960px;*/
+    border-radius: 32px;
+    box-shadow: 24px 24px 80px rgba(0, 0, 0, 0.1);
+    padding: 20px 20px 28px 20px;
+    box-sizing: border-box;
+    margin: 10px;
+    display: flex;
+    flex-direction: column;
+}
+
 p {
     padding: 0 0 12px 0;
 }
