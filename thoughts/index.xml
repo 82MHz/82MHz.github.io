@@ -6,7 +6,39 @@
     <description>Recent content in Thoughts on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sun, 28 Apr 2024 12:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 05 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linkdump No 3</title>
+      <link>https://82mhz.net/thoughts/linkdump-no-3/</link>
+      <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/thoughts/linkdump-no-3/</guid>
+      <description>&lt;p&gt;I collect a ton of links to great articles and software projects, and this is my attempt to sort through them and share them with the rest of you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Articles&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://codingcipher.wordpress.com/2024/04/26/miniature-macintosh-plus-build/&#34;&gt;Miniature Macintosh Plus Build&lt;/a&gt;
+&lt;br&gt;A great post by &lt;a href=&#34;https://codingcipher.wordpress.com/&#34;&gt;Codingcipher&lt;/a&gt; about how he built a miniature version of a 1980s Macintosh Plus. He goes into a lot of detail, and the end result looks pheonomenal! One day, I&amp;rsquo;ll build something like this too.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://pluralistic.net/2024/05/01/boeing-boeing/#mrsa&#34;&gt;Pluralistic: Boeing’s deliberately defective fleet of flying sky-wreckage (01 May 2024)&lt;/a&gt;
+&lt;br&gt; Cory Doctorow is at it again and rips into the messed up work culture at Boeing. More relevant than ever now that the second whistleblower has mysteriously died&amp;hellip; if you haven&amp;rsquo;t already voved to never set foot on a Boeing airplane again, you will after reading this. Truly horrfying&amp;hellip;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.takahe.org.nz/heat-death-of-the-internet/&#34;&gt;Heat Death of the Internet&lt;/a&gt;
+&lt;br&gt; A satirical and yet completely accurate description of what using the modern web/tech world feels like. Will leave you in tears, but you won&amp;rsquo;t be sure if they&amp;rsquo;re tears of laughter or tears of sadness.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.theregister.com/2024/05/01/pulumi_ai_pollution_of_search/&#34;&gt;Google Search results polluted by buggy AI-written code frustrate coders&lt;/a&gt;
+&lt;br&gt; The headline says it all&amp;hellip; enshittification marches on. Pretty soon all we&amp;rsquo;ll able to find through Google is AI generated nonsense. Which makes it more relevant than ever to build up a personal archive of good content on the web, because we might not be able to find it again in the future.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Software/Services&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/gildas-lormeau/SingleFile&#34;&gt;SingleFile, Web Extension for saving a faithful copy of a complete web page in a single HTML file&lt;/a&gt;
+&lt;br&gt;A great browser plugin to save a copy of the currently loaded webpage as a single HTML file. Can also be run from the command line.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/yt-dlp/yt-dlp&#34;&gt;yt-dlp, a feature-rich command-line audio/video downloader with support for thousands of sites&lt;/a&gt;
+&lt;br&gt;A commandline downloader for video/audio content from the internet, can download pretty much everything out there it seems.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.videogist.co/&#34;&gt;VideoGist - Delightful AI Video Summaries&lt;/a&gt;
+&lt;br&gt;I know, I know, it&amp;rsquo;s AI&amp;hellip; but I used it this week to get a text summary of a lengthy Youtube video, and it actually did a pretty good job with it.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://github.com/myspaghetti/macos-virtualbox&#34;&gt;myspaghetti/macos-virtualbox: Push-button installer of macOS Catalina, Mojave, and High Sierra guests in Virtualbox on x86 CPUs for Windows, Linux, and macOS&lt;/a&gt;
+&lt;br&gt;Have you ever tried installing MacOS in a virtual machine? No? Just me? Well&amp;hellip; here&amp;rsquo;s a project that helps with it anyway.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
     <item>
       <title>Linkdump No 2</title>
       <link>https://82mhz.net/thoughts/linkdump-no-2/</link>
