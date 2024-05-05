@@ -48,15 +48,19 @@
         --global-font-color: #d8d8d8;
         --primary-color:#9d74ea;
         --secondary-color:#727578;
+        --card-color: #373737;
+        --code-background: #4d4d4d;
 	}
 }
 
 @media (prefers-color-scheme: light) {
 	:root {
-		--background-color: #fff;
+		--background-color: #f6f2f8;
         --global-font-color: #444;
         --primary-color:#3e158b;
         --secondary-color:#727578;
+        --card-color: #fbfbfb;
+        --code-background: #fafafa;
     	}
 }
 
@@ -88,6 +92,7 @@ body {
     margin: 10px 0 20px 0;
     display: flex;
     flex-direction: column;
+    background-color: var(--card-color);
 }
 
 p {
@@ -182,7 +187,7 @@ code {
     font-size: 0.7em;
     word-wrap: break-word;
     display: block;
-    background: #fafafa;
+    background: var(--code-background);
     white-space: pre;
     -webkit-overflow-scrolling: touch;
     overflow-x: scroll;
