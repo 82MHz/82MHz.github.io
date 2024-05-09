@@ -6,7 +6,40 @@
     <description>Recent content in Month on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Thu, 02 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/month/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 09 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/month/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Me vs AI - whose English is better?</title>
+      <link>https://82mhz.net/posts/2024/05/me-vs-ai-whose-english-is-better/</link>
+      <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2024/05/me-vs-ai-whose-english-is-better/</guid>
+      <description>&lt;p&gt;I think we&amp;rsquo;re fast approaching a world where it doesn&amp;rsquo;t matter in what language you post your content (blog posts, Youtube videos etc.) in, because everything can just be translated on the fly into every other (major) language in reasonable quality.&lt;/p&gt;
+&lt;p&gt;I started this website last year, and I initially started posting only in English, because my first posts were about the Old Computer Challenge, and there it&amp;rsquo;s an international group of people participating, so posting in English made sense.&lt;/p&gt;
+&lt;p&gt;Still, I felt a bit weird writing in a foreign language, like I was pretending to be someone or something I wasn&amp;rsquo;t&amp;hellip; so I duplicated the website in my native language German with the intention of writing posts in German and then translating them (with the help of &lt;a href=&#34;https://www.deepl.com/translator&#34;&gt;online translation services&lt;/a&gt;) into English. I did that for a while, but it was pretty tedious because I was always going over the English translation and rewriting it so it would sound a bit more like me, so after a while I abandoned this approach and went back to posting only in English.&lt;/p&gt;
+&lt;p&gt;But recently I came across &lt;a href=&#34;https://www.youtube.com/watch?v=BBAuhqvT_ds&#34;&gt;a video on Youtube by Ali Abdaal&lt;/a&gt; that not only had subtitles in different languages, but also had the audio track dubbed by what&amp;rsquo;s most likely an AI-generated voice with an automatic translation (you can find the different audio tracks under the settings icon on the bottom right). Honestly, at least the German translation sounds like the worst fandub ever made, but of course this will only get better with time.&lt;/p&gt;
+&lt;p&gt;Browsers have had the option to translate web pages into different languages for a while now, and they&amp;rsquo;re also doing a pretty good job at it.&lt;/p&gt;
+&lt;p&gt;Which makes me wonder, is it even relevant anymore whether I post in English or German? Can&amp;rsquo;t I just post in German and everyone can translate my posts into their native language via browser extensions or whatnot, and I save myself the added mental load of thinking and writing in a foreign language, looking up words, worrying about grammar and KNOWING that I&amp;rsquo;m making mistakes I&amp;rsquo;m not even aware of?&lt;/p&gt;
+&lt;p&gt;So I thought I&amp;rsquo;d do a little experiment, I&amp;rsquo;ll take a few paragraphs from a post I wrote in German, and then translate them myself and also have them translated by an AI to see which produces better sounding English.&lt;/p&gt;
+&lt;p&gt;So here&amp;rsquo;s the paragraph in question from the post &amp;ldquo;&lt;a href=&#34;https://82mhz.net/de/posts/2023/09/mein-verh%C3%A4ltnis-zu-digitaler-kommunikation-die-anf%C3%A4nge/&#34;&gt;Mein Verhältnis zu digitaler Kommunikation - Die Anfänge&lt;/a&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Das erste digitale Kommunikationsmedium, das ich genutzt habe, war die gute alte E-Mail. Zuerst noch über das E-Mail-Postfach, das uns unser Provider zur Verfügung gestellt hat, bis ich mir dann meine erste E-Mail-Adresse zugelegt habe, die ich auch immer noch habe und nutze.&lt;/p&gt;
+&lt;p&gt;Etwas später kam dann, von Schulfreunden empfohlen, ICQ dazu. Und damit eine ganz neue Welt! Plötzlich konnte man einfach online gehen, und die Leute, die man in der Schule eh schon den ganzen Tag gesehen hat, waren auch online, und man konnte einfach miteinander chatten, stundenlang! Es war grandios. Auch wenn es mir an Nostalgie für Modemgeräusche fehlt, das &amp;ldquo;oh-OH&amp;rdquo; von ICQ wenn eine neue Nachricht ankommt, löst bei mir dafür massenhaft nostalgische Gefühle aus.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;Here is how I would write this in English:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The first digital communication medium I ever used was the good old e-mail. At first I used the e-mail address given to us by our internet provider, but pretty soon I created my first own e-mail address, which I still have and use to this day.&lt;/p&gt;
+&lt;p&gt;A bit later, recommended by a friend from school, I installed ICQ. And that opened up a whole new world for me! Now I could go online, my friends from school that I&amp;rsquo;ve seen all day in school anyway were online as well, and we would chat away four hours! It was absolutely fantastic. We never actually used an analog modem, so I don&amp;rsquo;t have any nostalgia for the sounds of a modem, but hearing that &amp;ldquo;uh-OH&amp;rdquo; notification sound that ICQ used to make whenever a new message arrive still gives me massive feelings of nostalgia.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;And here is how &lt;a href=&#34;https://www.deepl.com/translator&#34;&gt;deepl.com&lt;/a&gt; would translate this, if I just paste the German text from above into the translator on the website and do nothing else with it:&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The first digital communication medium I used was good old e-mail. At first it was via the e-mail inbox that our provider gave us, until I got my first e-mail address, which I still have and use.&lt;/p&gt;
+&lt;p&gt;A little later, ICQ came along, recommended by school friends. And with it a whole new world! Suddenly you could just go online, and the people you saw all day at school were online too, and you could just chat with each other for hours! It was great. Even if I lack nostalgia for modem noises, the “oh-OH” of ICQ when a new message arrives triggers nostalgic feelings galore for me.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;So how does it sound? To me as a non-native-speaker the automatically translated version sounds perfectly fine, a bit more compact and less verbose than my own writing, but I can&amp;rsquo;t spot any glaring mistakes. It definitely sounds more polished than my own writing, but maybe a bit more impersonal as a result as well? I&amp;rsquo;m not sure.&lt;/p&gt;
+&lt;p&gt;So I would like to pose a question to the English native speakers reading this: Which sounds better to you? What do you think of the translation, and of my own writing style? If I wrote posts in German and then posted the deepl translation here instead of writing the English posts myself, would you still read it? Would you even notice? I&amp;rsquo;m really curious to hear what you think!&lt;/p&gt;
+&lt;p&gt;Send me an e-mail (link at the bottom of the page) or comment on Mastodon here!&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>Living in the (technological) past - part 2</title>
       <link>https://82mhz.net/posts/2024/05/living-in-the-technological-past-part-2/</link>
