@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://82mhz.net/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="de-DE"
@@ -13,6 +13,41 @@
                 rel="alternate"
                 hreflang="en-GB"
                 href="https://82mhz.net/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/tags/linkdump/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://82mhz.net/thoughts/linkdump-no-4/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://82mhz.net/tags/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/tags/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/tags/"
+                />
+  </url><url>
+    <loc>https://82mhz.net/thoughts/</loc>
+    <lastmod>2024-05-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://82mhz.net/posts/</loc>
+    <lastmod>2024-05-10T00:00:00+00:00</lastmod>
+    <xhtml:link
+                rel="alternate"
+                hreflang="de-DE"
+                href="https://82mhz.net/de/posts/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en-GB"
+                href="https://82mhz.net/posts/"
                 />
   </url><url>
     <loc>https://82mhz.net/posts/2024/</loc>
@@ -47,32 +82,6 @@
                 href="https://82mhz.net/month/"
                 />
   </url><url>
-    <loc>https://82mhz.net/posts/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/posts/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/posts/"
-                />
-  </url><url>
-    <loc>https://82mhz.net/tags/</loc>
-    <lastmod>2024-05-09T00:00:00+00:00</lastmod>
-    <xhtml:link
-                rel="alternate"
-                hreflang="de-DE"
-                href="https://82mhz.net/de/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en-GB"
-                href="https://82mhz.net/tags/"
-                />
-  </url><url>
     <loc>https://82mhz.net/tags/website/</loc>
     <lastmod>2024-05-09T00:00:00+00:00</lastmod>
     <xhtml:link
@@ -103,9 +112,6 @@
                 />
   </url><url>
     <loc>https://82mhz.net/thoughts/apple-is-like-the-matrix-version-1/</loc>
-    <lastmod>2024-05-07T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://82mhz.net/thoughts/</loc>
     <lastmod>2024-05-07T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/thoughts/linkdump-no-3/</loc>
@@ -140,9 +146,6 @@
     <lastmod>2024-04-25T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/thoughts/linkdump-no-1/</loc>
-    <lastmod>2024-04-20T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>https://82mhz.net/tags/links/</loc>
     <lastmod>2024-04-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://82mhz.net/thoughts/testing-automatic-reposting-to-mastodon/</loc>

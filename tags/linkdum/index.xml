@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>82MHz</title>
-    <link>https://82mhz.net/</link>
-    <description>Recent content on 82MHz</description>
+    <title>Linkdum on 82MHz</title>
+    <link>http://localhost:1313/tags/linkdum/</link>
+    <description>Recent content in Linkdum on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sat, 11 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 28 Apr 2024 12:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/linkdum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Me vs AI - whose English is better?</title>
-      <link>https://82mhz.net/posts/2024/05/me-vs-ai-whose-english-is-better/</link>
+      <link>http://localhost:1313/posts/2024/05/me-vs-ai-whose-english-is-better/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/05/me-vs-ai-whose-english-is-better/</guid>
+      <guid>http://localhost:1313/posts/2024/05/me-vs-ai-whose-english-is-better/</guid>
       <description>&lt;p&gt;I think we&amp;rsquo;re fast approaching a world where it doesn&amp;rsquo;t matter in what language you post your content (blog posts, Youtube videos etc.) in, because everything can just be translated on the fly into every other (major) language in reasonable quality.&lt;/p&gt;
 &lt;p&gt;I started this website last year, and I initially started posting only in English, because my first posts were about the Old Computer Challenge, and there it&amp;rsquo;s an international group of people participating, so posting in English made sense.&lt;/p&gt;
 &lt;p&gt;Still, I felt a bit weird writing in a foreign language, like I was pretending to be someone or something I wasn&amp;rsquo;t&amp;hellip; so I duplicated the website in my native language German with the intention of writing posts in German and then translating them (with the help of &lt;a href=&#34;https://www.deepl.com/translator&#34;&gt;online translation services&lt;/a&gt;) into English. I did that for a while, but it was pretty tedious because I was always going over the English translation and rewriting it so it would sound a bit more like me, so after a while I abandoned this approach and went back to posting only in English.&lt;/p&gt;
@@ -20,7 +20,7 @@
 &lt;p&gt;Browsers have had the option to translate web pages into different languages for a while now, and they&amp;rsquo;re also doing a pretty good job at it.&lt;/p&gt;
 &lt;p&gt;Which makes me wonder, is it even relevant anymore whether I post in English or German? Can&amp;rsquo;t I just post in German and everyone can translate my posts into their native language via browser extensions or whatnot, and I save myself the added mental load of thinking and writing in a foreign language, looking up words, worrying about grammar and KNOWING that I&amp;rsquo;m making mistakes I&amp;rsquo;m not even aware of?&lt;/p&gt;
 &lt;p&gt;So I thought I&amp;rsquo;d do a little experiment, I&amp;rsquo;ll take a few paragraphs from a post I wrote in German, and then translate them myself and also have them translated by an AI to see which produces better sounding English.&lt;/p&gt;
-&lt;p&gt;So here&amp;rsquo;s the paragraph in question from the post &amp;ldquo;&lt;a href=&#34;https://82mhz.net/de/posts/2023/09/mein-verh%C3%A4ltnis-zu-digitaler-kommunikation-die-anf%C3%A4nge/&#34;&gt;Mein Verhältnis zu digitaler Kommunikation - Die Anfänge&lt;/a&gt;&amp;rdquo;:&lt;/p&gt;
+&lt;p&gt;So here&amp;rsquo;s the paragraph in question from the post &amp;ldquo;&lt;a href=&#34;http://localhost:1313/de/posts/2023/09/mein-verh%C3%A4ltnis-zu-digitaler-kommunikation-die-anf%C3%A4nge/&#34;&gt;Mein Verhältnis zu digitaler Kommunikation - Die Anfänge&lt;/a&gt;&amp;rdquo;:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Das erste digitale Kommunikationsmedium, das ich genutzt habe, war die gute alte E-Mail. Zuerst noch über das E-Mail-Postfach, das uns unser Provider zur Verfügung gestellt hat, bis ich mir dann meine erste E-Mail-Adresse zugelegt habe, die ich auch immer noch habe und nutze.&lt;/p&gt;
 &lt;p&gt;Etwas später kam dann, von Schulfreunden empfohlen, ICQ dazu. Und damit eine ganz neue Welt! Plötzlich konnte man einfach online gehen, und die Leute, die man in der Schule eh schon den ganzen Tag gesehen hat, waren auch online, und man konnte einfach miteinander chatten, stundenlang! Es war grandios. Auch wenn es mir an Nostalgie für Modemgeräusche fehlt, das &amp;ldquo;oh-OH&amp;rdquo; von ICQ wenn eine neue Nachricht ankommt, löst bei mir dafür massenhaft nostalgische Gefühle aus.&lt;/p&gt;
@@ -42,11 +42,11 @@
     
     <item>
       <title>Living in the (technological) past - part 2</title>
-      <link>https://82mhz.net/posts/2024/05/living-in-the-technological-past-part-2/</link>
+      <link>http://localhost:1313/posts/2024/05/living-in-the-technological-past-part-2/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/05/living-in-the-technological-past-part-2/</guid>
-      <description>&lt;p&gt;Last year I wrote an article titled &amp;ldquo;&lt;a href=&#34;https://82mhz.net/posts/2023/10/living-in-the-technological-past/&#34;&gt;Living in the (technological) past&lt;/a&gt;&amp;rdquo;, in which I talked about my approach to buying, or rather refusing to buy, new electronic devices. If you haven&amp;rsquo;t read it or don&amp;rsquo;t remember it, don&amp;rsquo;t worry - I asked an AI to summarize it, so you can get up to speed quickly:&lt;/p&gt;
+      <guid>http://localhost:1313/posts/2024/05/living-in-the-technological-past-part-2/</guid>
+      <description>&lt;p&gt;Last year I wrote an article titled &amp;ldquo;&lt;a href=&#34;http://localhost:1313/posts/2023/10/living-in-the-technological-past/&#34;&gt;Living in the (technological) past&lt;/a&gt;&amp;rdquo;, in which I talked about my approach to buying, or rather refusing to buy, new electronic devices. If you haven&amp;rsquo;t read it or don&amp;rsquo;t remember it, don&amp;rsquo;t worry - I asked an AI to summarize it, so you can get up to speed quickly:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;﻿&amp;quot;The author has never been an early adopter of technology and prefers using older devices over newer ones. They attribute this behavior to growing up in a working-class family where they had to be frugal with their money, which carried into their adult life. Despite knowing about the latest tech trends, they choose not to purchase them due to cost and finding no need for the new technology. This mindset has provided peace of mind, saved money, mental space, and potentially helped the environment by reducing electronic waste.&amp;quot;&lt;/p&gt;
 &lt;/blockquote&gt;
@@ -64,10 +64,10 @@
     
     <item>
       <title>Announcing Blog Posts automatically on Mastodon</title>
-      <link>https://82mhz.net/posts/2024/04/announcing-blog-posts-automatically-on-mastodon/</link>
+      <link>http://localhost:1313/posts/2024/04/announcing-blog-posts-automatically-on-mastodon/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/04/announcing-blog-posts-automatically-on-mastodon/</guid>
+      <guid>http://localhost:1313/posts/2024/04/announcing-blog-posts-automatically-on-mastodon/</guid>
       <description>&lt;p&gt;Recently I came across a &lt;a href=&#34;https://kevquirk.com/cross-posting-with-echofeed&#34;&gt;Post by Kev Quirk&lt;/a&gt; where he talks about how he uses a service called &lt;a href=&#34;https://echofeed.app/&#34;&gt;&amp;ldquo;Echo Feed&amp;rdquo;&lt;/a&gt; to cross post his blog posts to Mastodon. I had thought about implementing something like this too for a while, and this gave me the motivation to look into it again.&lt;/p&gt;
 &lt;p&gt;But I didn&amp;rsquo;t want to subscribe to a service, and I also didn&amp;rsquo;t want to self host this, because it sounded a bit complicated, so I went looking for a simpler solution.&lt;/p&gt;
 &lt;p&gt;After a bit of googling I found &lt;a href=&#34;https://github.com/edsu/feediverse&#34;&gt;&amp;ldquo;feediverse&amp;rdquo;&lt;/a&gt;, which does exactly what I want: It consumes the RSS feed of my site and posts new posts to Mastodon. And it&amp;rsquo;s just a python script that I can run locally. Perfect.&lt;/p&gt;
@@ -83,16 +83,16 @@
     
     <item>
       <title>My 46 Cents Watch from China</title>
-      <link>https://82mhz.net/posts/2024/04/my-46-cents-watch-from-china/</link>
+      <link>http://localhost:1313/posts/2024/04/my-46-cents-watch-from-china/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/04/my-46-cents-watch-from-china/</guid>
+      <guid>http://localhost:1313/posts/2024/04/my-46-cents-watch-from-china/</guid>
       <description>&lt;p&gt;That is not a typo in the headline, I really bought a watch for 46 (Euro)cents recently from Aliexpress. How come?&lt;/p&gt;
 &lt;p&gt;I am following some members of the &lt;a href=&#34;https://oldbytes.space/tags/casiocult&#34;&gt;#CasioCult&lt;/a&gt; on Mastodon (fans of Casio watches for the uninitiated). They&amp;rsquo;re regularly posting pictures of their latest acquisitions&amp;hellip; and I got to talking to &lt;a href=&#34;https://velocipederider.com/@ruari&#34;&gt;Ruari&lt;/a&gt; who posted a picture of a Casio knockoff from the Chinese brand Skmei. Never heard of them before, but I checked out the watch on Aliexpress, and it was listed for 0,46 Euro. Including shipping.&lt;/p&gt;
 &lt;p&gt;So I bought it. It was a total impulse purchase, but 46 Cents is literally 1/8 the price of the cup of coffee that&amp;rsquo;s on my table right now.&lt;/p&gt;
 &lt;p&gt;I honestly wasn&amp;rsquo;t even expecting to get anything, but a week and a half later it actually arrived. And I am still baffled with the economics of this whole situation&amp;hellip; You can&amp;rsquo;t manufacture a watch and then ship it halfway around the world for 46 cents. Somebody definitely lost money sending this thing to me. I don&amp;rsquo;t get it.&lt;/p&gt;
 &lt;h3 id=&#34;how-is-it&#34;&gt;How is it?&lt;/h3&gt;
-&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/watch.jpg&#34; style=&#34;width:50%; height:auto;&#34;/&gt;
+&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/images/watch.jpg&#34; style=&#34;width:50%; height:auto;&#34;/&gt;
 &lt;p&gt;In short: It&amp;rsquo;s fine for what it cost.&lt;/p&gt;
 &lt;p&gt;The viewing angle of the LCD is pretty bad, but overall the watch looks nice, and it shows the time, which is what a watch is supposed to do. It feels like nothing though, it&amp;rsquo;s incredibly light and feels more like a child&amp;rsquo;s toy than an actual watch. I actually laughed out loud when I first unboxed it (I say unboxed, but it arrived in a plastic bag, so&amp;hellip; unbagged it?) because it felt so light and cheap and unsubstantial.&lt;/p&gt;
 &lt;p&gt;But it works, it looks nice, it cost basically nothing, so I have nothing to complain about.&lt;/p&gt;
@@ -107,10 +107,10 @@
     
     <item>
       <title>The books I read so far this year (January through March 2024)</title>
-      <link>https://82mhz.net/posts/2024/04/the-books-i-read-so-far-this-year-january-through-march-2024/</link>
+      <link>http://localhost:1313/posts/2024/04/the-books-i-read-so-far-this-year-january-through-march-2024/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/04/the-books-i-read-so-far-this-year-january-through-march-2024/</guid>
+      <guid>http://localhost:1313/posts/2024/04/the-books-i-read-so-far-this-year-january-through-march-2024/</guid>
       <description>&lt;p&gt;I realize I haven&amp;rsquo;t written any book reviews this year so far, even though I&amp;rsquo;ve been reading constantly, but more slowly than in the past. So in order to catch up I&amp;rsquo;ll just summarize the books I read so far this year here, and I&amp;rsquo;ll try my best to be brief and not ramble on forever like I normally do.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;h2 id=&#34;oliver-schröm-die-cum-ex-files&#34;&gt;Oliver Schröm: Die Cum Ex Files&lt;/h2&gt;
@@ -151,10 +151,10 @@
     
     <item>
       <title>Suzanne Vega and the MP3 format</title>
-      <link>https://82mhz.net/posts/2024/04/suzanne-vega-and-the-mp3-format/</link>
+      <link>http://localhost:1313/posts/2024/04/suzanne-vega-and-the-mp3-format/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/04/suzanne-vega-and-the-mp3-format/</guid>
+      <guid>http://localhost:1313/posts/2024/04/suzanne-vega-and-the-mp3-format/</guid>
       <description>&lt;p&gt;Yesterday I wrote about using an image from Playboy as a test image for testing image compression algorithms, and that reminded me of another anecdote from university where a piece of popular media was used in the development of a new technology.&lt;/p&gt;
 &lt;p&gt;I studied at the University Erlangen-Nürnberg in Germany, which is closely connected to the Fraunhofer Institute for Integrated Circuits in Erlangen, where the mp3 file format was developed in the 80s and 90s. I also used to work there during and after University for a while, but not at the Audio department.&lt;/p&gt;
 &lt;p&gt;Anyway, many of the mp3 developers were still working at Fraunhofer when I studied there, and I had a few classes about audio signal processing with them. And they used to tell the story where they would test the quality of the compression by listening to the song &lt;a href=&#34;https://www.youtube.com/watch?v=mto47BMT3yA&#34;&gt;&amp;ldquo;Toms Diner&amp;rdquo; by Suzanne Vega&lt;/a&gt; over and over again, because the original version of the song (not the DNA remix) is purely a capella, vocals only and nothing else.&lt;/p&gt;
@@ -167,10 +167,10 @@
     
     <item>
       <title>Goodbye Lenna</title>
-      <link>https://82mhz.net/posts/2024/04/goodbye-lenna/</link>
+      <link>http://localhost:1313/posts/2024/04/goodbye-lenna/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/04/goodbye-lenna/</guid>
+      <guid>http://localhost:1313/posts/2024/04/goodbye-lenna/</guid>
       <description>&lt;p&gt;The IEEE Computer Society &lt;a href=&#34;https://www.techspot.com/news/102460-ieee-no-longer-accept-playboy-lenna-image-image.html&#34;&gt;announced a few days ago&lt;/a&gt; that they will no longer accept publications about image processing research containing the &amp;ldquo;Lenna&amp;rdquo; image.&lt;/p&gt;
 &lt;p&gt;The &amp;ldquo;&lt;a href=&#34;https://www.techspot.com/images2/news/bigimage/2024/04/2024-04-01-image-4-j_1100.webp&#34;&gt;Lenna&lt;/a&gt;&amp;rdquo; image is a photograph from the 1972 issue of Playboy, that somebody at a research lab scanned (in 1973!) and that&amp;rsquo;s been used to test the quality of image processing algorithms ever since.&lt;/p&gt;
 &lt;p&gt;I remember the image from back when I was in University. We had a few classes on image signal processing, and this image was indeed frequently used in the lecture slides and our own experiments to demonstrate the effects of different processing and compression methods.&lt;/p&gt;
@@ -184,10 +184,10 @@
     
     <item>
       <title>Different RSS feeds for Posts and Thoughts</title>
-      <link>https://82mhz.net/posts/2024/03/different-rss-feeds-for-posts-and-thoughts/</link>
+      <link>http://localhost:1313/posts/2024/03/different-rss-feeds-for-posts-and-thoughts/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/03/different-rss-feeds-for-posts-and-thoughts/</guid>
+      <guid>http://localhost:1313/posts/2024/03/different-rss-feeds-for-posts-and-thoughts/</guid>
       <description>&lt;p&gt;I thought about whether I should have one RSS feed for everything on the site or separate feeds for posts (longer articles) and thoughts (shorter ones). After getting some feedback and also thinking about it for a bit, I decided to have separate RSS feeds.&lt;/p&gt;
 &lt;p&gt;So now there&amp;rsquo;s two feeds for the site:&lt;/p&gt;
 &lt;ul&gt;
@@ -199,10 +199,10 @@
     
     <item>
       <title>New Microblogging Section</title>
-      <link>https://82mhz.net/posts/2024/03/new-microblogging-section/</link>
+      <link>http://localhost:1313/posts/2024/03/new-microblogging-section/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/03/new-microblogging-section/</guid>
+      <guid>http://localhost:1313/posts/2024/03/new-microblogging-section/</guid>
       <description>&lt;p&gt;I added a new microblogging section called &amp;ldquo;thoughts&amp;rdquo; to this site.&lt;/p&gt;
 &lt;p&gt;Why?&lt;/p&gt;
 &lt;p&gt;Well, I&amp;rsquo;ve noticed that I don&amp;rsquo;t blog as much as I&amp;rsquo;d like to, and the reason I belive is that I think of blog posts as a kind of long-form article with a clear message and structure. Something that could be published in a magazine or on a news website (although I&amp;rsquo;m not nearly good enough at writing for that).&lt;/p&gt;
@@ -214,10 +214,10 @@
     
     <item>
       <title>Abandoning 100 Days to offload</title>
-      <link>https://82mhz.net/posts/2024/02/abandoning-100-days-to-offload/</link>
+      <link>http://localhost:1313/posts/2024/02/abandoning-100-days-to-offload/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/02/abandoning-100-days-to-offload/</guid>
+      <guid>http://localhost:1313/posts/2024/02/abandoning-100-days-to-offload/</guid>
       <description>&lt;p&gt;In September I started the 100 days to offload challenge, in which I decided to write 100 blog posts over the course of a year. Today I&amp;rsquo;m ending the challenge.&lt;/p&gt;
 &lt;p&gt;So why am I doing this? Well, to put it simply, 100 posts in a year is about two blog posts a week, and if I&amp;rsquo;m counting correctly, I&amp;rsquo;m now 17 posts in, so to get to 100 posts by the end of August I&amp;rsquo;d have to write 3 or 4 posts a week consistently for months. That&amp;rsquo;s doable, of course, if I stick to shorter posts and write consistently, but the thing is, I don&amp;rsquo;t.&lt;/p&gt;
 &lt;p&gt;I have discovered that I write blog posts when I have something to say, when I have something I want to share with a wider audience, and when I want to engage in a discussion with people. And I don&amp;rsquo;t think I have enough interesting things to say to fill 3 or 4 posts a week, and I don&amp;rsquo;t want to write posts just for the sake of having written something. I&amp;rsquo;d rather focus on writing fewer posts with more interesting topics (interesting to me anyway) than writing about mundane things just for the sake of having written something. Quality over quantity.&lt;/p&gt;
@@ -226,10 +226,10 @@
     
     <item>
       <title>Reflections on Pacifism</title>
-      <link>https://82mhz.net/posts/2024/01/reflections-on-pacifism/</link>
+      <link>http://localhost:1313/posts/2024/01/reflections-on-pacifism/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/01/reflections-on-pacifism/</guid>
+      <guid>http://localhost:1313/posts/2024/01/reflections-on-pacifism/</guid>
       <description>&lt;p&gt;The world seems to be going mad recently, with wars breaking out left and right, so for the past couple of weeks I&amp;rsquo;ve been thinking a lot about my long held pacifist beliefs and if they&amp;rsquo;re still applicable in 2024. Content warning obviously, this is political.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;I&amp;rsquo;ve always been a pacifist, all my life. I don&amp;rsquo;t even know where these beliefs really come from, but I was never into weapons, fighting, war, aggression etc. and I consider them one of my fundamental beliefs in my life.&lt;/p&gt;
@@ -244,12 +244,12 @@
     
     <item>
       <title>The books I read in December 2023</title>
-      <link>https://82mhz.net/posts/2024/01/the-books-i-read-in-december-2023/</link>
+      <link>http://localhost:1313/posts/2024/01/the-books-i-read-in-december-2023/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/01/the-books-i-read-in-december-2023/</guid>
+      <guid>http://localhost:1313/posts/2024/01/the-books-i-read-in-december-2023/</guid>
       <description>&lt;p&gt;Here&amp;rsquo;s a quick summary of the two books I read in December 2023.
-&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/buecher122023.png&#34; max-height=&#34;200x&#34;/&gt;&lt;/p&gt;
+&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/images/buecher122023.png&#34; max-height=&#34;200x&#34;/&gt;&lt;/p&gt;
 &lt;h3 id=&#34;levy&#34;&gt;&lt;em&gt;Steven Levy&lt;/em&gt;: The perfect Thing&lt;/h3&gt;
 &lt;p&gt;A book about the Apple iPod, which Steven Levy calls &amp;ldquo;the perfect thing&amp;rdquo;, even though he acknowledges that there is no such thing as a &amp;ldquo;perfect&amp;rdquo; thing, but he justifies it by saying that it was perfect for the time it appeared in and for what it was.&lt;/p&gt;
 &lt;p&gt;He goes over the inception of the iPod, the situation of the internet in the late 90s/early 2000s with Napster and the illegal filesharing networks, how the music industry completely screwed up recognizing the potential of the internet for digital music distribution and clung to sueing each and everyone who dared to threaten their established business model until Steve Jobs came along and basically forced them to license their catalogue for the iTunes store, and the cultural significance of the iPod and how it propelled Apple into the pantheon of the most valuable companies on the planet.&lt;/p&gt;
@@ -263,12 +263,12 @@
     
     <item>
       <title>The books I read in November 2023</title>
-      <link>https://82mhz.net/posts/2024/01/the-books-i-read-in-november-2023/</link>
+      <link>http://localhost:1313/posts/2024/01/the-books-i-read-in-november-2023/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/01/the-books-i-read-in-november-2023/</guid>
+      <guid>http://localhost:1313/posts/2024/01/the-books-i-read-in-november-2023/</guid>
       <description>&lt;p&gt;I read only two books in November, and I&amp;rsquo;m a bit late with this post, nevertheless I want to quickly summarize my thoughts about them here.&lt;/p&gt;
-&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/buecher112023.png&#34; max-height=&#34;200x&#34;/&gt;
+&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/images/buecher112023.png&#34; max-height=&#34;200x&#34;/&gt;
 &lt;h3 id=&#34;doctorow&#34;&gt;&lt;em&gt;Cory Docotorow&lt;/em&gt;: The Internet Con: How to Seize the Means of Computation&lt;/h3&gt;
 &lt;p&gt;Cory Doctorow&amp;rsquo;s latest book (at least I believe it is his latest, he releases half a dozen books a year it seems) is right up my alley, which is why I bought it immediately when it came out (and straight from his website as an ebook without any encryption or DRM, the way it should be!).&lt;/p&gt;
 &lt;p&gt;He laments the current state of the internet, which is largely owned and run by a handful of soulless megacorporations whose singular goal is to make as much money for themselves as possible without giving a *** about things like people&amp;rsquo;s privacy, ethics, morals etc.&lt;/p&gt;
@@ -286,10 +286,10 @@
     
     <item>
       <title>New Year 2024</title>
-      <link>https://82mhz.net/posts/2024/01/new-year-2024/</link>
+      <link>http://localhost:1313/posts/2024/01/new-year-2024/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/01/new-year-2024/</guid>
+      <guid>http://localhost:1313/posts/2024/01/new-year-2024/</guid>
       <description>&lt;p&gt;First blogpost of the year, happy new Year everybody!&lt;/p&gt;
 &lt;p&gt;I was sick a lot in November and December and that&amp;rsquo;s one of the reasons why I completely fell off of everything I actually want to do regularly: no yoga, no meditation, no journaling, no blog posts, just mindless internet surfing, hanging around at home and consuming videos on YouTube.&lt;/p&gt;
 &lt;p&gt;And I feel pretty bad about it, but at the same time I&amp;rsquo;m also finding it incredibly difficult to start doing anything again because I&amp;rsquo;m constantly proving to myself that I&amp;rsquo;m not sticking with it.&lt;/p&gt;
@@ -302,10 +302,10 @@
     
     <item>
       <title>Why Whatsapp is making me anxious</title>
-      <link>https://82mhz.net/posts/2023/11/why-whatsapp-is-making-me-anxious/</link>
+      <link>http://localhost:1313/posts/2023/11/why-whatsapp-is-making-me-anxious/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/11/why-whatsapp-is-making-me-anxious/</guid>
+      <guid>http://localhost:1313/posts/2023/11/why-whatsapp-is-making-me-anxious/</guid>
       <description>&lt;p&gt;Using Whatsapp and other similar messengers on my phone has been making me anxious for a long time now, but I could never quite figure out exactly what the problem was. Until now.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;Due to being sick, I had a lot of free time these past few days, and out of nostalgia I started playing around with setting up an ICQ server, so I could use the old ICQ clients of my youth again (only to find out that nobody I know cares about using ICQ anymore, and so the only person I can connect with is myself&amp;hellip; but that&amp;rsquo;s maybe a story for another day).&lt;/p&gt;
@@ -327,10 +327,10 @@
     
     <item>
       <title>Apps I&#39;m using in 2023</title>
-      <link>https://82mhz.net/posts/2023/11/apps-im-using-in-2023/</link>
+      <link>http://localhost:1313/posts/2023/11/apps-im-using-in-2023/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/11/apps-im-using-in-2023/</guid>
+      <guid>http://localhost:1313/posts/2023/11/apps-im-using-in-2023/</guid>
       <description>&lt;p&gt;I saw a post from &lt;a href=&#34;https://0xdstn.site/thoughts/default-apps-2023/&#34;&gt;Dustin&lt;/a&gt;, who saw a post from someone else, who probably saw a post from someone else about writing up which apps and services you are currently using. So let&amp;rsquo;s jump on the hype train while it is rolling and see which apps I am using!&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;Remember when apps used to be called programs? And phones were used to talk to people? Anyway, here&amp;rsquo;s my list:&lt;/p&gt;
@@ -340,7 +340,7 @@
 &lt;li&gt;📬 &lt;strong&gt;Mail client&lt;/strong&gt;: &lt;a href=&#34;https://www.thunderbird.net/&#34;&gt;Thunderbird&lt;/a&gt; (desktop), &lt;a href=&#34;https://k9mail.app/&#34;&gt;K9 Mail&lt;/a&gt; (mobile)&lt;/li&gt;
 &lt;li&gt;🗒 &lt;strong&gt;Notes&lt;/strong&gt;: &lt;a href=&#34;https://obsidian.md/&#34;&gt;Obsidian&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;📅 &lt;strong&gt;Calendar&lt;/strong&gt;: Mailbox.org calendar, synced to Android and Thunderbird&lt;/li&gt;
-&lt;li&gt;📰 &lt;strong&gt;RSS reader&lt;/strong&gt;: &lt;a href=&#34;https://codemadness.org/sfeed-simple-feed-parser.html&#34;&gt;sfeed&lt;/a&gt; and some python-fu around it to generate a website &lt;a href=&#34;https://82mhz.net/blogroll/&#34;&gt;(like this)&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;📰 &lt;strong&gt;RSS reader&lt;/strong&gt;: &lt;a href=&#34;https://codemadness.org/sfeed-simple-feed-parser.html&#34;&gt;sfeed&lt;/a&gt; and some python-fu around it to generate a website &lt;a href=&#34;http://localhost:1313/blogroll/&#34;&gt;(like this)&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;🌐 &lt;strong&gt;Browser&lt;/strong&gt;: &lt;a href=&#34;https://www.mozilla.org/de/firefox/new/&#34;&gt;Firefox&lt;/a&gt; (desktop), &lt;a href=&#34;https://f-droid.org/en/packages/com.duckduckgo.mobile.android/&#34;&gt;DuckDuckGo&lt;/a&gt; (mobile)&lt;/li&gt;
 &lt;li&gt;🔖 &lt;strong&gt;Bookmarks&lt;/strong&gt;: I spread them everywhere and never find them again. Please help!&lt;/li&gt;
 &lt;li&gt;💬 &lt;strong&gt;Chat (mobile)&lt;/strong&gt;: Signal, Threema, Whatsapp&lt;/li&gt;
@@ -365,12 +365,12 @@
     
     <item>
       <title>The books I read in October 2023</title>
-      <link>https://82mhz.net/posts/2023/11/the-books-i-read-in-october-2023/</link>
+      <link>http://localhost:1313/posts/2023/11/the-books-i-read-in-october-2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/11/the-books-i-read-in-october-2023/</guid>
+      <guid>http://localhost:1313/posts/2023/11/the-books-i-read-in-october-2023/</guid>
       <description>&lt;p&gt;In October I read two non-fiction books I only recently came across, and one novel that I&amp;rsquo;ve had for quite a while and which I wanted to read to relax, but it didn&amp;rsquo;t turn out to be so relaxing in the end&amp;hellip;&lt;/p&gt;
-&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/buecherokt2023.png&#34; max-height=&#34;400x&#34;/&gt;
+&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/images/buecherokt2023.png&#34; max-height=&#34;400x&#34;/&gt;
 &lt;h3 id=&#34;menn&#34;&gt;&lt;em&gt;Joseph Menn&lt;/em&gt;: Cult of the Dead Cow&lt;/h3&gt;
 &lt;p&gt;Cult of the Dead Cow is a loosely organized hacker collective originally from Texas that has been around since the late 70s and is still active.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;d never heard of them until recently, when they announced the development of &lt;a href=&#34;https://veilid.com/&#34;&gt;Veilid&lt;/a&gt;, an encrypted P2P network, so I wanted to know who and what they were about.&lt;/p&gt;
@@ -398,10 +398,10 @@
     
     <item>
       <title>Good Bye, Raspberry Pi</title>
-      <link>https://82mhz.net/posts/2023/11/good-bye-raspberry-pi/</link>
+      <link>http://localhost:1313/posts/2023/11/good-bye-raspberry-pi/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/11/good-bye-raspberry-pi/</guid>
+      <guid>http://localhost:1313/posts/2023/11/good-bye-raspberry-pi/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been using a Raspberry Pi 4 as my homeserver, it&amp;rsquo;s running off an SD card. Or it was, because the SD card died recently, and I don&amp;rsquo;t know why.&lt;/p&gt;
 &lt;p&gt;One day I woke up to the server not responding, and a reboot didn&amp;rsquo;t help either. So I attached a monitor and found that the Pi was stuck in the &amp;ldquo;bios&amp;rdquo;, telling me that it couldn&amp;rsquo;t find the SD card, even though it was plugged in.&lt;/p&gt;
 &lt;p&gt;So I looked at the card on my normal PC and found that it was recognized as a drive with 0 bytes. Not great.&lt;/p&gt;
@@ -421,10 +421,10 @@
     
     <item>
       <title>Using two USB Sticks as a Raid on a Raspberry Pi</title>
-      <link>https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</link>
+      <link>http://localhost:1313/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</guid>
+      <guid>http://localhost:1313/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</guid>
       <description>&lt;p&gt;The other day I mentioned in passing on Mastodon that I am using two USB-Sticks as a RAID array on my homeserver, which is a Raspberry Pi 4. Much to my surprise, two people actually asked how this was done, so I promised I would write it up as a blog post. And so here we are. Let&amp;rsquo;s have a look at how it works.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;Disclaimer&lt;/strong&gt;: I&amp;rsquo;m not an IT expert, some things in this tutorial could be wrong or even lead to data loss, so use the information here at your own risk. At the bottom of this post are links to more in-depth articles and tutorials, I highly recommend giving those a read as they contain much more information than this.&lt;/p&gt;
 &lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;
@@ -434,7 +434,7 @@
 &lt;p&gt;I got two inexpensive Sandisk 64GB USB drives from &lt;a href=&#34;https://www.amazon.de/SanDisk-Ultra-Flair-USB-Flash-Laufwerk-150-MB/dp/B015CH1NAQ/ref=sr_1_3?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=2KRIYR2F3VF31&amp;keywords=64gb+sandisk+usb&amp;qid=1697862134&amp;sprefix=64gb+sandisk+usb%2Caps%2C205&amp;sr=8-3&#34;&gt;Amazon&lt;/a&gt; that I connected to my Raspi and set up as a RAID 1 array. This is not a buying recommendation by the way, but I never had a problem with Sandisk drives in the past and these were reasonably cheap, so I went with them.&lt;/p&gt;
 &lt;p&gt;I plugged them into my Raspi, and that&amp;rsquo;s the hardware setup taken care of.&lt;/p&gt;
 &lt;h2 id=&#34;software-configuration&#34;&gt;Software configuration&lt;/h2&gt;
-&lt;p&gt;I&amp;rsquo;ll walk through the installation here, for reference a list of all the commands is at the &lt;a href=&#34;https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/#summary&#34;&gt;bottom of the post&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;ll walk through the installation here, for reference a list of all the commands is at the &lt;a href=&#34;http://localhost:1313/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/#summary&#34;&gt;bottom of the post&lt;/a&gt;.&lt;/p&gt;
 &lt;p&gt;The raid is configured through a utility called &amp;lsquo;mdadm&amp;rsquo;, which you can install through the packet manager of your distro or compile from scratch if you&amp;rsquo;re hardcore. I&amp;rsquo;m not hardcore, so I simply installed it.&lt;/p&gt;
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;$ sudo apt install mdadm
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Next, I checked if the USB drives are available.&lt;/p&gt;
@@ -537,10 +537,10 @@ sudo chmod 777 /mnt/md0/
     
     <item>
       <title>Living in the (technological) past</title>
-      <link>https://82mhz.net/posts/2023/10/living-in-the-technological-past/</link>
+      <link>http://localhost:1313/posts/2023/10/living-in-the-technological-past/</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/10/living-in-the-technological-past/</guid>
+      <guid>http://localhost:1313/posts/2023/10/living-in-the-technological-past/</guid>
       <description>&lt;p&gt;I&amp;rsquo;ve been thinking about it for a while now, and a conversation yesterday with &lt;a href=&#34;https://alpha.polymaths.social/@roguefoam&#34;&gt;Rogue&lt;/a&gt; over on Mastodon brought it to my attention again: I&amp;rsquo;ve never been an early adopter of anything tech related. I live in the technological past. Let&amp;rsquo;s explore if this is a good or a bad thing.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;When I look around my apartment, most of the electronic devices that I own are far from new, and were not even new when I bought them, because I got them used when they were already several years old.&lt;/p&gt;
@@ -564,12 +564,12 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>The books I read in September 2023</title>
-      <link>https://82mhz.net/posts/2023/10/the-books-i-read-in-september-2023/</link>
+      <link>http://localhost:1313/posts/2023/10/the-books-i-read-in-september-2023/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/10/the-books-i-read-in-september-2023/</guid>
+      <guid>http://localhost:1313/posts/2023/10/the-books-i-read-in-september-2023/</guid>
       <description>&lt;p&gt;September was not a great reading month for me. The month started with a week of being sick, during which I couldn&amp;rsquo;t do much at all, and even after that I found it difficult to concentrate on reading. Nevertheless, I read three books (more or less), which I&amp;rsquo;ll summarise here.&lt;/p&gt;
-&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/buecher092023.jpg&#34; max-height=&#34;400x&#34;/&gt;
+&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/images/buecher092023.jpg&#34; max-height=&#34;400x&#34;/&gt;
 &lt;!-- more --&gt;
 &lt;h3 id=&#34;spiegelman&#34;&gt;&lt;em&gt;Art Spiegelman&lt;/em&gt;: Maus (Graphic Novel)&lt;/h3&gt;
 &lt;p&gt;Quite unusual for me, this is not a &amp;ldquo;normal&amp;rdquo; book, but a graphic novel instead.&lt;/p&gt;
@@ -612,10 +612,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>The ongoing Enshittification of Whatsapp</title>
-      <link>https://82mhz.net/posts/2023/09/the-ongoing-enshittification-of-whatsapp/</link>
+      <link>http://localhost:1313/posts/2023/09/the-ongoing-enshittification-of-whatsapp/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/the-ongoing-enshittification-of-whatsapp/</guid>
+      <guid>http://localhost:1313/posts/2023/09/the-ongoing-enshittification-of-whatsapp/</guid>
       <description>&lt;p&gt;A few days ago Whatsapp renamed the status page to &amp;ldquo;Updates&amp;rdquo; and introduced the &amp;ldquo;Channels&amp;rdquo; feature. And suddenly, the messenger I use to communicate with friends and family shows me recommendations for profiles of people and corporations I don&amp;rsquo;t know and don&amp;rsquo;t want to hear from. I don&amp;rsquo;t like it.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;We already know the channels feature from Telegram, where they are used by conspiracy theorists, covid deniers and straight up right-wing extremists to reach their followers. And probably by some normal people who just want to connect with other people as well, the world isn&amp;rsquo;t just black and white, good and evil after all.&lt;/p&gt;
@@ -649,10 +649,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>My Relationship with digital Communication - the Beginnings</title>
-      <link>https://82mhz.net/posts/2023/09/my-relationship-with-digital-communication-the-beginnings/</link>
+      <link>http://localhost:1313/posts/2023/09/my-relationship-with-digital-communication-the-beginnings/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/my-relationship-with-digital-communication-the-beginnings/</guid>
+      <guid>http://localhost:1313/posts/2023/09/my-relationship-with-digital-communication-the-beginnings/</guid>
       <description>&lt;p&gt;Around 1999, the future arrived in our home: From then on, we had internet access, and quite unusual for the time, not via modem, but via ISDN with a terrific speed of 64kBit/s! While the others were still using their ancient 56k modems, we were already surfing the information superhighway with the speed of tomorrow!&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;&amp;hellip; ok, to be honest it wasn&amp;rsquo;t that much better, but an interesting long-term effect is that the typical modem noises don&amp;rsquo;t trigger any nostalgia in me because I never even got to hear them.&lt;/p&gt;
@@ -684,10 +684,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Cal Newport&#39;s &#34;Deep Life Stack&#34; - Layer 1: Discipline</title>
-      <link>https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-layer-1-discipline/</link>
+      <link>http://localhost:1313/posts/2023/09/cal-newports-deep-life-stack-layer-1-discipline/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-layer-1-discipline/</guid>
+      <guid>http://localhost:1313/posts/2023/09/cal-newports-deep-life-stack-layer-1-discipline/</guid>
       <description>&lt;p&gt;In the last post I introduced Cal Newport&amp;rsquo;s &amp;ldquo;Deep Life Stack&amp;rdquo;, his program to put your life on a more solid foundation. Today I want to expand on this and have a look at the fist layer, &amp;ldquo;discipline&amp;rdquo;.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;If we want to start some meaningful changes in our lives, the first step, according to Cal, is to change our peception of ourselves.&lt;/p&gt;
@@ -715,10 +715,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Cal Newport&#39;s &#34; Deep Life Stack&#34;: 4 Months to reinvent your life </title>
-      <link>https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-4-months-to-reinvent-your-life/</link>
+      <link>http://localhost:1313/posts/2023/09/cal-newports-deep-life-stack-4-months-to-reinvent-your-life/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-4-months-to-reinvent-your-life/</guid>
+      <guid>http://localhost:1313/posts/2023/09/cal-newports-deep-life-stack-4-months-to-reinvent-your-life/</guid>
       <description>&lt;p&gt;I usually stay away from the &amp;ldquo;productivity&amp;rdquo; genre on YouTube as far as possible, because there are just too many influencers on there who boast about how great they are at being productive, how super sophisticated their productivity system or bullet journal is, or who produce these quite frankly ridiculous &amp;ldquo;study with me for 13 hours&amp;rdquo; videos.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;A very pleasant exception to this is Cal Newport&amp;rsquo;s podcast.&lt;/p&gt;
@@ -727,7 +727,7 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;p&gt;Anyway, his approach is not &amp;ldquo;I&amp;rsquo;m going to get a new bullet journal&amp;rdquo;, but more general and holistic, he&amp;rsquo;s all about how to set up your life in such a way that you get the things you want to do done and still have free time and energy left so you&amp;rsquo;re not constantly stressed out of your mind.&lt;/p&gt;
 &lt;p&gt;One thing I like a lot about his podcast is that he often presents ideas that are still in the making and then picks them up again in later episodes and develops them further. In one of his latest &lt;a href=&#34;https://www.youtube.com/watch?v=0G7Wu4DnDaw&#34;&gt;podcast episodes&lt;/a&gt; he presented a 4-month plan to put your life on a new, hopefully more stable ground. This is based on an &lt;a href=&#34;https://www.youtube.com/watch?v=G-6ua6UCeGM&#34;&gt;earlier idea&lt;/a&gt; that he continues to develop and refine.&lt;/p&gt;
 &lt;p&gt;He suggests to divide the procedure into four successive layers which he calls the &amp;ldquo;deep life stack&amp;rdquo;. Here it is as a picture, with an explanation afterwards:&lt;/p&gt;
-&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/CalNewport4MonthsEN.svg&#34; height=&#34;400x&#34; alt=&#34;4 layers, discipline, values, control, vision&#34;/&gt;
+&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/images/CalNewport4MonthsEN.svg&#34; height=&#34;400x&#34; alt=&#34;4 layers, discipline, values, control, vision&#34;/&gt;
 &lt;p&gt;The four layers that build on each other are:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Discipline as the lowest layer&lt;/li&gt;
@@ -754,10 +754,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Books I read in August 2023</title>
-      <link>https://82mhz.net/posts/2023/09/books-i-read-in-august-2023/</link>
+      <link>http://localhost:1313/posts/2023/09/books-i-read-in-august-2023/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/books-i-read-in-august-2023/</guid>
+      <guid>http://localhost:1313/posts/2023/09/books-i-read-in-august-2023/</guid>
       <description>&lt;p&gt;This is the first post of what I hope will be a monthly series in which I take a look back at the books I read the past month.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;In August, I didn&amp;rsquo;t really reach my goal of one book a week, which was partly due to the fact that I started some books and put them down again after two or three days, because I realised that they just weren&amp;rsquo;t right for me.&lt;/p&gt;
@@ -787,10 +787,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Blogroll or &#34;I want one too!&#34;</title>
-      <link>https://82mhz.net/posts/2023/09/blogroll-or-i-want-one-too/</link>
+      <link>http://localhost:1313/posts/2023/09/blogroll-or-i-want-one-too/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/blogroll-or-i-want-one-too/</guid>
+      <guid>http://localhost:1313/posts/2023/09/blogroll-or-i-want-one-too/</guid>
       <description>&lt;p&gt;Inspired by Noisy Deadline&amp;rsquo;s post &amp;ldquo;&lt;a href=&#34;https://noisydeadlines.net/blog-update-bringing-back-the-blogroll&#34;&gt;Bringing back the Blogroll&lt;/a&gt;&amp;rdquo; and by the blogrolls I&amp;rsquo;ve already seen on some other sites, I wanted to set one up for myself too.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;I like the concept of a blogroll, which as far as I understand is a list of blogs I like and follow (which I already have on my links page), but I thought I could do one better and create a list of all the latest posts from these blogs as well, ordered by date.&lt;/p&gt;
@@ -799,7 +799,7 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;p&gt;So I built my own parser in Python.&lt;/p&gt;
 &lt;p&gt;Now this sounds like &amp;ldquo;just quickly whipped something up&amp;rdquo;, but since I&amp;rsquo;m not a Python expert and had to google every single command, it took me a few hours.&lt;/p&gt;
 &lt;p&gt;But now it works, sfeed fetches the latest articles from a list of RSS feeds, my Python script parses them out as Markdown in the right format and Hugo then integrates it into the website.&lt;/p&gt;
-&lt;p&gt;The result can be admired &lt;a href=&#34;https://82mhz.net/blogroll/&#34;&gt;here&lt;/a&gt; and can be accessed via the menu option &amp;ldquo;links&amp;rdquo;. Maybe I&amp;rsquo;ll add a separate menu entry, I&amp;rsquo;m not quite sure yet.&lt;/p&gt;
+&lt;p&gt;The result can be admired &lt;a href=&#34;http://localhost:1313/blogroll/&#34;&gt;here&lt;/a&gt; and can be accessed via the menu option &amp;ldquo;links&amp;rdquo;. Maybe I&amp;rsquo;ll add a separate menu entry, I&amp;rsquo;m not quite sure yet.&lt;/p&gt;
 &lt;p&gt;Either way, I&amp;rsquo;m happy with it for now. So far I&amp;rsquo;m still updating manually, so the list might be a few days behind. If I find the time and feel like it, I&amp;rsquo;ll switch to automated updates.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Post 002/100 of the 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;
 &lt;hr&gt;
@@ -809,10 +809,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>100 Days to offload</title>
-      <link>https://82mhz.net/posts/2023/09/100-days-to-offload/</link>
+      <link>http://localhost:1313/posts/2023/09/100-days-to-offload/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/100-days-to-offload/</guid>
+      <guid>http://localhost:1313/posts/2023/09/100-days-to-offload/</guid>
       <description>&lt;p&gt;Sometimes there are things that you read or just see somewhere and you immediately think &amp;ldquo;that&amp;rsquo;s cool, I&amp;rsquo;ll do that&amp;rdquo;. Some time ago I came across the &lt;a href=&#34;https://100daystooffload.com/&#34;&gt;100 Days to offload&lt;/a&gt; challenge, and this was one of those things.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;What is it about?&lt;/p&gt;
@@ -858,10 +858,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Updated Design Part 2</title>
-      <link>https://82mhz.net/posts/2023/08/updated-design-part-2/</link>
+      <link>http://localhost:1313/posts/2023/08/updated-design-part-2/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/08/updated-design-part-2/</guid>
+      <guid>http://localhost:1313/posts/2023/08/updated-design-part-2/</guid>
       <description>&lt;p&gt;Who doesn&amp;rsquo;t know it: You only want to change a minor thing on the theme of the website, but you can&amp;rsquo;t seem to get it right and in the end escalate completely and rewrite the whole website from scratch.&lt;/p&gt;
 &lt;h2 id=&#34;back-story&#34;&gt;Back story:&lt;/h2&gt;
 &lt;p&gt;This website was created with &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; and originally had the theme &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;Papermod&lt;/a&gt;&amp;rdquo;, then &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-blog-awesome/&#34;&gt;Hugo Blog Awesome&lt;/a&gt;&amp;rdquo; and finally &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-console/&#34;&gt;Console&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
@@ -879,10 +879,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Website update with new sections</title>
-      <link>https://82mhz.net/posts/2023/08/website-update-with-new-sections/</link>
+      <link>http://localhost:1313/posts/2023/08/website-update-with-new-sections/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/08/website-update-with-new-sections/</guid>
+      <guid>http://localhost:1313/posts/2023/08/website-update-with-new-sections/</guid>
       <description>&lt;p&gt;Just a little announcement today, I have added two new sections to the website: Links and Bookclub.&lt;/p&gt;
 &lt;p&gt;Links should be pretty self-explanatory, on this page I collect links to interesting blogs, articles, documents&amp;hellip;. everything I find interesting or worth knowing and want to share or remember for later.&lt;/p&gt;
 &lt;p&gt;Under bookclub I collect the list of books I&amp;rsquo;ve read, maybe a book review here and there and generally everything that somehow has to do with books and reading.&lt;/p&gt;
@@ -893,10 +893,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>New Design and now also in German</title>
-      <link>https://82mhz.net/posts/2023/08/new-design-and-now-also-in-german/</link>
+      <link>http://localhost:1313/posts/2023/08/new-design-and-now-also-in-german/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/08/new-design-and-now-also-in-german/</guid>
+      <guid>http://localhost:1313/posts/2023/08/new-design-and-now-also-in-german/</guid>
       <description>&lt;p&gt;The site is barely two months old and already the first redesign is coming.&lt;/p&gt;
 &lt;p&gt;I didn&amp;rsquo;t really warm up to the old theme, but luckily Hugo makes it really easy to change the theme. Of course, you&amp;rsquo;re still going to spend days tinkering to get everything exactly the way you want it, and it&amp;rsquo;s still not exactly the way &lt;strong&gt;I&lt;/strong&gt; want it, but that will come in time.&lt;/p&gt;
 &lt;p&gt;Anyway, the site is now based on a modified &lt;a href=&#34;https://github.com/mrmierzejewski/hugo-theme-console&#34;&gt;Hugo Console Theme&lt;/a&gt; and, big news, it&amp;rsquo;s bilingual!&lt;/p&gt;
@@ -904,16 +904,16 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;p&gt;My plan is to write the posts in German, because I&amp;rsquo;ve always felt a bit weird writing everything in English (a foreign language for me) and then translating the German posts into English with &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt;. Maybe go over it again so that it sounds like me and not like an AI.&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s see how I get on with it. I won&amp;rsquo;t translate the older posts into German for now, but I think we can live with that.&lt;/p&gt;
 &lt;hr&gt;
-&lt;p&gt;&lt;em&gt;This is a translation of the &lt;a href=&#34;https://82mhz.net/de/posts/redesign&#34;&gt;original German post&lt;/a&gt; made by &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt; and then manually adapted to (hopefully) sound a bit more human&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;This is a translation of the &lt;a href=&#34;http://localhost:1313/de/posts/redesign&#34;&gt;original German post&lt;/a&gt; made by &lt;a href=&#34;https://www.deepl.com/&#34;&gt;DeepL&lt;/a&gt; and then manually adapted to (hopefully) sound a bit more human&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>Old Computer Challenge 2023 - Epilogue</title>
-      <link>https://82mhz.net/posts/2023/08/old-computer-challenge-2023-epilogue/</link>
+      <link>http://localhost:1313/posts/2023/08/old-computer-challenge-2023-epilogue/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/08/old-computer-challenge-2023-epilogue/</guid>
+      <guid>http://localhost:1313/posts/2023/08/old-computer-challenge-2023-epilogue/</guid>
       <description>&lt;p&gt;So the OCC 2023 ended almost three weeks ago and everyone went back to the year 2023 and to using their modern computers. At least I did. But let&amp;rsquo;s explore what remaind for me.&lt;/p&gt;
 &lt;p&gt;I want to take a moment to look back and examine what was good, which tools and workflows stuck with me and what is better left back on the old computer (which was really just a VM in my case).&lt;/p&gt;
 &lt;h3 id=&#34;the-good&#34;&gt;The Good&lt;/h3&gt;
@@ -951,10 +951,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Old Computer Challenge - Days 6 and 7</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-days-6-and-7/</link>
+      <link>http://localhost:1313/posts/2023/07/old-computer-challenge-days-6-and-7/</link>
       <pubDate>Mon, 17 Jul 2023 07:29:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-days-6-and-7/</guid>
+      <guid>http://localhost:1313/posts/2023/07/old-computer-challenge-days-6-and-7/</guid>
       <description>&lt;p&gt;So the last two days of the Old Computer Challenge went by in the blink of an eye, and not a lot has happened, so I&amp;rsquo;m putting them together in one post. But I still wanted to note a few things down, and I might also a wrap-up some time next week.&lt;/p&gt;
 &lt;h4 id=&#34;day-6&#34;&gt;Day 6&lt;/h4&gt;
 &lt;p&gt;It was boiling hot outside (35°C) and I am just completely useless in these kinds of temperatures (in Germany we also don&amp;rsquo;t tend to have AC, so no way to cool my apartment down). So I was just lying around most of the day, trying to move as little as possible.&lt;/p&gt;
@@ -980,10 +980,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-5-youtube-videos-on-an-ipod-classic/</link>
+      <link>http://localhost:1313/posts/2023/07/old-computer-challenge-day-5-youtube-videos-on-an-ipod-classic/</link>
       <pubDate>Sat, 15 Jul 2023 15:11:27 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-5-youtube-videos-on-an-ipod-classic/</guid>
+      <guid>http://localhost:1313/posts/2023/07/old-computer-challenge-day-5-youtube-videos-on-an-ipod-classic/</guid>
       <description>&lt;h4 id=&#34;note&#34;&gt;Note&lt;/h4&gt;
 &lt;p&gt;This is only semi-related to the OldComputerChallenge, but I revisited the idea of downloading videos from Youtube and putting them on an old iPod. I had already figured out the commands a while ago, but I had to refresh my memory from my bash history and because I figure this might actually be of interest to some people, I wrote it as a tutorial.&lt;/p&gt;
 &lt;p&gt;Again, this is about downloading videos from Youtube and putting them on the iPod, not about accessing Youtube straight from the iPod. That&amp;rsquo;s not possible because iPods (apart from the iPod touch, which is basically an iPhone) don&amp;rsquo;t have wifi.&lt;/p&gt;
@@ -991,7 +991,7 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;p&gt;A while ago I got into old iPods (of course like so many people thanks to a certain &lt;a href=&#34;https://yewtu.be/channel/UC7Jwj9fkrf1adN4fMmTkpug&#34;&gt;easily excitable australian youtuber&lt;/a&gt;) and got myself an old iPod Classic with a 160GB harddisk.&lt;/p&gt;
 &lt;p&gt;I remember thinking back then that they looked really amazing and that 160GB was just a phenomenal amount of storage, enough for my entire music collection at the time, but of course being a university student who was just barely getting by financially there was no way I could afford one.&lt;/p&gt;
 &lt;p&gt;Fast forward a decade and a half later, thankfully I have an income now and old iPods have come down in price as well (double win!), so the time had come to get one.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;iPodClassic&#34; src=&#34;https://82mhz.net/iPodClassic.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;iPodClassic&#34; src=&#34;http://localhost:1313/iPodClassic.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Of course the first thing I did was to put &lt;a href=&#34;https://www.rockbox.org&#34;&gt;Rockbox&lt;/a&gt; on it, and here it is running the fantastic &lt;a href=&#34;https://github.com/D0-0K/adwaitapod&#34;&gt;Adawaitapod&lt;/a&gt; theme by &lt;a href=&#34;https://d00k.net/&#34;&gt;D00k&lt;/a&gt;!&lt;/p&gt;
 &lt;p&gt;So then putting music and podcasts and audiobooks on it is pretty straightforward, just copy your MP3s, OGGs, FLACs etc. over and you&amp;rsquo;re good to go! No iTunes, no messing around trying to get libgtkpod working, it just works like any other MP3-Player, you mount it as a USB-storage device on your computer, copy the files over and that&amp;rsquo;s it. The way it&amp;rsquo;s supposed to be.&lt;/p&gt;
 &lt;p&gt;But wait, this thing can play videos too, right? Could it be possible to rip videos from youtube and put them on the iPod so I can strain my eyes watching them on a way too tiny screen like it&amp;rsquo;s 2005?&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
@@ -1017,7 +1017,7 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt; $ for i in *.webm; do ffmpeg -i &amp;#34;$i&amp;#34; -c:v mpeg2video -b:v 4000k -acodec libmp3lame -ab 192k -vf scale=320:-1 &amp;#34;${i%.*}.mpg&amp;#34;; done
 &lt;/code&gt;&lt;/pre&gt;&lt;p&gt;In order to change the filesize (and quality), you can play around with the video bitrate (the number after -b:v) and the audio bitrate (the number after -ab) until you have the right values dialed in for your usecase. The bitrates above work well for me, so I&amp;rsquo;m happy with them.&lt;/p&gt;
 &lt;p&gt;Now if everything went well, you have a bunch of video files in your folder with the extension *&lt;em&gt;mpg&lt;/em&gt;, and you can just copy them over to your iPod, open them in Rockbox like any other file and enjoy your favorite 80s music videos on the go! (I know that&amp;rsquo;s what you came here for ;) )&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;iPodClassic&#34; src=&#34;https://82mhz.net/iPodClassicMJ.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;iPodClassic&#34; src=&#34;http://localhost:1313/iPodClassicMJ.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;(It looks better in person btw., my camera is not the greatest. But the iPods screen is actually pretty nice for its age!)&lt;/p&gt;
 &lt;h4 id=&#34;bonus-round-converting-to-h264-for-the-original-ipod-software&#34;&gt;Bonus round: Converting to h.264 for the original iPod software&lt;/h4&gt;
 &lt;p&gt;Like I mentioned, the iPod is capable of playing h.264 videos, so if you&amp;rsquo;re still rocking the original Apple software, you can also convert you videos to a higher quality (and smaller filesize) codec like this:&lt;/p&gt;
@@ -1035,10 +1035,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Old Computer Challenge - Day 4</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-4/</link>
+      <link>http://localhost:1313/posts/2023/07/old-computer-challenge-day-4/</link>
       <pubDate>Fri, 14 Jul 2023 08:50:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-4/</guid>
+      <guid>http://localhost:1313/posts/2023/07/old-computer-challenge-day-4/</guid>
       <description>&lt;p&gt;I want to take this post to get out some thoughts about the internet, social media and mental health.&lt;/p&gt;
 &lt;p&gt;How is this related to the OldComputerChallenge?&lt;/p&gt;
 &lt;p&gt;Let&amp;rsquo;s take a look.&lt;/p&gt;
@@ -1056,10 +1056,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Old Computer Challenge - Day 3</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-3/</link>
+      <link>http://localhost:1313/posts/2023/07/old-computer-challenge-day-3/</link>
       <pubDate>Thu, 13 Jul 2023 13:50:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-3/</guid>
+      <guid>http://localhost:1313/posts/2023/07/old-computer-challenge-day-3/</guid>
       <description>&lt;p&gt;On this day I was sick, so not a lot has happened, but I would like to still briefly share a few thoughts.&lt;/p&gt;
 &lt;p&gt;I&amp;rsquo;m spending far less time aimlessly surfing the web or watching youtube-videos for hours on end, simply because it&amp;rsquo;s not very much fun. Surfing works, but most sites are not very pleasant to look at or don&amp;rsquo;t work at all in a minimalist browser (think lynx, links2, luakit) or they slow the computer down to a crawl when using vivaldi (which is already slow thanks to its significant memory footprint). Important lesson: don&amp;rsquo;t have more than one or two tabs open at once. Just don&amp;rsquo;t.&lt;/p&gt;
 &lt;p&gt;And watching youtube is pretty much impossible. Even just loading the start page takes forever, and trying to load a video&amp;hellip; just no. I had downloaded yt-dlp beforehand to be able to download yt-videos at a lower resolution, but I would still have to get the url from somewhere and honestly, I don&amp;rsquo;t even miss it. I&amp;rsquo;m sure I&amp;rsquo;ll eventually catch up on a few interesting videos that I missed during the week, but right now I&amp;rsquo;m completely fine without spending the evening on my couch aimlessly browsing youtube.&lt;/p&gt;
@@ -1072,10 +1072,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Old Computer Challenge - Day 2</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-2/</link>
+      <link>http://localhost:1313/posts/2023/07/old-computer-challenge-day-2/</link>
       <pubDate>Tue, 11 Jul 2023 18:00:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-2/</guid>
+      <guid>http://localhost:1313/posts/2023/07/old-computer-challenge-day-2/</guid>
       <description>&lt;p&gt;Day 2 is coming to a close. Today I was at work all day and so didn&amp;rsquo;t spend a whole lot of time on my slow computer.&lt;/p&gt;
 &lt;p&gt;However, A thought occurred to me recently, because since I subscribed to mastodon a couple of weeks ago and especially since I started following some retro computing related postings (where I discoved the OCC in the first place), I discovered that there&amp;rsquo;s a thing called&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://communitywiki.org/static/SmolNet.html&#34;&gt;The SmolNet&lt;/a&gt;&lt;/strong&gt;&lt;/p&gt;
@@ -1100,10 +1100,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Old Computer Challenge - Day 1</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-1/</link>
+      <link>http://localhost:1313/posts/2023/07/old-computer-challenge-day-1/</link>
       <pubDate>Mon, 10 Jul 2023 09:46:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-1/</guid>
+      <guid>http://localhost:1313/posts/2023/07/old-computer-challenge-day-1/</guid>
       <description>&lt;p&gt;Okay, Day 1 is almost over, what have we learned?&lt;/p&gt;
 &lt;p&gt;Modern software sucks!!&lt;/p&gt;
 &lt;p&gt;I mean, it doesn&amp;rsquo;t really, a lot of it is quite beautiful and easy to use, but boy, everything consumes so many resources! Just starting up a web browser (firefox or chrome doesn&amp;rsquo;t really matter) takes a good ten seconds or more, and then we haven&amp;rsquo;t even loaded a single page yet.&lt;/p&gt;
@@ -1122,10 +1122,10 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
     
     <item>
       <title>Old Computer Challenge - Preparation</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-preparation/</link>
+      <link>http://localhost:1313/posts/2023/07/old-computer-challenge-preparation/</link>
       <pubDate>Sun, 09 Jul 2023 09:46:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-preparation/</guid>
+      <guid>http://localhost:1313/posts/2023/07/old-computer-challenge-preparation/</guid>
       <description>&lt;p&gt;This year I learned about &lt;a href=&#34;https://bsd.network/@solene&#34;&gt;Solene&amp;rsquo;s&lt;/a&gt; &lt;a href=&#34;https://dataswamp.org/~solene/2023-06-04-old-computer-challenge-v3.html&#34;&gt;Old Computer Challenge&lt;/a&gt;, and I thought hey, I might give it a go!&lt;/p&gt;
 &lt;p&gt;So this year the rules for the challenge are as follows:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -1138,7 +1138,7 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;/blockquote&gt;
 &lt;p&gt;Okay, easy enough, right? Well, of course my natural tendency to overthink everything kicked in.&lt;/p&gt;
 &lt;p&gt;First I thought, I&amp;rsquo;d fire up my (almost) 20 year old laptop from back when I was in university. Turns out, the thing is really on its last legs, the battery has died long ago, the display hinges are barely holding together, the backlight (CFL, no LEDs) could give up at any moment&amp;hellip; not a pleasant experience.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Acer Aspire 2001&#34; src=&#34;https://82mhz.net/aspire2001.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Acer Aspire 2001&#34; src=&#34;http://localhost:1313/aspire2001.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Next, I thought I&amp;rsquo;d just slow down my normal desktop PC to one core, 512mb RAM and limit the cpu frequency&amp;hellip; but that didn&amp;rsquo;t really feel old, it was just my normal computer a bit slower.&lt;/p&gt;
 &lt;p&gt;So after a lot of thinking what I ended up with is this:&lt;/p&gt;
 &lt;ul&gt;
@@ -1151,7 +1151,7 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 &lt;li&gt;Music comes from physical media, meaning CDs, vinyl, radio or an old iPod (yes, I&amp;rsquo;m lumping the iPod in with the physical media because it&amp;rsquo;s a dedicated device whose only purpose is to play music - and most importantly it can&amp;rsquo;t go online!)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;So this is the setup for now, we&amp;rsquo;ll see how the week goes.&lt;/p&gt;
-&lt;p&gt;&lt;img alt=&#34;Setup for the OldComputerChallenge&#34; src=&#34;https://82mhz.net/oldComputerSetup.jpg&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img alt=&#34;Setup for the OldComputerChallenge&#34; src=&#34;http://localhost:1313/oldComputerSetup.jpg&#34;&gt;&lt;/p&gt;
 &lt;p&gt;Let the fun begin!&lt;/p&gt;
 </description>
     </item>
