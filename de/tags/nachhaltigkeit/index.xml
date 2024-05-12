@@ -2,18 +2,105 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nachhaltigkeit on 82MHz</title>
-    <link>https://82mhz.net/de/tags/nachhaltigkeit/</link>
+    <link>http://localhost:1313/de/tags/nachhaltigkeit/</link>
     <description>Recent content in Nachhaltigkeit on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-DE</language>
-    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/de/tags/nachhaltigkeit/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Sep 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/de/tags/nachhaltigkeit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>BooksNovember2023</title>
+      <link>http://localhost:1313/de/posts/2024/01/booksnovember2023/</link>
+      <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/posts/2024/01/booksnovember2023/</guid>
+      <description>&lt;!-- more --&gt;
+&lt;h2 id=&#34;cory-docotorow-the-internet-con-how-to-seize-the-means-of-computation&#34;&gt;Cory Docotorow: The Internet Con: How to Seize the Means of Computation&lt;/h2&gt;
+&lt;p&gt;Cory Doctorows neuestes Buch (zumindest glaube ich, dass es das neueste ist, Cory Doctorow bringt gefühlt 10 Bücher pro Jahr raus) trifft genau meinen Nerv, weswegen ich es auch direkt als es rauskam gekauft habe. Er lamentiert den aktuellen Zustand des Internets, das überwiegend von wenigen gigantischen Konzernen dominiert wird und dessen Zweck es&lt;/p&gt;
+&lt;h2 id=&#34;jonathan-haidt-the-happiness-hypothesis&#34;&gt;Jonathan Haidt: The Happiness Hypothesis&lt;/h2&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Willkommen 2024</title>
+      <link>http://localhost:1313/de/posts/2024/01/willkommen-2024/</link>
+      <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/posts/2024/01/willkommen-2024/</guid>
+      <description>&lt;p&gt;Erster Eintrag im neuen Jahr, gutes Neues Jahr erstmal!&lt;/p&gt;
+&lt;p&gt;Im November und Dezember war ich recht viel krank und bin unter anderem deshalb komplett von allem abgefallen, was ich eigentlich regelmäßig machen möchte, kein Yoga, keine Meditation, keine Tagebucheinträge, keine Blogposts, nur stumpfes rumsurfen, rumhängen und mich von Youtube beschallen lassen.&lt;/p&gt;
+&lt;p&gt;Und ich fühl mich richtig kacke damit, gleichzeitig tu ich mir auch wahnsinnig schwer, wieder mit irgendwas anzufangen, weil ich mir ja ständig selbst beweise, dass ich nicht dran bleibe.&lt;/p&gt;
+&lt;p&gt;Was sagt James Clear in Atomic Habits dazu? Die ganze Sache in so kleine Bröckchen zerhacken, dass der Aufwand minimal ist sie zu tun, und dann langsam aufbauen, wenn die Gewohnheit etabliert ist.&lt;/p&gt;
+&lt;p&gt;Und Jordan Peterson sagt, es ist demütigend und erniedrigend sich selbst einzugestehen, dass man so ein Versager ist, dass man nur winzige Schritte hinbringt am Anfang. Er sagt aber auch, dass sich die Schritte exponentiell vergrößern, wenn man mal damit angefangen hat. Aber erstmal muss man anfangen, und man muss klein anfangen. Winzig sogar, wenn nötig&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Prozess etablieren, und dann auf den Prozess vertrauen. Und den Rest erstmal aus dem Gedächtnis streichen.&lt;/p&gt;
+&lt;p&gt;Also starten wir halt jetzt wieder neu, in kleinen Schritten.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Post 015/100 of the 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Bücher, die ich im Oktober 2023 gelesen habe</title>
+      <link>http://localhost:1313/de/posts/2023/11/b%C3%BCcher-die-ich-im-oktober-2023-gelesen-habe/</link>
+      <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/posts/2023/11/b%C3%BCcher-die-ich-im-oktober-2023-gelesen-habe/</guid>
+      <description>&lt;p&gt;Im Oktober waren zwei Sachbücher bei mir an der Reihe, von denen ich erst kürzlich gehört hatte, die ich aber beide unbedingt lesen wollte, und zur Entspannung ein Roman, der dann doch nicht so entspannend war wie erhofft. Aber der Reihe nach.&lt;/p&gt;
+&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/images/buecherokt2023.png&#34; max-height=&#34;400x&#34;/&gt;
+&lt;h3 id=&#34;menn&#34;&gt;&lt;em&gt;Joseph Menn&lt;/em&gt;: Cult of the Dead Cow&lt;/h3&gt;
+&lt;p&gt;Cult of the Dead Cow ist ein lose organisiertes Hackerkollektiv ursprünglich aus Texas, das schon seit den späten 70ern besteht und immer noch aktiv ist.&lt;/p&gt;
+&lt;p&gt;Mir hat der Name bis vor kurzem nichts gesagt, aber sie kamen über die Entwicklung von &lt;a href=&#34;https://veilid.com/&#34;&gt;Veilid&lt;/a&gt;, einem verschlüsselten P2P Netzwerk, letztens in die Nachrichten, also wollte ich wissen, um wen und was es sich handelt.&lt;/p&gt;
+&lt;p&gt;Das Buch rollt die Geschichte des Kollektivs von seinen Anfängen bis in die Gegenwart auf. Begonnen haben sie, wie so viele Hacker aus dieser Zeit, als Jugendliche, die das amerikanische Telefonsystem überlistet haben und damit kostenlos telefonieren oder auf BBS-Systeme zugreifen konnten.&lt;/p&gt;
+&lt;p&gt;Geschichten aus der Anfangszeit der Computer und des Hackens zu lesen finde ich immer spannend, sie sind für mich aber auch hauptsächlich historische Erzählungen, da ich zu jung bin, um das alles selbst mitgemacht zu haben.&lt;/p&gt;
+&lt;p&gt;Wirklich interessant wurde das Buch für mich deswegen in der zweiten Hälfte, zeitlich ab den späten 90ern, also ab der Zeit, an die ich mich auch erinnern kann und zu der ich selbst im Internet aktiv war. Da kamen dann Ereignisse und Namen vor, die ich auch schon gehört habe und an die ich mich erinnern kann,  George W. Bush als US-Präsident, 9/11, Wikileaks, Assange, Snowden, das Drama um Jacob Applebaum.&lt;/p&gt;
+&lt;p&gt;Insgesamt spannend und kurzweilig zu lesen, wenn man sich für Untergrund-Hackerkultur interessiert.&lt;/p&gt;
+&lt;h3 id=&#34;voss&#34;&gt;&lt;em&gt;Chris Voss&lt;/em&gt;: Never split the Difference&lt;/h3&gt;
+&lt;p&gt;Chris Voss war jahrelang Verhandlungsführer beim FBI bei Geiselnahmen und Entführungen. Der Typ, der geschickt wurde wenn Al-Quaida oder irgendwelche anderen Fundamentalisten US-Amerikaner entführt und gedroht haben, sie zu enthaupten, wenn ihre Forderungen nicht erfüllt werden.&lt;/p&gt;
+&lt;p&gt;In dem Buch fasst er sein Wissen zusammen und stellt seine Methode vor, um in Verhandlungen einen kühlen Kopf zu bewahren und für sich das beste aus der Verhandlung rauszuholen (im Fall von Geiselnahmen natürlich die Freilassung der Geisel bei möglichst geringer oder gar keiner Lösegeldzahlung).&lt;/p&gt;
+&lt;p&gt;Kern seiner Methodik ist, was er &amp;ldquo;taktische Empathie&amp;rdquo; nennt, was letztendlich einfach nur Empathie ist&amp;hellip; sich in sein Gegenüber hineinzuversetzen und verstehen, was denjenigen antreibt. Denn erst wenn man die Motivation seines Verhandlungspartners verstanden hat und erkannt hat, worum es demjenigen wirklich geht, kann man erfolgreich verhandeln.&lt;/p&gt;
+&lt;p&gt;Der Titel &amp;ldquo;Never split the Difference&amp;rdquo; (keine Kompromisse eingehen) klingt erstmal krass, ergibt aber auch Sinn, da ein Kompromiss seiner Definition nach etwas ist, womit beide Seiten unzufrieden sind, während das Ergebnis einer erfolgreichen Verhandlung sein sollte, dass beide Seiten mit dem Ergebnis zufrieden sind und keiner das Gefühl hat, übervorteilt zu werden oder sich zu Dingen hat plattschlagen lassen, die er eigentlich gar nicht tun wollte.&lt;/p&gt;
+&lt;p&gt;Sehr gutes Buch und im Gegensatz zu vielen anderen Sachbüchern und erst recht &amp;ldquo;Ratgebern&amp;rdquo; auch wirklich mit viel Information ausgestattet.&lt;/p&gt;
+&lt;h3 id=&#34;harris&#34;&gt;&lt;em&gt;Thomas Harris&lt;/em&gt;: Roter Drache (Red Dragon)&lt;/h3&gt;
+&lt;p&gt;Thomas Harris ist der Autor der Romanvorlage für &amp;ldquo;Das Schweigen der Lämmer&amp;rdquo; und &amp;ldquo;Hannibal&amp;rdquo;, die ich beide vor vielen Jahren gelesen und auch die Filme dazu gesehen hab.&lt;/p&gt;
+&lt;p&gt;Das Schweigen der Lämmer war fantastisch, sowohl das Buch als auch der Film, Hannibal fand ich beides eher enttäuschend, und von Roter Drache gabs nach Hannibal auch eine Verfilmung (Neuverfilmung genauer gesagt, weil der Film schon früher als &amp;ldquo;Manhunter&amp;rdquo; verfilmt wurde), die ich glaub ich damals sogar im Kino gesehen habe, aber von der mir eigentlich nur in Erinnerung ist, dass Anthony Hopkins deutlich älter aussieht als in Schweigen der Lämmer, obwohl die Geschichte davor spielt.&lt;/p&gt;
+&lt;p&gt;Das Buch &amp;ldquo;Roter Drache&amp;rdquo; hatte ich aber nie gelesen, also war es jetzt an der Zeit, das nachzuholen. Nach den ganzen Sachbüchern in letzter Zeit hatte ich Lust, mal wieder einen Roman zur Entspannung zu lesen.&lt;/p&gt;
+&lt;p&gt;Entspannend wars dann aber nicht, weil die Geschichte extrem spannend und atmosphärisch beklemmend ist, so sehr, dass ich die zweite Hälfte des Buches außerhalb meiner normalen Lesenszeit (abends im Bett) lesen musste, weil ich es immer nicht weglegen konnte und dementsprechend mein Schlaf drunter gelitten hat.&lt;/p&gt;
+&lt;p&gt;Ein psychopathischer Mörder treibt sein Unwesen, der ganze Familien auslöscht und auf den Opfern sein Markenzeichen, einen Gebissabdruck hinterlässt, weshalb er von den Medien &amp;ldquo;Tooth Fairy&amp;rdquo; genannt wird, was im Deutschen die katastrophale Übersetzung &amp;ldquo;Zahnschwuchtel&amp;rdquo; bekommen hat. &amp;ldquo;Zahnfee&amp;rdquo; wäre wohl zu einfach gewesen&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Jedenfalls wird FBI-Ermittler Will Graham auf den Fall angesetzt, der auch schon (vor den Ereignissen im Buch) Hannibal Lecter das Handwerk gelegt hat, was ihn fast das Leben gekostet hätte und weswegen er sich eigentlich mit seiner Familie zur Ruhe gesetzt hatte. Da er aber die Fähigkeit besitzt, sich in Psychopathen hineinzuversetzen und ihre Motive zu verstehen wird er von FBI-Agent Jack Crawford reaktiviert. Also beginnt er, sich in den Fall zu vertiefen und merkt bald, dass er die Hilfe von Dr. Lecter benötigt, um ihm auf die Schliche zu kommen&amp;hellip;&lt;/p&gt;
+&lt;p&gt;Mir fielen an dem Buch die deutlichen Parallelen zu &amp;ldquo;Schweigen der Lämmer&amp;rdquo; auf, das einige Jahre später erschienen ist. In beiden Büchern treibt ein psychopathischer Killer sein Unwesen, dem das FBI unter enormem Zeitdruck das Handwerk legen muss, bevor er erneut zuschlägt, weswegen der inhaftierte Dr. Lecter, zu gleichen Teilen Psychopath und brillanter Analytiker, um Hilfe ersucht wird.&lt;/p&gt;
+&lt;p&gt;Trotzdem sind die Geschichten und die Figuren unterschiedlich genug, um für sich zu stehen. Will Graham und die Zahnfee sind spannende Gegenspieler, auch wenn das Buch für meinen Geschmack im zweiten Teil etwas zu viel Zeit mit dem Killer verbringt.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Post 012/100 der 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Cal Newports &#34;Deep Life Stack&#34; - Ebene 2: Werte</title>
+      <link>http://localhost:1313/de/posts/2023/10/cal-newports-deep-life-stack-ebene-2-werte/</link>
+      <pubDate>Tue, 03 Oct 2023 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/de/posts/2023/10/cal-newports-deep-life-stack-ebene-2-werte/</guid>
+      <description>&lt;p&gt;Letzten Monat habe ich Cal Newports &amp;ldquo;Deep Life Stack&amp;rdquo; vorgestellt, sein 4-Monats-Programm, um sein Leben aufzuräumen, auf eine solidere Grundlage zu stellen und mehr Klarheit zu bekommen, was einem im Leben wichtig ist. Hier geht es jetzt um die zweite Ebene, in der das Thema Werte eine wichtige Rolle spielt.&lt;/p&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;Das hier ist Teil drei einer Serie von Artikeln über Cal Newports Deep Life Stack. Die bisherigen Artikel finden sich hier:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/de/posts/2023/09/cal-newports-4-monats-plan-der-deep-life-stack/&#34;&gt;Cal Newports 4 Monats-Plan: der &amp;ldquo;Deep Life Stack&amp;rdquo;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;http://localhost:1313/de/posts/2023/09/cal-newports-deep-life-stack-ebene-1-disziplin/&#34;&gt;Cal Newports &amp;ldquo;Deep Life Stack&amp;rdquo; - Ebene 1: Disziplin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Hier nochmal kurz der gesamte Prozess:&lt;/p&gt;
+&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/images/CalNewport4MonthsDE.svg&#34; height=&#34;400x&#34; alt=&#34;4 Ebenen, Disziplin, Werte, Kontrolle, Vision&#34;/&gt;
+&lt;p&gt;Hier geht es jetzt um die zweite Ebene des Plans, Werte. Cal unterteilt die Ebene in drei einzelne Bausteine:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Zurückbesinnen (reconnect):&lt;/li&gt;
+&lt;li&gt;Kodex (Code):&lt;/li&gt;
+&lt;li&gt;Rituale:&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
     <item>
       <title>Bücher, die ich im September 2023 gelesen habe</title>
-      <link>https://82mhz.net/de/posts/2023/10/b%C3%BCcher-die-ich-im-september-2023-gelesen-habe/</link>
+      <link>http://localhost:1313/de/posts/2023/10/b%C3%BCcher-die-ich-im-september-2023-gelesen-habe/</link>
       <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/10/b%C3%BCcher-die-ich-im-september-2023-gelesen-habe/</guid>
+      <guid>http://localhost:1313/de/posts/2023/10/b%C3%BCcher-die-ich-im-september-2023-gelesen-habe/</guid>
       <description>&lt;p&gt;September war kein so guter Lesemonat bei mir. Der Monat hat gleich mal mit einer Woche krank sein begonnen, in der ich zu nichts zu gebrauchen war, und auch sonst ist es mir schwer gefallen, mich aufs Lesen zu konzentrieren. Trotzdem hab ich drei Bücher (teilweise) gelesen, die ich hier kurz mal zusammenfasse.&lt;/p&gt;
+&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/images/buecher092023.jpg&#34; max-height=&#34;400x&#34;/&gt;
 &lt;!-- more --&gt;
 &lt;h3 id=&#34;spiegelman&#34;&gt;&lt;em&gt;Art Spiegelman&lt;/em&gt;: Maus (Graphic Novel)&lt;/h3&gt;
 &lt;p&gt;Ganz ungewöhnlich für mich, ist das hier kein Buch in der Art, wie ich sie gewöhnlich lese, sondern eine Graphic Novel (das Wörterbuch schlägt die Begriffe Comicroman oder Bilderroman vor, aber irgendwie klingt das seltsam).&lt;/p&gt;
@@ -50,15 +137,16 @@
 &lt;li&gt;Ich muss täglich etwas Zeit fürs Leeren der Inboxen einplanen. Wöchentliche Reviews versuche ich aktuell, scheitere aber daran, vielleicht ist tägliches Leeren besser&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Fazit: Für mich persönlich denke ich das System hat einige interessante Ansätze, aber es ist mir im Großen und Ganzen zu komplex. Dennoch war es gut, das Buch mal gelesen zu haben, um einen Überblick zu bekommen.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;Post 008/100 der 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;
 </description>
     </item>
     
     <item>
       <title>iPhone vs Fairphone - was ist besser?</title>
-      <link>https://82mhz.net/de/posts/2023/09/iphone-vs-fairphone-was-ist-besser/</link>
+      <link>http://localhost:1313/de/posts/2023/09/iphone-vs-fairphone-was-ist-besser/</link>
       <pubDate>Sat, 30 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/09/iphone-vs-fairphone-was-ist-besser/</guid>
+      <guid>http://localhost:1313/de/posts/2023/09/iphone-vs-fairphone-was-ist-besser/</guid>
       <description>&lt;p&gt;In den letzten Wochen wurden zwei neue Smartphones vorgestellt, die unterschiedlicher nicht sein könnten. Eins stammt von der reichsten und mächtigsten &lt;a href=&#34;https://www.apple.com/&#34;&gt;Tech-Firma unserer Zeit&lt;/a&gt; (oder aller Zeiten?), das andere von einem kleinen &lt;a href=&#34;https://www.fairphone.com/&#34;&gt;niederländischen Startup&lt;/a&gt;. Welches ist besser?&lt;/p&gt;
 &lt;p&gt;Ursprünglich wollte ich hier einen Artikel schreiben, den man so auch in einem Technikmagazin veröffentlichen könnte, gut recherchiert, alles mit Links und Fakten belegt und natürlich perfekt formuliert und ausgedrückt. Und was ist passiert? Die Idee in meinem Kopf wurde so groß und beängstigend, dass ich stattdessen einfach nichts gemacht und den Artikel vor mir her geschoben habe. Und kein einziges Wort geschrieben habe.&lt;/p&gt;
 &lt;p&gt;Die Lösung für dieses Problem? Erwartungen reduzieren! Statt eines gut recherchierten Artikels kommt jetzt also einfach eine Sammlung meiner Gedanken, die nicht groß mit Recherche unterlegt sind sondern hauptsächlich aus dem Kopf heraus zusammengetippt sind.&lt;/p&gt;
@@ -96,10 +184,10 @@
     
     <item>
       <title>Die &#39;Enshittification&#39; von Whatsapp</title>
-      <link>https://82mhz.net/de/posts/2023/09/die-enshittification-von-whatsapp/</link>
+      <link>http://localhost:1313/de/posts/2023/09/die-enshittification-von-whatsapp/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/09/die-enshittification-von-whatsapp/</guid>
+      <guid>http://localhost:1313/de/posts/2023/09/die-enshittification-von-whatsapp/</guid>
       <description>&lt;p&gt;Vor einigen Tagen hat Whatsapp die Statusseite in &amp;ldquo;Aktuelles&amp;rdquo; umbenannt und die Funktion &amp;ldquo;Kanäle&amp;rdquo; eingeführt. Und plötzlich finde ich in dem Messenger, in dem ich mit Freunden und Verwandten kommuniziere Empfehlungen für Profile von Leuten, die ich nicht kenne und die mich nicht interessieren. Und es gefällt mir nicht.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;Kanäle kennt man bereits von Telegram, wo sie von Verschwörungserzählern, Covid-Leugnern, Reichsbürgern und Rechtsextremen genutzt werden, um ihre Gefolgschaft zu erreichen. Und bestimmt auch von einigen normalen Leuten, die sich einfach nur mit anderen Menschen verbinden möchten, die Welt ist ja nicht nur schwarz und weiß.&lt;/p&gt;
@@ -114,7 +202,7 @@
 &lt;p&gt;Here is how platforms die: first, they are good to their users; then they abuse their users to make things better for their business customers; finally, they abuse those business customers to claw back all the value for themselves. Then, they die.&lt;/p&gt;
 &lt;p&gt;I call this enshittification [&amp;hellip;]&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Das letzte Opfer dieses Prozesses (aus meiner ganz persönlichen Sicht) ist Whatsapp, aber für mich waren die eh schon lange angezählt, zum einen wegen des unerträglichen Gebarens von Facebook, das mittlerweile &lt;a href=&#34;https://www.amazon.de/Wahrheit-%C3%BCber-Facebook-Whistleblowerin-Social-Media-Plattform-ebook/dp/B0BJW56PBT/ref=sr_1_8?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=1YJV5BCESEJTO&amp;amp;keywords=facebook&amp;amp;qid=1695802939&amp;amp;sprefix=facebook%2Caps%2C139&amp;amp;sr=8-8&#34;&gt;ganze&lt;/a&gt; &lt;a href=&#34;https://www.amazon.de/Untitled-Sheera-Frenkel-ebook/dp/B07ZGF536G/ref=sr_1_21?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=1YJV5BCESEJTO&amp;amp;keywords=facebook&amp;amp;qid=1695802939&amp;amp;sprefix=facebook%2Caps%2C139&amp;amp;sr=8-21&#34;&gt;Bücher&lt;/a&gt; &lt;a href=&#34;https://www.amazon.de/Facebook-Inside-English-Steven-Levy-ebook/dp/B081R296DR/ref=sr_1_14?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;amp;crid=1YJV5BCESEJTO&amp;amp;keywords=facebook&amp;amp;qid=1695802939&amp;amp;sprefix=facebook%2Caps%2C139&amp;amp;sr=8-14&#34;&gt;füllt&lt;/a&gt;, und zum anderen weil sie schon seit Jahren immer wieder andeuten, dass sie in Whatsapp irgendwann Anzeigen schalten wollen. Es war also nur eine Frage der Zeit, bis es so weit kommt.&lt;/p&gt;
+&lt;p&gt;Das letzte Opfer dieses Prozesses (aus meiner ganz persönlichen Sicht) ist Whatsapp, aber für mich waren die eh schon lange angezählt, zum einen wegen des unerträglichen Gebarens von Facebook, das mittlerweile &lt;a href=&#34;https://www.amazon.de/Wahrheit-%C3%BCber-Facebook-Whistleblowerin-Social-Media-Plattform-ebook/dp/B0BJW56PBT/ref=sr_1_8?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=1YJV5BCESEJTO&amp;keywords=facebook&amp;qid=1695802939&amp;sprefix=facebook%2Caps%2C139&amp;sr=8-8&#34;&gt;ganze&lt;/a&gt; &lt;a href=&#34;https://www.amazon.de/Untitled-Sheera-Frenkel-ebook/dp/B07ZGF536G/ref=sr_1_21?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=1YJV5BCESEJTO&amp;keywords=facebook&amp;qid=1695802939&amp;sprefix=facebook%2Caps%2C139&amp;sr=8-21&#34;&gt;Bücher&lt;/a&gt; &lt;a href=&#34;https://www.amazon.de/Facebook-Inside-English-Steven-Levy-ebook/dp/B081R296DR/ref=sr_1_14?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&amp;crid=1YJV5BCESEJTO&amp;keywords=facebook&amp;qid=1695802939&amp;sprefix=facebook%2Caps%2C139&amp;sr=8-14&#34;&gt;füllt&lt;/a&gt;, und zum anderen weil sie schon seit Jahren immer wieder andeuten, dass sie in Whatsapp irgendwann Anzeigen schalten wollen. Es war also nur eine Frage der Zeit, bis es so weit kommt.&lt;/p&gt;
 &lt;p&gt;Jedenfalls hat mich das dazu gebracht, mal ein bisschen über die Vergangenheit nachzudenken&amp;hellip; in meinem letzten Post hab ich ja etwas über meinen bevorzugten Messenger aus der alten Zeit geschrieben, ICQ.&lt;/p&gt;
 &lt;p&gt;ICQ war großartig, hatte ein simples Interface, man konnte mit seinen Freunden chatten und das wars.&lt;/p&gt;
 &lt;p&gt;Wirklich?&lt;/p&gt;
@@ -131,10 +219,10 @@
     
     <item>
       <title>Mein Verhältnis zu digitaler Kommunikation - Die Anfänge</title>
-      <link>https://82mhz.net/de/posts/2023/09/mein-verh%C3%A4ltnis-zu-digitaler-kommunikation-die-anf%C3%A4nge/</link>
+      <link>http://localhost:1313/de/posts/2023/09/mein-verh%C3%A4ltnis-zu-digitaler-kommunikation-die-anf%C3%A4nge/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/09/mein-verh%C3%A4ltnis-zu-digitaler-kommunikation-die-anf%C3%A4nge/</guid>
+      <guid>http://localhost:1313/de/posts/2023/09/mein-verh%C3%A4ltnis-zu-digitaler-kommunikation-die-anf%C3%A4nge/</guid>
       <description>&lt;p&gt;Etwa im Jahr 1999 kam in unserem Haus die Zukunft an: Wir hatten ab dann einen Internetzugang, und ganz ungewöhnlich für die Zeit nicht via Modem, sondern via ISDN mit grandiosen 64kBit/s! Während die anderen noch mit ihren ranzigen 56k-Modems unterwegs waren, wurde bei uns die Datenautobahn bereits mit der Geschwindigkeit von morgen befahren!&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;&amp;hellip; okay, so viel besser wars jetzt auch nicht, aber eine interessante Langzeitfolge davon ist, dass in mir die typischen Modemgeräusche keinerlei Nostalgie auslösen, weil ich sie nie zu hören bekommen habe.&lt;/p&gt;
@@ -164,10 +252,10 @@
     
     <item>
       <title>Cal Newports &#34;Deep Life Stack&#34; - Ebene 1: Disziplin</title>
-      <link>https://82mhz.net/de/posts/2023/09/cal-newports-deep-life-stack-ebene-1-disziplin/</link>
+      <link>http://localhost:1313/de/posts/2023/09/cal-newports-deep-life-stack-ebene-1-disziplin/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/09/cal-newports-deep-life-stack-ebene-1-disziplin/</guid>
+      <guid>http://localhost:1313/de/posts/2023/09/cal-newports-deep-life-stack-ebene-1-disziplin/</guid>
       <description>&lt;p&gt;Im letzten Post habe ich Cal Newports &amp;ldquo;Deep Life Stack&amp;rdquo; vorgestellt, sein Programm, um sein Leben auf eine solidere Grundlage zu stellen. Heute will ich etwas tiefer einsteigen und die unterste Ebene &amp;ldquo;Disziplin&amp;rdquo; beleuchten.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;Worum geht es bei Disziplin?&lt;/p&gt;
@@ -194,10 +282,10 @@
     
     <item>
       <title>Cal Newports &#34;4 Monats-Plan&#34;: der &#34;Deep Life Stack&#34; </title>
-      <link>https://82mhz.net/de/posts/2023/09/cal-newports-4-monats-plan-der-deep-life-stack/</link>
+      <link>http://localhost:1313/de/posts/2023/09/cal-newports-4-monats-plan-der-deep-life-stack/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/09/cal-newports-4-monats-plan-der-deep-life-stack/</guid>
+      <guid>http://localhost:1313/de/posts/2023/09/cal-newports-4-monats-plan-der-deep-life-stack/</guid>
       <description>&lt;p&gt;In der Regel mache ich einen großen Bogen um das Genre &amp;ldquo;Produktivität&amp;rdquo; auf Youtube, es gibt einfach zu viele Selbstdarsteller dort, die sich damit brüsten wie toll produktiv sie sind, wie super ausgefuchst ihr Produktivitätssystem oder ihr Bullet Journal ist oder die irgendwelche lächerlichen &amp;ldquo;study with me for 13 hours&amp;rdquo;-Videos hochladen.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;Eine willkommene Abwechslung dazu bietet der Podcast von Cal Newport.&lt;/p&gt;
@@ -206,7 +294,7 @@
 &lt;p&gt;Sein Ansatz ist jedenfalls nicht von der Art &amp;ldquo;ich lege mir ein neues Bullet Journal zu&amp;rdquo;, sondern eher ganzheitlich, also wie stelle ich mein Leben so auf, dass ich die Dinge die ich tun möchte auf die Reihe bekomme und trotzdem genügend Freizeit habe und nicht ständig zu Tode gestresst bin.&lt;/p&gt;
 &lt;p&gt;Das spannende an seinem Podcast ist, dass er auch öfter einfach Ideen, die im Entstehen sind vorstellt und sie dann in späteren Episoden wieder aufgreift und weiter entwickelt. In einer seiner letzten &lt;a href=&#34;https://www.youtube.com/watch?v=0G7Wu4DnDaw&#34;&gt;Podcast-Folgen&lt;/a&gt; stellt er ein 4-Monats-Programm vor, um sein Leben auf eine neue, hoffentlich stabilere Grundlage zu stellen. Das basiert auf einer &lt;a href=&#34;https://www.youtube.com/watch?v=G-6ua6UCeGM&#34;&gt;früheren Idee&lt;/a&gt;, die er weiter entwickelt und teilweise ergänzt und vereinfacht hat.&lt;/p&gt;
 &lt;p&gt;Er schlägt vor, das Vorgehen in vier aufeinander folgende Ebenen aufzuteilen (die er als &amp;ldquo;deep life stack&amp;rdquo; bezeichnet), die ich hier mal als Bild erstellt habe, aber die ich im Anschluss auch erkläre:&lt;/p&gt;
-&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/CalNewport4MonthsDE.svg&#34; height=&#34;400x&#34; alt=&#34;4 Ebenen, Disziplin, Werte, Kontrolle, Vision&#34;/&gt;
+&lt;img class=&#34;image&#34; src=&#34;http://localhost:1313/images/CalNewport4MonthsDE.svg&#34; height=&#34;400x&#34; alt=&#34;4 Ebenen, Disziplin, Werte, Kontrolle, Vision&#34;/&gt;
 &lt;p&gt;Die vier Ebenen, die aufeinander aufbauen, sind im Einzelnen:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Disziplin als unterste Ebene&lt;/li&gt;
@@ -231,10 +319,10 @@
     
     <item>
       <title>Bücher, die ich im August 2023 gelesen habe</title>
-      <link>https://82mhz.net/de/posts/2023/09/b%C3%BCcher-die-ich-im-august-2023-gelesen-habe/</link>
+      <link>http://localhost:1313/de/posts/2023/09/b%C3%BCcher-die-ich-im-august-2023-gelesen-habe/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/09/b%C3%BCcher-die-ich-im-august-2023-gelesen-habe/</guid>
+      <guid>http://localhost:1313/de/posts/2023/09/b%C3%BCcher-die-ich-im-august-2023-gelesen-habe/</guid>
       <description>&lt;p&gt;Das hier ist der erste Post einer hoffentlich monatlichen Serie, in der ich die Bücher, die ich im vergangenen Monat gelesen habe, revue passieren lasse.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;Im August bin ich meinem Pensum von einem Buch pro Woche nicht so richtig gerecht geworden, was unter anderem daran lag, dass ich einige Bücher begonnen und nach zwei oder drei Tagen wieder weggelegt habe, weil ich gemerkt habe, dass sie mir einfach nicht taugen.&lt;/p&gt;
@@ -263,10 +351,10 @@ Ich würde das Buch aber nicht unbedingt als Science Fiction bezeichnen, eher al
     
     <item>
       <title>Blogroll oder &#34;will ich auch haben!&#34;</title>
-      <link>https://82mhz.net/de/posts/2023/09/blogroll-oder-will-ich-auch-haben/</link>
+      <link>http://localhost:1313/de/posts/2023/09/blogroll-oder-will-ich-auch-haben/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/09/blogroll-oder-will-ich-auch-haben/</guid>
+      <guid>http://localhost:1313/de/posts/2023/09/blogroll-oder-will-ich-auch-haben/</guid>
       <description>&lt;p&gt;Inspiriert durch Noisy Deadlines Post &amp;ldquo;&lt;a href=&#34;https://noisydeadlines.net/blog-update-bringing-back-the-blogroll&#34;&gt;Bringing back the Blogroll&lt;/a&gt;&amp;rdquo; und durch die Blogrolls, die ich auf einigen anderen Seiten schon gesehen habe, wollte ich mir auch eine einrichten.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;Ich mag das Konzept einer Blogroll, die, soweit ich das verstanden hab, eine Liste von Blogs ist, die ich mag und denen ich folge. Das ist ja quasi schon das, was meine Links-Seite ist, aber ich dachte ich setze noch einen drauf und erstelle eine Seite, die von den jeweiligen Blogs jeweils die neuesten Beiträge chronologisch geordnet anzeigt.&lt;/p&gt;
@@ -275,7 +363,7 @@ Ich würde das Buch aber nicht unbedingt als Science Fiction bezeichnen, eher al
 &lt;p&gt;Also hab ich kurzerhand meinen eigenen Parser in Python gebastelt.&lt;/p&gt;
 &lt;p&gt;Das klingt jetzt nach &amp;ldquo;mal eben runtergetippt&amp;rdquo;, aber nachdem ich kein Python-Experte bin und quasi jeden einzelnen Befehl erstmal googlen musste, hat es mich doch einige Stunden gekostet.&lt;/p&gt;
 &lt;p&gt;Jetzt läuft es aber, sfeed holt aus einer Liste von RSS-Feeds die neuesten Beiträge ab, mein Python-Skript parst sie als Markdown im gewünschen Format raus und Hugo bindet es dann in die Webseite ein.&lt;/p&gt;
-&lt;p&gt;Das Ergebnis lässt sich &lt;a href=&#34;../../../../blogroll&#34;&gt;hier&lt;/a&gt; bewundern und künftig über das Menü via &amp;ldquo;links&amp;rdquo; erreichen. Vielleicht führe ich noch einen eigenen Menüeintrag hinzu, das muss ich noch etwas auf mich wirken lassen.&lt;/p&gt;
+&lt;p&gt;Das Ergebnis lässt sich &lt;a href=&#34;http://localhost:1313/de/blogroll/&#34;&gt;hier&lt;/a&gt; bewundern und künftig über das Menü via &amp;ldquo;links&amp;rdquo; erreichen. Vielleicht führe ich noch einen eigenen Menüeintrag hinzu, das muss ich noch etwas auf mich wirken lassen.&lt;/p&gt;
 &lt;p&gt;Auf jeden Fall bin ich damit erstmal soweit happy. Bisher update ich noch manuell, die Liste könnte also ein paar Tage hinterher sein. Wenn ich die Zeit und Muße finde, werd ich das auf automatisierte Updates umstellen.&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Post 002/100 der 100DaysToOffload-Challenge&lt;/em&gt;&lt;/p&gt;
 </description>
@@ -283,10 +371,10 @@ Ich würde das Buch aber nicht unbedingt als Science Fiction bezeichnen, eher al
     
     <item>
       <title>100 Days to offload</title>
-      <link>https://82mhz.net/de/posts/2023/09/100-days-to-offload/</link>
+      <link>http://localhost:1313/de/posts/2023/09/100-days-to-offload/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/09/100-days-to-offload/</guid>
+      <guid>http://localhost:1313/de/posts/2023/09/100-days-to-offload/</guid>
       <description>&lt;p&gt;Manchmal gibt es Dinge, die man nur kurz irgendwo liest oder sieht und bei denen man sich sofort denkt &amp;ldquo;cool, das mach ich&amp;rdquo;. Vor einiger Zeit bin ich über die &amp;ldquo;&lt;a href=&#34;https://100daystooffload.com/&#34;&gt;100 Days to offload&lt;/a&gt;&amp;quot;-Challenge gestolpert, und da wars genau so.&lt;/p&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;Worum gehts?&lt;/p&gt;
@@ -331,10 +419,10 @@ Matto hat auch noch im IRC auf &lt;a href=&#34;ircs://irc.libera.chat:6697&#34;&
     
     <item>
       <title>Designupdate Teil 2</title>
-      <link>https://82mhz.net/de/posts/2023/08/designupdate-teil-2/</link>
+      <link>http://localhost:1313/de/posts/2023/08/designupdate-teil-2/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/08/designupdate-teil-2/</guid>
+      <guid>http://localhost:1313/de/posts/2023/08/designupdate-teil-2/</guid>
       <description>&lt;p&gt;Man kennt es: Man will nur eine Kleinigkeit am Theme der Webseite verändern, bekommts aber nicht hin und eskaliert dann am Schluss völlig und schreibt kurzerhand die ganze Webseite neu.&lt;/p&gt;
 &lt;h2 id=&#34;vorgeschichte&#34;&gt;Vorgeschichte:&lt;/h2&gt;
 &lt;p&gt;Diese Webseite ist mit &lt;a href=&#34;https://gohugo.io/&#34;&gt;Hugo&lt;/a&gt; erstellt und hatte ursprünglich das Theme &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-papermod/&#34;&gt;Papermod&lt;/a&gt;&amp;rdquo;, danach &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-blog-awesome/&#34;&gt;Hugo Blog Awesome&lt;/a&gt;&amp;rdquo; und zuletzt &amp;ldquo;&lt;a href=&#34;https://themes.gohugo.io/themes/hugo-theme-console/&#34;&gt;Console&lt;/a&gt;&amp;rdquo;.&lt;/p&gt;
@@ -350,10 +438,10 @@ Matto hat auch noch im IRC auf &lt;a href=&#34;ircs://irc.libera.chat:6697&#34;&
     
     <item>
       <title>Website Update mit neuen Rubriken</title>
-      <link>https://82mhz.net/de/posts/2023/08/website-update-mit-neuen-rubriken/</link>
+      <link>http://localhost:1313/de/posts/2023/08/website-update-mit-neuen-rubriken/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/08/website-update-mit-neuen-rubriken/</guid>
+      <guid>http://localhost:1313/de/posts/2023/08/website-update-mit-neuen-rubriken/</guid>
       <description>&lt;p&gt;Nur eine kleine Ankündigung heute, ich habe zwei neue Rubriken auf der Webseite eingebaut: Links und Buchclub.&lt;/p&gt;
 &lt;p&gt;Links sollte relativ selbsterklärend sein, auf dieser Seite sammle ich Links zu interessanten Blogs, Artikeln, Dokumenten&amp;hellip; alles was ich interessant oder wissenswert finde und teilen oder für später festhalten möchte.&lt;/p&gt;
 &lt;p&gt;Unter Buchclub sammle ich die Liste der Bücher, die ich gelesen habe, vielleicht die eine oder andere Buchrezension und generell alles, was irgendwie mit Büchern und Lesen zu tun hat.&lt;/p&gt;
@@ -364,10 +452,10 @@ Matto hat auch noch im IRC auf &lt;a href=&#34;ircs://irc.libera.chat:6697&#34;&
     
     <item>
       <title>Neues Design und jetzt auch auf Deutsch</title>
-      <link>https://82mhz.net/de/posts/2023/08/neues-design-und-jetzt-auch-auf-deutsch/</link>
+      <link>http://localhost:1313/de/posts/2023/08/neues-design-und-jetzt-auch-auf-deutsch/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/de/posts/2023/08/neues-design-und-jetzt-auch-auf-deutsch/</guid>
+      <guid>http://localhost:1313/de/posts/2023/08/neues-design-und-jetzt-auch-auf-deutsch/</guid>
       <description>&lt;p&gt;Kaum ist die Seite zwei Monate alt, kommt schon das erste Redesign.&lt;/p&gt;
 &lt;p&gt;Mit dem alten Aussehen wurde ich nicht so recht warm, aber Hugo macht es ja zum Glück recht einfach, das Theme auszutauschen. Dann hängt man natürlich trotzdem nochmal tagelang dran, um alles genauso hinzubiegen, wie man das gerne hätte, und es ist immer noch nicht so richtig so, wie ich es mir vorstelle, aber das wird mit der Zeit schon noch.&lt;/p&gt;
 &lt;p&gt;Auf jeden Fall basiert die Seite jetzt auf einem modifizierten &lt;a href=&#34;https://github.com/mrmierzejewski/hugo-theme-console&#34;&gt;Hugo Console Theme&lt;/a&gt; und, große Neuerung, sie ist zweisprachig!&lt;/p&gt;
@@ -377,5 +465,6 @@ Matto hat auch noch im IRC auf &lt;a href=&#34;ircs://irc.libera.chat:6697&#34;&
 </description>
     </item>
     
+
   </channel>
 </rss>
