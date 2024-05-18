@@ -2,531 +2,540 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>82MHz</title>
-    <link>https://82mhz.net/echofeed/</link>
+    <link>http://localhost:39251/echofeed/</link>
     <description>Recent content on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-GB</language><atom:link href="https://82mhz.net/echofeed/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-GB</language><atom:link href="http://localhost:39251/echofeed/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The books I read in April 2024</title>
-      <link>https://82mhz.net/posts/2024/05/the-books-i-read-in-april-2024/</link>
+      <link>http://localhost:39251/posts/2024/05/the-books-i-read-in-april-2024/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/05/the-books-i-read-in-april-2024/</guid>
+      <guid>http://localhost:39251/posts/2024/05/the-books-i-read-in-april-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Me vs AI - whose English is better?</title>
-      <link>https://82mhz.net/posts/2024/05/me-vs-ai-whose-english-is-better/</link>
+      <link>http://localhost:39251/posts/2024/05/me-vs-ai-whose-english-is-better/</link>
       <pubDate>Thu, 09 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/05/me-vs-ai-whose-english-is-better/</guid>
+      <guid>http://localhost:39251/posts/2024/05/me-vs-ai-whose-english-is-better/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Living in the (technological) past - part 2</title>
-      <link>https://82mhz.net/posts/2024/05/living-in-the-technological-past-part-2/</link>
+      <link>http://localhost:39251/posts/2024/05/living-in-the-technological-past-part-2/</link>
       <pubDate>Thu, 02 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/05/living-in-the-technological-past-part-2/</guid>
+      <guid>http://localhost:39251/posts/2024/05/living-in-the-technological-past-part-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Announcing Blog Posts automatically on Mastodon</title>
-      <link>https://82mhz.net/posts/2024/04/announcing-blog-posts-automatically-on-mastodon/</link>
+      <link>http://localhost:39251/posts/2024/04/announcing-blog-posts-automatically-on-mastodon/</link>
       <pubDate>Thu, 25 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/04/announcing-blog-posts-automatically-on-mastodon/</guid>
+      <guid>http://localhost:39251/posts/2024/04/announcing-blog-posts-automatically-on-mastodon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My 46 Cents Watch from China</title>
-      <link>https://82mhz.net/posts/2024/04/my-46-cents-watch-from-china/</link>
+      <link>http://localhost:39251/posts/2024/04/my-46-cents-watch-from-china/</link>
       <pubDate>Fri, 12 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/04/my-46-cents-watch-from-china/</guid>
+      <guid>http://localhost:39251/posts/2024/04/my-46-cents-watch-from-china/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The books I read so far this year (January through March 2024)</title>
-      <link>https://82mhz.net/posts/2024/04/the-books-i-read-so-far-this-year-january-through-march-2024/</link>
+      <link>http://localhost:39251/posts/2024/04/the-books-i-read-so-far-this-year-january-through-march-2024/</link>
       <pubDate>Sat, 06 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/04/the-books-i-read-so-far-this-year-january-through-march-2024/</guid>
+      <guid>http://localhost:39251/posts/2024/04/the-books-i-read-so-far-this-year-january-through-march-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Suzanne Vega and the MP3 format</title>
-      <link>https://82mhz.net/posts/2024/04/suzanne-vega-and-the-mp3-format/</link>
+      <link>http://localhost:39251/posts/2024/04/suzanne-vega-and-the-mp3-format/</link>
       <pubDate>Wed, 03 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/04/suzanne-vega-and-the-mp3-format/</guid>
+      <guid>http://localhost:39251/posts/2024/04/suzanne-vega-and-the-mp3-format/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Goodbye Lenna</title>
-      <link>https://82mhz.net/posts/2024/04/goodbye-lenna/</link>
+      <link>http://localhost:39251/posts/2024/04/goodbye-lenna/</link>
       <pubDate>Tue, 02 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/04/goodbye-lenna/</guid>
+      <guid>http://localhost:39251/posts/2024/04/goodbye-lenna/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Different RSS feeds for Posts and Thoughts</title>
-      <link>https://82mhz.net/posts/2024/03/different-rss-feeds-for-posts-and-thoughts/</link>
+      <link>http://localhost:39251/posts/2024/03/different-rss-feeds-for-posts-and-thoughts/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/03/different-rss-feeds-for-posts-and-thoughts/</guid>
+      <guid>http://localhost:39251/posts/2024/03/different-rss-feeds-for-posts-and-thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Microblogging Section</title>
-      <link>https://82mhz.net/posts/2024/03/new-microblogging-section/</link>
+      <link>http://localhost:39251/posts/2024/03/new-microblogging-section/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/03/new-microblogging-section/</guid>
+      <guid>http://localhost:39251/posts/2024/03/new-microblogging-section/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abandoning 100 Days to offload</title>
-      <link>https://82mhz.net/posts/2024/02/abandoning-100-days-to-offload/</link>
+      <link>http://localhost:39251/posts/2024/02/abandoning-100-days-to-offload/</link>
       <pubDate>Sat, 03 Feb 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/02/abandoning-100-days-to-offload/</guid>
+      <guid>http://localhost:39251/posts/2024/02/abandoning-100-days-to-offload/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Reflections on Pacifism</title>
-      <link>https://82mhz.net/posts/2024/01/reflections-on-pacifism/</link>
+      <link>http://localhost:39251/posts/2024/01/reflections-on-pacifism/</link>
       <pubDate>Fri, 26 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/01/reflections-on-pacifism/</guid>
+      <guid>http://localhost:39251/posts/2024/01/reflections-on-pacifism/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The books I read in December 2023</title>
-      <link>https://82mhz.net/posts/2024/01/the-books-i-read-in-december-2023/</link>
+      <link>http://localhost:39251/posts/2024/01/the-books-i-read-in-december-2023/</link>
       <pubDate>Fri, 12 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/01/the-books-i-read-in-december-2023/</guid>
+      <guid>http://localhost:39251/posts/2024/01/the-books-i-read-in-december-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The books I read in November 2023</title>
-      <link>https://82mhz.net/posts/2024/01/the-books-i-read-in-november-2023/</link>
+      <link>http://localhost:39251/posts/2024/01/the-books-i-read-in-november-2023/</link>
       <pubDate>Fri, 05 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/01/the-books-i-read-in-november-2023/</guid>
+      <guid>http://localhost:39251/posts/2024/01/the-books-i-read-in-november-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Year 2024</title>
-      <link>https://82mhz.net/posts/2024/01/new-year-2024/</link>
+      <link>http://localhost:39251/posts/2024/01/new-year-2024/</link>
       <pubDate>Wed, 03 Jan 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2024/01/new-year-2024/</guid>
+      <guid>http://localhost:39251/posts/2024/01/new-year-2024/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Why Whatsapp is making me anxious</title>
-      <link>https://82mhz.net/posts/2023/11/why-whatsapp-is-making-me-anxious/</link>
+      <link>http://localhost:39251/posts/2023/11/why-whatsapp-is-making-me-anxious/</link>
       <pubDate>Tue, 14 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/11/why-whatsapp-is-making-me-anxious/</guid>
+      <guid>http://localhost:39251/posts/2023/11/why-whatsapp-is-making-me-anxious/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apps I&#39;m using in 2023</title>
-      <link>https://82mhz.net/posts/2023/11/apps-im-using-in-2023/</link>
+      <link>http://localhost:39251/posts/2023/11/apps-im-using-in-2023/</link>
       <pubDate>Wed, 08 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/11/apps-im-using-in-2023/</guid>
+      <guid>http://localhost:39251/posts/2023/11/apps-im-using-in-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The books I read in October 2023</title>
-      <link>https://82mhz.net/posts/2023/11/the-books-i-read-in-october-2023/</link>
+      <link>http://localhost:39251/posts/2023/11/the-books-i-read-in-october-2023/</link>
       <pubDate>Mon, 06 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/11/the-books-i-read-in-october-2023/</guid>
+      <guid>http://localhost:39251/posts/2023/11/the-books-i-read-in-october-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Good Bye, Raspberry Pi</title>
-      <link>https://82mhz.net/posts/2023/11/good-bye-raspberry-pi/</link>
+      <link>http://localhost:39251/posts/2023/11/good-bye-raspberry-pi/</link>
       <pubDate>Fri, 03 Nov 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/11/good-bye-raspberry-pi/</guid>
+      <guid>http://localhost:39251/posts/2023/11/good-bye-raspberry-pi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Using two USB Sticks as a Raid on a Raspberry Pi</title>
-      <link>https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</link>
+      <link>http://localhost:39251/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</link>
       <pubDate>Sat, 21 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</guid>
+      <guid>http://localhost:39251/posts/2023/10/using-two-usb-sticks-as-a-raid-on-a-raspberry-pi/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Living in the (technological) past</title>
-      <link>https://82mhz.net/posts/2023/10/living-in-the-technological-past/</link>
+      <link>http://localhost:39251/posts/2023/10/living-in-the-technological-past/</link>
       <pubDate>Mon, 16 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/10/living-in-the-technological-past/</guid>
+      <guid>http://localhost:39251/posts/2023/10/living-in-the-technological-past/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The books I read in September 2023</title>
-      <link>https://82mhz.net/posts/2023/10/the-books-i-read-in-september-2023/</link>
+      <link>http://localhost:39251/posts/2023/10/the-books-i-read-in-september-2023/</link>
       <pubDate>Mon, 02 Oct 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/10/the-books-i-read-in-september-2023/</guid>
+      <guid>http://localhost:39251/posts/2023/10/the-books-i-read-in-september-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>The ongoing Enshittification of Whatsapp</title>
-      <link>https://82mhz.net/posts/2023/09/the-ongoing-enshittification-of-whatsapp/</link>
+      <link>http://localhost:39251/posts/2023/09/the-ongoing-enshittification-of-whatsapp/</link>
       <pubDate>Wed, 27 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/the-ongoing-enshittification-of-whatsapp/</guid>
+      <guid>http://localhost:39251/posts/2023/09/the-ongoing-enshittification-of-whatsapp/</guid>
       <description></description>
     </item>
     
     <item>
       <title>My Relationship with digital Communication - the Beginnings</title>
-      <link>https://82mhz.net/posts/2023/09/my-relationship-with-digital-communication-the-beginnings/</link>
+      <link>http://localhost:39251/posts/2023/09/my-relationship-with-digital-communication-the-beginnings/</link>
       <pubDate>Sun, 24 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/my-relationship-with-digital-communication-the-beginnings/</guid>
+      <guid>http://localhost:39251/posts/2023/09/my-relationship-with-digital-communication-the-beginnings/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cal Newport&#39;s &#34;Deep Life Stack&#34; - Layer 1: Discipline</title>
-      <link>https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-layer-1-discipline/</link>
+      <link>http://localhost:39251/posts/2023/09/cal-newports-deep-life-stack-layer-1-discipline/</link>
       <pubDate>Thu, 21 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-layer-1-discipline/</guid>
+      <guid>http://localhost:39251/posts/2023/09/cal-newports-deep-life-stack-layer-1-discipline/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Cal Newport&#39;s &#34; Deep Life Stack&#34;: 4 Months to reinvent your life </title>
-      <link>https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-4-months-to-reinvent-your-life/</link>
+      <link>http://localhost:39251/posts/2023/09/cal-newports-deep-life-stack-4-months-to-reinvent-your-life/</link>
       <pubDate>Tue, 19 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/cal-newports-deep-life-stack-4-months-to-reinvent-your-life/</guid>
+      <guid>http://localhost:39251/posts/2023/09/cal-newports-deep-life-stack-4-months-to-reinvent-your-life/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books I read in August 2023</title>
-      <link>https://82mhz.net/posts/2023/09/books-i-read-in-august-2023/</link>
+      <link>http://localhost:39251/posts/2023/09/books-i-read-in-august-2023/</link>
       <pubDate>Mon, 11 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/books-i-read-in-august-2023/</guid>
+      <guid>http://localhost:39251/posts/2023/09/books-i-read-in-august-2023/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Blogroll or &#34;I want one too!&#34;</title>
-      <link>https://82mhz.net/posts/2023/09/blogroll-or-i-want-one-too/</link>
+      <link>http://localhost:39251/posts/2023/09/blogroll-or-i-want-one-too/</link>
       <pubDate>Sun, 03 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/blogroll-or-i-want-one-too/</guid>
+      <guid>http://localhost:39251/posts/2023/09/blogroll-or-i-want-one-too/</guid>
       <description></description>
     </item>
     
     <item>
       <title>100 Days to offload</title>
-      <link>https://82mhz.net/posts/2023/09/100-days-to-offload/</link>
+      <link>http://localhost:39251/posts/2023/09/100-days-to-offload/</link>
       <pubDate>Fri, 01 Sep 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/09/100-days-to-offload/</guid>
+      <guid>http://localhost:39251/posts/2023/09/100-days-to-offload/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Updated Design Part 2</title>
-      <link>https://82mhz.net/posts/2023/08/updated-design-part-2/</link>
+      <link>http://localhost:39251/posts/2023/08/updated-design-part-2/</link>
       <pubDate>Sun, 27 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/08/updated-design-part-2/</guid>
+      <guid>http://localhost:39251/posts/2023/08/updated-design-part-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Website update with new sections</title>
-      <link>https://82mhz.net/posts/2023/08/website-update-with-new-sections/</link>
+      <link>http://localhost:39251/posts/2023/08/website-update-with-new-sections/</link>
       <pubDate>Sun, 20 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/08/website-update-with-new-sections/</guid>
+      <guid>http://localhost:39251/posts/2023/08/website-update-with-new-sections/</guid>
       <description></description>
     </item>
     
     <item>
       <title>New Design and now also in German</title>
-      <link>https://82mhz.net/posts/2023/08/new-design-and-now-also-in-german/</link>
+      <link>http://localhost:39251/posts/2023/08/new-design-and-now-also-in-german/</link>
       <pubDate>Wed, 09 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/08/new-design-and-now-also-in-german/</guid>
+      <guid>http://localhost:39251/posts/2023/08/new-design-and-now-also-in-german/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Old Computer Challenge 2023 - Epilogue</title>
-      <link>https://82mhz.net/posts/2023/08/old-computer-challenge-2023-epilogue/</link>
+      <link>http://localhost:39251/posts/2023/08/old-computer-challenge-2023-epilogue/</link>
       <pubDate>Sun, 06 Aug 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/08/old-computer-challenge-2023-epilogue/</guid>
+      <guid>http://localhost:39251/posts/2023/08/old-computer-challenge-2023-epilogue/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Days 6 and 7</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-days-6-and-7/</link>
+      <link>http://localhost:39251/posts/2023/07/old-computer-challenge-days-6-and-7/</link>
       <pubDate>Mon, 17 Jul 2023 07:29:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-days-6-and-7/</guid>
+      <guid>http://localhost:39251/posts/2023/07/old-computer-challenge-days-6-and-7/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Day 5: Youtube Videos on an iPod Classic</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-5-youtube-videos-on-an-ipod-classic/</link>
+      <link>http://localhost:39251/posts/2023/07/old-computer-challenge-day-5-youtube-videos-on-an-ipod-classic/</link>
       <pubDate>Sat, 15 Jul 2023 15:11:27 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-5-youtube-videos-on-an-ipod-classic/</guid>
+      <guid>http://localhost:39251/posts/2023/07/old-computer-challenge-day-5-youtube-videos-on-an-ipod-classic/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Day 4</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-4/</link>
+      <link>http://localhost:39251/posts/2023/07/old-computer-challenge-day-4/</link>
       <pubDate>Fri, 14 Jul 2023 08:50:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-4/</guid>
+      <guid>http://localhost:39251/posts/2023/07/old-computer-challenge-day-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Day 3</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-3/</link>
+      <link>http://localhost:39251/posts/2023/07/old-computer-challenge-day-3/</link>
       <pubDate>Thu, 13 Jul 2023 13:50:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-3/</guid>
+      <guid>http://localhost:39251/posts/2023/07/old-computer-challenge-day-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Day 2</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-2/</link>
+      <link>http://localhost:39251/posts/2023/07/old-computer-challenge-day-2/</link>
       <pubDate>Tue, 11 Jul 2023 18:00:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-2/</guid>
+      <guid>http://localhost:39251/posts/2023/07/old-computer-challenge-day-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Day 1</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-day-1/</link>
+      <link>http://localhost:39251/posts/2023/07/old-computer-challenge-day-1/</link>
       <pubDate>Mon, 10 Jul 2023 09:46:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-day-1/</guid>
+      <guid>http://localhost:39251/posts/2023/07/old-computer-challenge-day-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Old Computer Challenge - Preparation</title>
-      <link>https://82mhz.net/posts/2023/07/old-computer-challenge-preparation/</link>
+      <link>http://localhost:39251/posts/2023/07/old-computer-challenge-preparation/</link>
       <pubDate>Sun, 09 Jul 2023 09:46:48 +0200</pubDate>
       
-      <guid>https://82mhz.net/posts/2023/07/old-computer-challenge-preparation/</guid>
+      <guid>http://localhost:39251/posts/2023/07/old-computer-challenge-preparation/</guid>
       <description></description>
     </item>
     
 
     
     <item>
+      <title>Linkdump No 5</title>
+      <link>http://localhost:39251/thoughts/linkdump-no-5/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:39251/thoughts/linkdump-no-5/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Cars are insane</title>
-      <link>https://82mhz.net/thoughts/cars-are-insane/</link>
+      <link>http://localhost:39251/thoughts/cars-are-insane/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/cars-are-insane/</guid>
+      <guid>http://localhost:39251/thoughts/cars-are-insane/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linkdump No 4</title>
-      <link>https://82mhz.net/thoughts/linkdump-no-4/</link>
+      <link>http://localhost:39251/thoughts/linkdump-no-4/</link>
       <pubDate>Sat, 11 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/linkdump-no-4/</guid>
+      <guid>http://localhost:39251/thoughts/linkdump-no-4/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Apple is like the Matrix, Version 1</title>
-      <link>https://82mhz.net/thoughts/apple-is-like-the-matrix-version-1/</link>
+      <link>http://localhost:39251/thoughts/apple-is-like-the-matrix-version-1/</link>
       <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/apple-is-like-the-matrix-version-1/</guid>
+      <guid>http://localhost:39251/thoughts/apple-is-like-the-matrix-version-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linkdump No 3</title>
-      <link>https://82mhz.net/thoughts/linkdump-no-3/</link>
+      <link>http://localhost:39251/thoughts/linkdump-no-3/</link>
       <pubDate>Sun, 05 May 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/linkdump-no-3/</guid>
+      <guid>http://localhost:39251/thoughts/linkdump-no-3/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linkdump No 2</title>
-      <link>https://82mhz.net/thoughts/linkdump-no-2/</link>
+      <link>http://localhost:39251/thoughts/linkdump-no-2/</link>
       <pubDate>Sun, 28 Apr 2024 12:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/linkdump-no-2/</guid>
+      <guid>http://localhost:39251/thoughts/linkdump-no-2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Linkdump No 1</title>
-      <link>https://82mhz.net/thoughts/linkdump-no-1/</link>
+      <link>http://localhost:39251/thoughts/linkdump-no-1/</link>
       <pubDate>Sat, 20 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/linkdump-no-1/</guid>
+      <guid>http://localhost:39251/thoughts/linkdump-no-1/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testing automatic reposting to Mastodon</title>
-      <link>https://82mhz.net/thoughts/testing-automatic-reposting-to-mastodon/</link>
+      <link>http://localhost:39251/thoughts/testing-automatic-reposting-to-mastodon/</link>
       <pubDate>Fri, 19 Apr 2024 18:02:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/testing-automatic-reposting-to-mastodon/</guid>
+      <guid>http://localhost:39251/thoughts/testing-automatic-reposting-to-mastodon/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Stadtautobahn</title>
-      <link>https://82mhz.net/thoughts/stadtautobahn/</link>
+      <link>http://localhost:39251/thoughts/stadtautobahn/</link>
       <pubDate>Fri, 19 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/stadtautobahn/</guid>
+      <guid>http://localhost:39251/thoughts/stadtautobahn/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Entitled people</title>
-      <link>https://82mhz.net/thoughts/entitled-people/</link>
+      <link>http://localhost:39251/thoughts/entitled-people/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/entitled-people/</guid>
+      <guid>http://localhost:39251/thoughts/entitled-people/</guid>
       <description></description>
     </item>
     
     <item>
       <title>PhysicsGirl and Long COVID</title>
-      <link>https://82mhz.net/thoughts/physicsgirl-and-long-covid/</link>
+      <link>http://localhost:39251/thoughts/physicsgirl-and-long-covid/</link>
       <pubDate>Sun, 07 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/physicsgirl-and-long-covid/</guid>
+      <guid>http://localhost:39251/thoughts/physicsgirl-and-long-covid/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Summer time</title>
-      <link>https://82mhz.net/thoughts/summer-time/</link>
+      <link>http://localhost:39251/thoughts/summer-time/</link>
       <pubDate>Mon, 01 Apr 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/summer-time/</guid>
+      <guid>http://localhost:39251/thoughts/summer-time/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Fixed RSS feeds</title>
-      <link>https://82mhz.net/thoughts/fixed-rss-feeds/</link>
+      <link>http://localhost:39251/thoughts/fixed-rss-feeds/</link>
       <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/fixed-rss-feeds/</guid>
+      <guid>http://localhost:39251/thoughts/fixed-rss-feeds/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Antisocial Behaviour</title>
-      <link>https://82mhz.net/thoughts/antisocial-behaviour/</link>
+      <link>http://localhost:39251/thoughts/antisocial-behaviour/</link>
       <pubDate>Wed, 27 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/antisocial-behaviour/</guid>
+      <guid>http://localhost:39251/thoughts/antisocial-behaviour/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Black Sabbath finally re-releases the Tony Martin era Albums</title>
-      <link>https://82mhz.net/thoughts/black-sabbath-finally-re-releases-the-tony-martin-era-albums/</link>
+      <link>http://localhost:39251/thoughts/black-sabbath-finally-re-releases-the-tony-martin-era-albums/</link>
       <pubDate>Fri, 22 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/black-sabbath-finally-re-releases-the-tony-martin-era-albums/</guid>
+      <guid>http://localhost:39251/thoughts/black-sabbath-finally-re-releases-the-tony-martin-era-albums/</guid>
       <description></description>
     </item>
     
     <item>
       <title>More Context for Links</title>
-      <link>https://82mhz.net/thoughts/more-context-for-links/</link>
+      <link>http://localhost:39251/thoughts/more-context-for-links/</link>
       <pubDate>Sun, 17 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/more-context-for-links/</guid>
+      <guid>http://localhost:39251/thoughts/more-context-for-links/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Different RSS feeds for Posts and Thoughts</title>
-      <link>https://82mhz.net/thoughts/different-rss-feeds-for-posts-and-thoughts/</link>
+      <link>http://localhost:39251/thoughts/different-rss-feeds-for-posts-and-thoughts/</link>
       <pubDate>Fri, 15 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/different-rss-feeds-for-posts-and-thoughts/</guid>
+      <guid>http://localhost:39251/thoughts/different-rss-feeds-for-posts-and-thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dark Mode</title>
-      <link>https://82mhz.net/thoughts/dark-mode/</link>
+      <link>http://localhost:39251/thoughts/dark-mode/</link>
       <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/dark-mode/</guid>
+      <guid>http://localhost:39251/thoughts/dark-mode/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Testpost</title>
-      <link>https://82mhz.net/thoughts/testpost/</link>
+      <link>http://localhost:39251/thoughts/testpost/</link>
       <pubDate>Wed, 13 Mar 2024 00:00:00 +0000</pubDate>
       
-      <guid>https://82mhz.net/thoughts/testpost/</guid>
+      <guid>http://localhost:39251/thoughts/testpost/</guid>
       <description></description>
     </item>
     

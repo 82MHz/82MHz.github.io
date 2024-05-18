@@ -8,6 +8,48 @@
     <language>en-GB</language>
     <lastBuildDate>Sat, 18 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Linkdump No 5</title>
+      <link>https://82mhz.net/thoughts/linkdump-no-5/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/thoughts/linkdump-no-5/</guid>
+      <description>&lt;p&gt;I collect a lot of links to great articles and software projects, and this is my attempt to sort through them and share them with the rest of you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Software/Services&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/d99kris/nchat&#34;&gt;nchat: a terminal-based chat client for Linux and macOS with support for Telegram and WhatsApp&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;A great terminal-based client for Whatsapp. I&amp;rsquo;ve been using it for a few months and I absolutely love it. The key bindings take some getting used to, but it&amp;rsquo;s lightweight and rock solid.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://magicmirror.builders/&#34;&gt;MagicMirror²: The open source modular smart mirror platform&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;A software platform to create a &amp;ldquo;smart mirror&amp;rdquo; (mirror that shows time/date/appointments etc.). I&amp;rsquo;m using this as a dashboard to view my calendar etc. in my kitchen&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;Oldschool screensavers right in your browser&lt;/strong&gt;
+&lt;br&gt;I recently went on a nostalgia trip about screensavers (because why not) and found a few of the old Windows/Mac screensavers reimplemented to run straight in the browser via webgl. Check them out:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Flurry&lt;/strong&gt; (&lt;a href=&#34;https://github.com/RoyCurtis/Flurry-WebGL&#34;&gt;Github&lt;/a&gt;) (&lt;a href=&#34;https://roycurtis.github.io/Flurry-WebGL/&#34;&gt;Screensaver&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Pipes&lt;/strong&gt; (&lt;a href=&#34;https://github.com/Alex313031/webgl-pipes&#34;&gt;Github&lt;/a&gt;) (&lt;a href=&#34;https://thorium.rocks/media/3d-pipes/&#34;&gt;Screensaver&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flux&lt;/strong&gt; (&lt;a href=&#34;https://github.com/sandydoo/flux&#34;&gt;Github&lt;/a&gt;) (&lt;a href=&#34;https://flux.sandydoo.me/&#34;&gt;Screensaver&lt;/a&gt;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Flower Box&lt;/strong&gt; (&lt;a href=&#34;https://github.com/kevin-shannon/3D-FlowerBox&#34;&gt;Github&lt;/a&gt;) (&lt;a href=&#34;https://kevinshannon.com/3D-FlowerBox/&#34;&gt;Screensaver&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Hardware-Projects&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.colino.net/wordpress/archives/2024/04/28/how-i-stream-audiovideo-through-an-apple-ii-serial-ports/&#34;&gt;How I stream audio+video through an Apple II serial ports&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;A very impressive project by &lt;a href=&#34;https://piaille.fr/@colin_mcmillen&#34;&gt;Colin McMillen&lt;/a&gt; who implemented video streaming to his Apple II&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Videos&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=S9pkg2uLhGU&#34;&gt;Commodore 64 demo: Lethargy - Das Boot (2024)&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;A short but very nice C64 demo that I guarantee will bring a smile to your face :)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;And that&amp;rsquo;s all for this week&amp;rsquo;s linkdump! If you have any cool links you&amp;rsquo;d like to share, feel free to send them my way via e-mail or hit me up on Mastodon! My contact details are in the footer of this page.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Cars are insane</title>
       <link>https://82mhz.net/thoughts/cars-are-insane/</link>
       <pubDate>Wed, 15 May 2024 00:00:00 +0000</pubDate>
