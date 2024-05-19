@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> 82MHz </title>
+    <link rel="stylesheet" href="/css/style.css">
+</head><body>
+        <div class="container">
+            <div class="navblock">
+                <div class="home-logo">
+<header>
+    <div class="logo"><a href="https://82mhz.net/">82MHz</a></div>
+</header></div>
+                <div class="home-nav">
+
+
+
+
+<nav class="site-menu">
+        <a href="/posts">blog</a>
+    
+        <a href="/thoughts">thoughts</a>
+    
+        <a href="/bookclub">bookclub</a>
+    
+        <a href="/links">links</a>
+    
+        <a href="/tags">tags</a>
+    
+    
+        <a class="language-select" href="https://82mhz.net/posts/2024/05/powering-an-old-laptop-from-usb-c/">EN</a>
+  
+</nav>
+
+
+</div>
+            </div>
+            <div id="content">
+    <article class="post_full">
+        <header>
+            <h1>Powering an old laptop from USB-C</h1>
+            <p>
+                May 18, 2024
+            </p>
+            <p>
+                <span class="tags">
+                    
+                    
+                        
+                            <a class="tag" href="/tags/tech">tech</a>
+                        
+                    
+
+                </span>
+            </p>
+            <p>
+                
+                    Reading time: 5 minutes
+                
+            </p>
+        </header>
+
+        <section class="body">
+            
+            <p>I recently got an old Compaq Evo 410c Laptop from 2001, which is actually a very nice laptop for the time, but it is suffering from the same problem all old laptops are suffering from: it&rsquo;s battery has died a long time ago. So I started thinking about what to do about this.</p>
+<img class="image" src="/images/oldLaptopUSB/laptop.jpg" max-height="150x"/>
+<!-- more -->
+<p>My first thought was to crack open the battery case and replace the cells inside. Judging form the shape, size and voltage of the battery it most likely has four standard 18650 lithium cells inside, which are easy and cheap to find. But there are a few problems I could see with this approach:</p>
+<ul>
+<li>I would have to open the case of the battery without destroying it, which is probably going to be impossible (I tried).</li>
+<li>I would have to spot weld the cells together for a good electrical connection, and I don&rsquo;t have a spot welder.</li>
+<li>And even if I succeeded with this, I can&rsquo;t be sure that the BMS (battery management system) inside the battery is actually going to accept the new cells or if it has some mechanism built in that prevents the battery from functioning correctly once the cells have been replaced.</li>
+</ul>
+<p>So then I thought about powering the laptop from a USB-C battery bank. But USB-C does not output the 18.5V the laptop needs. The closest would be 20V, which I suspect would be fine, but I didn&rsquo;t want to risk overvolting the laptop and potentially damaging it. But then during a conversation online <a href="http://deadnet.se/">Headcrash</a> mentioned that usually these old laptops can run on a lower voltage just fine, as the voltage is regulated down inside anyway and by undervolting it there is no risk of blowing up any components inside. Worst case it just doesn&rsquo;t work.</p>
+<p><strong>Hardware setup</strong></p>
+<p>I thought it was worth giving this a shot, so I went on Ebay and got a few tiny USB-C power converter boards for a few Euros.</p>
+<img class="image" src="/images/oldLaptopUSB/boards.jpg" max-height="150x"/>
+<p>USB-C power supplies can usually output a number of different voltages, and the way these boards work is they talk to the power supply they&rsquo;re connected to and tell it which voltage it should output. You can set the desired voltage with a small solder bridge on the board to 9V, 12V, 15V or 20V.</p>
+<p>They came preconfigured to 12V, as you can see from the solder blob in the picture next to the writing &ldquo;12V&rdquo;, but I reconfigured one to 15V which I hoped that laptop would run on. I dug out an old cable with the correct barrel plug from my parts bin, cobbled together a quick and dirty test setup on my desk with a few crocodile clamps, connected everything together, crossed my fingers and plugged the power supply in - and the laptop powered up just fine, as if it was connected to its original power supply. Success!</p>
+<img class="image" src="/images/oldLaptopUSB/setup.jpg" max-height="150x"/>
+<p>So I soldered the wires to the board, sealed it with a nice thick piece of heat shrink tubing (I would have preferred to put the board inside a case, but I don&rsquo;t have one that fits and I don&rsquo;t have a 3D printer to create one), and I was done.</p>
+<img class="image" src="/images/oldLaptopUSB/finished2.jpg" max-height="150x"/>
+<p><strong>Conclusion</strong></p>
+<p>I&rsquo;m really surprised to see that this just works. This was definitely one of the easiest hacks (if you can even call it that) that I ever did&hellip; it took about 20 minutes to do, the price for the USB-C board was 3 Euros, the cable was free as I already had it (and would have cost only a few Euros too, had I had to buy one) and now I have an adapter cable to power this more than 20 year old laptop from a modern USB-C power supply.</p>
+<p>Of course it would be even nicer to build the USB-C board right into the laptop so the USB cable can be plugged straight into the laptop without the need for my janky adapter cable, and I might look into doing this at a later time, but for now I&rsquo;m happy to use the cable.</p>
+<p>So now if I want to have a portable setup, I can get a USB-C powerbank and then this laptop is truly mobile again. With the caveat of course that it still needs to be tethered to the power bank, but that&rsquo;s a price I&rsquo;m willing to pay, considering how easy this mod was to implement.</p>
+
+        </section>
+    </article>
+
+            </div><div class="footer">
+    <div class="footer_social-icons">
+
+    <a href="mailto:82mhz@mailbox.org" target="_blank" rel="noopener noreferrer me"
+        title="Email">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round" width="25px">
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+    <polyline points="22,6 12,13 2,6"></polyline>
+</svg>
+    </a>
+
+
+
+    <a href="https://oldbytes.space/@82mhz" target="_blank" rel="noopener noreferrer me"
+        title="Mastodon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round" width="25px">
+    <path
+        d="M21.58 13.913c-.29 1.469-2.592 3.121-5.238 3.396-1.379.184-2.737.368-4.185.276-2.368-.092-4.237-.551-4.237-.551 0 .184.014.459.043.643.308 2.294 2.317 2.478 4.22 2.57 1.922 0 3.633-.46 3.633-.46l.079 1.653s-1.344.734-3.738.918c-1.32.091-2.96-.092-4.869-.551-4.14-1.102-4.853-5.507-4.961-10.005-.034-1.285-.013-2.57-.013-3.58 0-4.589 3-5.966 3-5.966 1.513-.734 4.11-1.01 6.808-1.01h.067c2.699 0 5.296.276 6.81 1.01 0 0 3 1.377 3 5.967 0 0 .037 3.304-.419 5.69"
+        stroke="currentColor" />
+    <path
+        d="M17.832 8.633v5h-1.978V8.78c0-1.023-.43-1.542-1.29-1.542-.95 0-1.427.616-1.427 1.834v2.655H11.17V9.072c0-1.218-.476-1.834-1.427-1.834-.86 0-1.29.52-1.29 1.542v4.852H6.475V8.633c0-1.022.26-1.834.782-2.434.538-.6 1.243-.909 2.118-.909 1.012 0 1.779.39 2.286 1.169l.492.827.493-.827c.507-.78 1.274-1.169 2.286-1.169.875 0 1.58.308 2.118.909.522.6.782 1.412.782 2.434"
+        fill="currentColor" stroke="none" />
+</svg>
+    </a>
+
+
+</div>
+</div></div>
+    </body>
+</html>

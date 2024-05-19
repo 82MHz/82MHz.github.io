@@ -8,6 +8,37 @@
     <language>en-GB</language>
     <lastBuildDate>Wed, 13 Mar 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/posts/2024/03/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Powering an old laptop from USB-C</title>
+      <link>https://82mhz.net/posts/2024/05/powering-an-old-laptop-from-usb-c/</link>
+      <pubDate>Sat, 18 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/posts/2024/05/powering-an-old-laptop-from-usb-c/</guid>
+      <description>&lt;p&gt;I recently got an old Compaq Evo 410c Laptop from 2001, which is actually a very nice laptop for the time, but it is suffering from the same problem all old laptops are suffering from: it&amp;rsquo;s battery has died a long time ago. So I started thinking about what to do about this.&lt;/p&gt;
+&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/oldLaptopUSB/laptop.jpg&#34; max-height=&#34;150x&#34;/&gt;
+&lt;!-- more --&gt;
+&lt;p&gt;My first thought was to crack open the battery case and replace the cells inside. Judging form the shape, size and voltage of the battery it most likely has four standard 18650 lithium cells inside, which are easy and cheap to find. But there are a few problems I could see with this approach:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;I would have to open the case of the battery without destroying it, which is probably going to be impossible (I tried).&lt;/li&gt;
+&lt;li&gt;I would have to spot weld the cells together for a good electrical connection, and I don&amp;rsquo;t have a spot welder.&lt;/li&gt;
+&lt;li&gt;And even if I succeeded with this, I can&amp;rsquo;t be sure that the BMS (battery management system) inside the battery is actually going to accept the new cells or if it has some mechanism built in that prevents the battery from functioning correctly once the cells have been replaced.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;So then I thought about powering the laptop from a USB-C battery bank. But USB-C does not output the 18.5V the laptop needs. The closest would be 20V, which I suspect would be fine, but I didn&amp;rsquo;t want to risk overvolting the laptop and potentially damaging it. But then during a conversation online &lt;a href=&#34;http://deadnet.se/&#34;&gt;Headcrash&lt;/a&gt; mentioned that usually these old laptops can run on a lower voltage just fine, as the voltage is regulated down inside anyway and by undervolting it there is no risk of blowing up any components inside. Worst case it just doesn&amp;rsquo;t work.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Hardware setup&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I thought it was worth giving this a shot, so I went on Ebay and got a few tiny USB-C power converter boards for a few Euros.&lt;/p&gt;
+&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/oldLaptopUSB/boards.jpg&#34; max-height=&#34;150x&#34;/&gt;
+&lt;p&gt;USB-C power supplies can usually output a number of different voltages, and the way these boards work is they talk to the power supply they&amp;rsquo;re connected to and tell it which voltage it should output. You can set the desired voltage with a small solder bridge on the board to 9V, 12V, 15V or 20V.&lt;/p&gt;
+&lt;p&gt;They came preconfigured to 12V, as you can see from the solder blob in the picture next to the writing &amp;ldquo;12V&amp;rdquo;, but I reconfigured one to 15V which I hoped that laptop would run on. I dug out an old cable with the correct barrel plug from my parts bin, cobbled together a quick and dirty test setup on my desk with a few crocodile clamps, connected everything together, crossed my fingers and plugged the power supply in - and the laptop powered up just fine, as if it was connected to its original power supply. Success!&lt;/p&gt;
+&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/oldLaptopUSB/setup.jpg&#34; max-height=&#34;150x&#34;/&gt;
+&lt;p&gt;So I soldered the wires to the board, sealed it with a nice thick piece of heat shrink tubing (I would have preferred to put the board inside a case, but I don&amp;rsquo;t have one that fits and I don&amp;rsquo;t have a 3D printer to create one), and I was done.&lt;/p&gt;
+&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/oldLaptopUSB/finished2.jpg&#34; max-height=&#34;150x&#34;/&gt;
+&lt;p&gt;&lt;strong&gt;Conclusion&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m really surprised to see that this just works. This was definitely one of the easiest hacks (if you can even call it that) that I ever did&amp;hellip; it took about 20 minutes to do, the price for the USB-C board was 3 Euros, the cable was free as I already had it (and would have cost only a few Euros too, had I had to buy one) and now I have an adapter cable to power this more than 20 year old laptop from a modern USB-C power supply.&lt;/p&gt;
+&lt;p&gt;Of course it would be even nicer to build the USB-C board right into the laptop so the USB cable can be plugged straight into the laptop without the need for my janky adapter cable, and I might look into doing this at a later time, but for now I&amp;rsquo;m happy to use the cable.&lt;/p&gt;
+&lt;p&gt;So now if I want to have a portable setup, I can get a USB-C powerbank and then this laptop is truly mobile again. With the caveat of course that it still needs to be tethered to the power bank, but that&amp;rsquo;s a price I&amp;rsquo;m willing to pay, considering how easy this mod was to implement.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>The books I read in April 2024</title>
       <link>https://82mhz.net/posts/2024/05/the-books-i-read-in-april-2024/</link>
       <pubDate>Sun, 12 May 2024 00:00:00 +0000</pubDate>
