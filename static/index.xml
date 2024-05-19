@@ -12,7 +12,7 @@
       <pubDate>Sun, 19 May 2024 00:00:00 +0000</pubDate>
       
       <guid>https://82mhz.net/posts/2024/05/powering-an-old-laptop-from-usb-c/</guid>
-      <description>&lt;p&gt;I recently got an old Compaq Evo 410c Laptop from 2001, which is actually a very nice laptop for the time, but it is suffering from the same problem all old laptops are suffering from: it&amp;rsquo;s battery has died a long time ago. So I started thinking about what to do about this.&lt;/p&gt;
+      <description>&lt;p&gt;I recently got an old Compaq Evo 410c Laptop from 2001, which is actually a very nice laptop for the time, but it is suffering from the same problem all old laptops are suffering from: its battery died a long time ago. So I started thinking about what to do about this.&lt;/p&gt;
 &lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/oldLaptopUSB/laptop.jpg&#34; max-height=&#34;150x&#34;/&gt;
 &lt;!-- more --&gt;
 &lt;p&gt;My first thought was to crack open the battery case and replace the cells inside. Judging form the shape, size and voltage of the battery it most likely has four standard 18650 lithium cells inside, which are easy and cheap to find. But there are a few problems I could see with this approach:&lt;/p&gt;
