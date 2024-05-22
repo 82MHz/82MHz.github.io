@@ -6,7 +6,44 @@
     <description>Recent content in Thoughts on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Wed, 22 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>A very stupid thing - burning a Video CD in 2024</title>
+      <link>https://82mhz.net/thoughts/a-very-stupid-thing-burning-a-video-cd-in-2024/</link>
+      <pubDate>Wed, 22 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/thoughts/a-very-stupid-thing-burning-a-video-cd-in-2024/</guid>
+      <description>&lt;p&gt;A while ago &lt;a href=&#34;https://fosstodon.org/@jhx&#34;&gt;jhx&lt;/a&gt; and I hijacked a &lt;a href=&#34;https://bsd.network/@solene/112377539689945573&#34;&gt;mastodon post by Solene&lt;/a&gt; (sorry ;) ) and started talking about Video CDs. Because, you know, why not. And I was wondering, if I compressed a movie from 4K down to Video CD resolution and burned it on a CD, would my DVD player be able to play it? And how would it look?&lt;/p&gt;
+&lt;p&gt;Do you ever find yourself thinking &amp;ldquo;that would be a pretty useless and stupid thing to do&amp;rdquo;, and then you go and do it?&lt;/p&gt;
+&lt;p&gt;Well&amp;hellip; to answer my initial questions right away: Yes, it works. And yes, it looks terrible :)&lt;/p&gt;
+&lt;p&gt;I&amp;rsquo;m not going to write up a detailed tutorial on how to do this, because I don&amp;rsquo;t think anyone would actually try for real, but here&amp;rsquo;s the steps I took (and I&amp;rsquo;ll put links to some resources at the bottom):&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;First I had to compress the movie down to a lower resolution and mpeg-2 audio and video codec. I did this with ffmpeg.&lt;/li&gt;
+&lt;li&gt;Next I installed TMPGEnc Plus together with some Video CD templates in a Windows XP virtual machine. This program can not read modern audio/video codecs, which is why the previous step was necessary.&lt;/li&gt;
+&lt;li&gt;I opened the mpeg-2 video file in TMPGEnc Plus and selected an appropriate template with a gigantic resolution of 352x288 pixels for the output video file, set a few other options about quality and file size and let it do its thing.&lt;/li&gt;
+&lt;li&gt;Once this was finished, I opened a CD burning program that can burn Video CDs (I used k3b on Linux), loaded the file that TMPGEnc Plus created and burned the CD.&lt;/li&gt;
+&lt;li&gt;I put the CD in my DVD Player, pressed play&amp;hellip; and &lt;strong&gt;YOU WON&amp;rsquo;T BELIEVE WHAT HAPPENED NEXT!!!&lt;/strong&gt;&lt;/li&gt;
+&lt;/ol&gt;
+&lt;p&gt;Actually, you probably will, as I already told you. It worked, just like that. The player recognized the CD as a Video CD and started playing it without a hitch.&lt;/p&gt;
+&lt;p&gt;So how does it look? Well, not great of course. It&amp;rsquo;s blocky, it&amp;rsquo;s blurry, there&amp;rsquo;s lots of color banding going on, and I set the wrong aspect ratio somewhere along the way, so the image is squashed together and distorted&amp;hellip; In short, it looks as if it was downloaded from the internet in the late 90s. Glorious!&lt;/p&gt;
+&lt;p&gt;Here it is playing on my TV:&lt;/p&gt;
+&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/vcd/matrix1.jpg&#34; style=&#34;width:70%; height:auto;&#34;/&gt;
+&lt;br&gt;
+&lt;img class=&#34;image&#34; src=&#34;https://82mhz.net/images/vcd/matrix2.jpg&#34; style=&#34;width:70%; height:auto;&#34;/&gt;
+&lt;p&gt;I must say though that the quality is not as bad as I had anticipated, given the resolution and the file size (and the codec!). On my tiny 14&amp;rsquo;&amp;rsquo; CRT TV I had in my bedroom back in the day it would have probably been fine and not looked much different in terms of quality than a VHS tape.&lt;/p&gt;
+&lt;p&gt;As a sidenote, one of the first movies I got as a pirated digital copy before the official DVD release from a friend in school was The Matrix, so as a flashback to this, that&amp;rsquo;s the movie I chose to burn on the VCD. The quality of that copy back then was even worse than what I created here, because if I recall correctly it was filmed off a cinema screen&amp;hellip;&lt;/p&gt;
+&lt;p&gt;So would I recommend you do this? Absolutely not of course! But it was fun figuring this out, and seeing that my DVD player actually played the CD was still very satisfying.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ressoures&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/TMPGEnc&#34;&gt;https://en.wikipedia.org/wiki/TMPGEnc&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://forum.chip.de/discussion/303903/mit-tmpgenc-eine-mvcd&#34;&gt;https://forum.chip.de/discussion/303903/mit-tmpgenc-eine-mvcd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.kevssite.com/converting-a-video-file-to-dvd-with-ffmpeg/&#34;&gt;https://www.kevssite.com/converting-a-video-file-to-dvd-with-ffmpeg/&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://www.drwindows.de/news/software-vorstellungen/molevcd&#34;&gt;https://www.drwindows.de/news/software-vorstellungen/molevcd&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://archive.org/details/tmpgencplus2.524_2.524.63.181_2004&#34;&gt;https://archive.org/details/tmpgencplus2.524_2.524.63.181_2004&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+    </item>
+    
     <item>
       <title>Linkdump No 5</title>
       <link>https://82mhz.net/thoughts/linkdump-no-5/</link>

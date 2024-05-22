@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+<html><head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title> 82MHz </title>
@@ -9,7 +9,7 @@
             <div class="navblock">
                 <div class="home-logo">
 <header>
-    <div class="logo"><a href="http://localhost:1313/">82MHz</a></div>
+    <div class="logo"><a href="https://82mhz.net/">82MHz</a></div>
 </header></div>
                 <div class="home-nav">
 
@@ -28,7 +28,7 @@
         <a href="/tags">tags</a>
     
     
-        <a class="language-select" href="http://localhost:1313/thoughts/a-very-stupid-thing-burning-a-video-cd-in-2024/">EN</a>
+        <a class="language-select" href="https://82mhz.net/thoughts/a-very-stupid-thing-burning-a-video-cd-in-2024/">EN</a>
   
 </nav>
 
@@ -55,20 +55,25 @@
 
         <section class="body">
             
-            <p>A while ago <a href="https://fosstodon.org/@jhx">jhx</a> and I hijacked a <a href="https://bsd.network/@solene/112377539689945573">mastodon post by Solene</a> (sorry about that!) and started talking about Video CDs. You know, totally normal stuff. And I was wondering, if I compressed a movie from 4K down to Video CD resolution and burned it on a CD, would my DVD player be able to play it? And how would it look?</p>
+            <p>A while ago <a href="https://fosstodon.org/@jhx">jhx</a> and I hijacked a <a href="https://bsd.network/@solene/112377539689945573">mastodon post by Solene</a> (sorry ;) ) and started talking about Video CDs. Because, you know, why not. And I was wondering, if I compressed a movie from 4K down to Video CD resolution and burned it on a CD, would my DVD player be able to play it? And how would it look?</p>
 <p>Do you ever find yourself thinking &ldquo;that would be a pretty useless and stupid thing to do&rdquo;, and then you go and do it?</p>
-<p>Well&hellip; to answer my questions right away: Yes, it works. And yes, it looks terrible :)</p>
+<p>Well&hellip; to answer my initial questions right away: Yes, it works. And yes, it looks terrible :)</p>
 <p>I&rsquo;m not going to write up a detailed tutorial on how to do this, because I don&rsquo;t think anyone would actually try for real, but here&rsquo;s the steps I took (and I&rsquo;ll put links to some resources at the bottom):</p>
 <ol>
 <li>First I had to compress the movie down to a lower resolution and mpeg-2 audio and video codec. I did this with ffmpeg.</li>
 <li>Next I installed TMPGEnc Plus together with some Video CD templates in a Windows XP virtual machine. This program can not read modern audio/video codecs, which is why the previous step was necessary.</li>
 <li>I opened the mpeg-2 video file in TMPGEnc Plus and selected an appropriate template with a gigantic resolution of 352x288 pixels for the output video file, set a few other options about quality and file size and let it do its thing.</li>
 <li>Once this was finished, I opened a CD burning program that can burn Video CDs (I used k3b on Linux), loaded the file that TMPGEnc Plus created and burned the CD.</li>
-<li>I put the CD in my DVD Player, pressed play and <strong>YOU WON&rsquo;T BELIEVE WHAT HAPPENED NEXT!!!</strong></li>
+<li>I put the CD in my DVD Player, pressed play&hellip; and <strong>YOU WON&rsquo;T BELIEVE WHAT HAPPENED NEXT!!!</strong></li>
 </ol>
-<p>Actually, you probably will, as I already told you. It worked. The player recognized the CD as a Video CD and started playing it without a hitch.</p>
-<p>So how does it look? Well awful of course! It&rsquo;s blocky, it&rsquo;s mushy, I set the wrong aspect ratio somewhere along the way, so the image is squashed together and distorted&hellip; In short, it looks like videos you downloaded from the Internet in the late 90s tended to look. Glorious!</p>
-<p>Here&rsquo;s a few images for comparison, I think you can guess which one the Video CD is:</p>
+<p>Actually, you probably will, as I already told you. It worked, just like that. The player recognized the CD as a Video CD and started playing it without a hitch.</p>
+<p>So how does it look? Well, not great of course. It&rsquo;s blocky, it&rsquo;s blurry, there&rsquo;s lots of color banding going on, and I set the wrong aspect ratio somewhere along the way, so the image is squashed together and distorted&hellip; In short, it looks as if it was downloaded from the internet in the late 90s. Glorious!</p>
+<p>Here it is playing on my TV:</p>
+<img class="image" src="/images/vcd/matrix1.jpg" style="width:70%; height:auto;"/>
+<br>
+<img class="image" src="/images/vcd/matrix2.jpg" style="width:70%; height:auto;"/>
+<p>I must say though that the quality is not as bad as I had anticipated, given the resolution and the file size (and the codec!). On my tiny 14&rsquo;&rsquo; CRT TV I had in my bedroom back in the day it would have probably been fine and not looked much different in terms of quality than a VHS tape.</p>
+<p>As a sidenote, one of the first movies I got as a pirated digital copy before the official DVD release from a friend in school was The Matrix, so as a flashback to this, that&rsquo;s the movie I chose to burn on the VCD. The quality of that copy back then was even worse than what I created here, because if I recall correctly it was filmed off a cinema screen&hellip;</p>
 <p>So would I recommend you do this? Absolutely not of course! But it was fun figuring this out, and seeing that my DVD player actually played the CD was still very satisfying.</p>
 <p><strong>Ressoures</strong></p>
 <ul>
