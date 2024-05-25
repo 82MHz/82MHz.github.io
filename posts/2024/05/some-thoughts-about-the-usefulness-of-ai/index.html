@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title> 82MHz </title>
+    <link rel="stylesheet" href="/css/style.css">
+</head><body>
+        <div class="container">
+            <div class="navblock">
+                <div class="home-logo">
+<header>
+    <div class="logo"><a href="http://localhost:1313/">82MHz</a></div>
+</header></div>
+                <div class="home-nav">
+
+
+
+
+<nav class="site-menu">
+        <a href="/posts">blog</a>
+    
+        <a href="/thoughts">thoughts</a>
+    
+        <a href="/bookclub">bookclub</a>
+    
+        <a href="/links">links</a>
+    
+        <a href="/tags">tags</a>
+    
+    
+        <a class="language-select" href="http://localhost:1313/posts/2024/05/some-thoughts-about-the-usefulness-of-ai/">EN</a>
+  
+</nav>
+
+
+</div>
+            </div>
+            <div id="content">
+    <article class="post_full">
+        <header>
+            <h1>Some thoughts about the usefulness of AI</h1>
+            <p>
+                May 26, 2024
+            </p>
+            <p>
+                <span class="tags">
+                    
+                    
+                        
+                            <a class="tag" href="/tags/tech">tech</a>
+                        
+                            <a class="tag" href="/tags/ai">AI</a>
+                        
+                    
+
+                </span>
+            </p>
+            <p>
+                
+                    Reading time: 3 minutes
+                
+            </p>
+        </header>
+
+        <section class="body">
+            
+            <p>AI is all the rage now, but like most people in my tiny little tech-bubble on the internet, I&rsquo;m fairly critical of it. And the recent onslaught of news about it doesn&rsquo;t really help to change this, there&rsquo;s everything from hilariously terrible products, totally not Scarlett Johanssons voice to telling you to put glue on your pizza. At least they&rsquo;re doing their best to keep us entertained.</p>
+<!-- more -->
+<p>Still, I&rsquo;m a software developer in my day job, so I am curious about how that&rsquo;s going to affect my work and my profession in the future.</p>
+<p>So reluctantly this week I created an account for ChatGPT, to see for myself what all the fuss was about.</p>
+<p>And then I sat in front of that white website and thought &ldquo;now what&rdquo;?</p>
+<p><strong>A simple script</strong></p>
+<p>Well I wanted to see how I could use it as a software developer. One thing I do is occasionally write scripts in bash or python to do some simple tasks for me.</p>
+<p>I started writing these linkdump posts a few weeks ago, and a recurring thing I do for these is to format the links (in markdown) like this:</p>
+<pre tabindex="0"><code>**[Example Domain](https://www.example.com)**
+</code></pre><p>This produces a link that looks like this: <strong><a href="https://www.example.com">Example Domain</a></strong>. It&rsquo;s a bit tedious creating this, because I have to open the website, copy the title, paste it to my document, paste the URL, add the asterisks and the brackets&hellip; So I asked ChatGPT to create a bash script that takes a URL as a parameter, calls the website, downloads the title, formats it like I want it and copies everything to the clipboard.</p>
+<p>And it came back with a script that does exactly this. Even has a little help text that tells me how to use the script if I call it without a parameter&hellip; It&rsquo;s impressive. And it worked first try, no bug fixing necessary.</p>
+<p>Now I could have written this script myself, but I&rsquo;m not a bash wizard, so I would have had to google a few things (how to get the title of a website, how to paste from bash to the clipboard) and probably fix a few bugs I made along the way, so it would have taken me maybe 10 or 15 minutes to write this. ChatGPT did it in a few seconds. The longest bit was actually writing the prompt.</p>
+<p><strong>Conclusion</strong></p>
+<p>So, am I an AI fanboy now?</p>
+<p>No.</p>
+<p>But I recognize that AI is a tool that <em>can</em> be helpful, <em>if</em> you know how to use it correctly and you are aware of its dangers and limitations. Then it can actually be a great help and a time saver.</p>
+<p>The problem is that most people will not use it like this. They will ask it things and then run off with whatever the AI gives them as an answer</p>
+
+        </section>
+    </article>
+
+            </div><div class="footer">
+    <div class="footer_social-icons">
+
+    <a href="mailto:82mhz@mailbox.org" target="_blank" rel="noopener noreferrer me"
+        title="Email">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 21" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round" width="25px">
+    <path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"></path>
+    <polyline points="22,6 12,13 2,6"></polyline>
+</svg>
+    </a>
+
+
+
+    <a href="https://oldbytes.space/@82mhz" target="_blank" rel="noopener noreferrer me"
+        title="Mastodon">
+        <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"
+    stroke-linecap="round" stroke-linejoin="round" width="25px">
+    <path
+        d="M21.58 13.913c-.29 1.469-2.592 3.121-5.238 3.396-1.379.184-2.737.368-4.185.276-2.368-.092-4.237-.551-4.237-.551 0 .184.014.459.043.643.308 2.294 2.317 2.478 4.22 2.57 1.922 0 3.633-.46 3.633-.46l.079 1.653s-1.344.734-3.738.918c-1.32.091-2.96-.092-4.869-.551-4.14-1.102-4.853-5.507-4.961-10.005-.034-1.285-.013-2.57-.013-3.58 0-4.589 3-5.966 3-5.966 1.513-.734 4.11-1.01 6.808-1.01h.067c2.699 0 5.296.276 6.81 1.01 0 0 3 1.377 3 5.967 0 0 .037 3.304-.419 5.69"
+        stroke="currentColor" />
+    <path
+        d="M17.832 8.633v5h-1.978V8.78c0-1.023-.43-1.542-1.29-1.542-.95 0-1.427.616-1.427 1.834v2.655H11.17V9.072c0-1.218-.476-1.834-1.427-1.834-.86 0-1.29.52-1.29 1.542v4.852H6.475V8.633c0-1.022.26-1.834.782-2.434.538-.6 1.243-.909 2.118-.909 1.012 0 1.779.39 2.286 1.169l.492.827.493-.827c.507-.78 1.274-1.169 2.286-1.169.875 0 1.58.308 2.118.909.522.6.782 1.412.782 2.434"
+        fill="currentColor" stroke="none" />
+</svg>
+    </a>
+
+
+</div>
+</div></div>
+    </body>
+</html>

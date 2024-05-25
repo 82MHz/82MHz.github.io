@@ -6,7 +6,53 @@
     <description>Recent content in Thoughts on 82MHz</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-GB</language>
-    <lastBuildDate>Sat, 25 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 29 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://82mhz.net/thoughts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linkdump No 6</title>
+      <link>https://82mhz.net/thoughts/linkdump-no-6/</link>
+      <pubDate>Sat, 25 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/thoughts/linkdump-no-6/</guid>
+      <description>&lt;p&gt;I collect a lot of links to great articles and software projects, and this is my attempt to sort through them and share them with the rest of you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Articles&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.theregister.com/2024/05/17/apple_browser_eu/&#34;&gt;Apple geofences third-party browser engine work for EU devices&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;Apple is doing its absolute best to work against the interests of their customers by only allowing third-party browsers to be developed and used in the EU.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.datagubbe.se/winter/&#34;&gt;Is Winter Coming? Thoughts on articifial intelligence and lofty expectations&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;Very interesting reflection about the current AI hype.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://about.winamp.com/press/article/winamp-open-source-code&#34;&gt;Winamp has announced that it is opening up its source code to enable collaborative development of its legendary player for Windows&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;Winamp was my favourite music player back in the Windows 98/XP days, so the announcement that the source code will be open sourced is admittedly a little exciting to me, even though I&amp;rsquo;m more than a bit sceptical that this is really going to happen.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Software/Services&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://29a.ch/film-emulator/&#34;&gt;Free Online Analog Film Emulator - 29a.ch&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;A nice little website that gives your digital photos the look of a classic analog photograph with a ton of different film types to select. Works right in the browser, the images aren&amp;rsquo;t uploaded anywhere.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/atc1441/ATC_MiThermometer&#34;&gt;GitHub - atc1441/ATC_MiThermometer: Custom firmware for the Xiaomi Thermometer LYWSD03MMC and Telink Flasher via USB to Serial converter&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;Xiaomi makes tiny digital thermometers that are only a few Euros/Dollars a piece, and this is a custom firmware for them that can be flashed via bluetooth right from a smartphone, no soldering or anything else required.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Personal Homepages&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://jamesg.blog/&#34;&gt;James&amp;rsquo; Coffee Blog&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;He went a bit viral lately with his post about the &lt;a href=&#34;https://jamesg.blog/2024/05/19/windows-98-manual/&#34;&gt;Windows 98 manual&lt;/a&gt; which was very nice, and I really like the rest of his website, too!&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.ronpatrickstuff.com/&#34;&gt;Jet Beetle&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;A guy built a jet engine into a Volkswagen New Beetle. If you click only one link from this post, make it this one. It&amp;rsquo;s insane.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
     <item>
       <title>A very stupid thing - burning a Video CD in 2024</title>
       <link>https://82mhz.net/thoughts/a-very-stupid-thing-burning-a-video-cd-in-2024/</link>
@@ -87,8 +133,7 @@
 &lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=S9pkg2uLhGU&#34;&gt;Commodore 64 demo: Lethargy - Das Boot (2024)&lt;/a&gt;&lt;/strong&gt;
 &lt;br&gt;A short but very nice C64 demo that I guarantee will bring a smile to your face :)&lt;/li&gt;
 &lt;/ul&gt;
-&lt;p&gt;And that&amp;rsquo;s all for this week&amp;rsquo;s linkdump! If you have any cool links you&amp;rsquo;d like to share, feel free to send them my way via e-mail or hit me up on Mastodon! My contact details are in the footer of this page.&lt;/p&gt;
-</description>
+&lt;p&gt;And that&amp;rsquo;s all for this week&amp;rsquo;s linkdump! If you have any cool links you&amp;rsquo;d like to share, feel free to send them my way via e-mail or hit me up on Mastodon! My contact details are in the footer of this page.&lt;/p&gt;</description>
     </item>
     
     <item>
