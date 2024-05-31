@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html><head>
+<html><head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title> 82MHz </title>
@@ -9,7 +9,7 @@
             <div class="navblock">
                 <div class="home-logo">
 <header>
-    <div class="logo"><a href="https://82mhz.net/">82MHz</a></div>
+    <div class="logo"><a href="http://localhost:1313/">82MHz</a></div>
 </header></div>
                 <div class="home-nav">
 
@@ -28,9 +28,9 @@
         <a href="/tags">tags</a>
     
     
-        <a class="language-select" href="https://82mhz.net/de/links/">DE</a>
+        <a class="language-select" href="http://localhost:1313/de/links/">DE</a>
   
-        <a class="language-select" href="https://82mhz.net/links/">EN</a>
+        <a class="language-select" href="http://localhost:1313/links/">EN</a>
   
 </nav>
 
@@ -43,9 +43,9 @@
     <p>Here are some links I&rsquo;ve collected over time and that I want to share or simply just remember.</p>
 <p><strong>Please also check out my (more or less) regularly updated <a href="../blogroll">blogroll</a>!</strong></p>
 <p>If you encounter any dead links, please let me know.</p>
-<h3 id="personal-websites">Personal Websites</h3>
+<h3 id="small-net-blogs">Small Net Blogs</h3>
 <ul>
-<li><strong>http</strong>
+<li><strong>web</strong>
 <ul>
 <li><strong><a href="https://d00k.net/">Home  • d00k.net</a></strong>
 <br> Design student from Ireland and Author of the fantastic Adwaita iPod Rockbox theme. Need I say more?</li>

@@ -1269,6 +1269,52 @@ My desktop PC was used off of Ebay years ago, but I replaced the mainboard, CPU 
 
     
     <item>
+      <title>Linkdump No 7</title>
+      <link>https://82mhz.net/thoughts/linkdump-no-7/</link>
+      <pubDate>Fri, 31 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>https://82mhz.net/thoughts/linkdump-no-7/</guid>
+      <description>&lt;p&gt;I collect a lot of links to great articles and software projects, and this is my attempt to sort through them and share them with the rest of you.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Articles&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://mikegrindle.com/posts/surf&#34;&gt;Surfing the (Human-Made) Internet&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;Mike Grindle wrote a very nice article about the small, more personal internet that still exists outside of the usual places that are considered &amp;ldquo;the internet&amp;rdquo; these days. If you&amp;rsquo;re here, you know that already of course, but it&amp;rsquo;s still a great read and maybe something to forward along to people who are disillusioned with the current state of the net.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://www.heise.de/en/background/Uh-oh-Messenger-Pionier-ICQ-wird-Ende-Juni-abgeschaltet-9732162.html&#34;&gt;Uh-oh - Messenger pioneer ICQ will be shut down at the end of June&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;The end of an era, though of course ICQ hasn&amp;rsquo;t been what it once was for at least 15 years by now. Still, as the first instant messenger I ever used it has a special place in my heart and I&amp;rsquo;m a little sad to see it go.&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;Software/Services&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/k4zmu2a/SpaceCadetPinball&#34;&gt;GitHub - k4zmu2a/SpaceCadetPinball: Decompilation of 3D Pinball for Windows – Space Cadet&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt; Someone decompiled and reimplemented the pinball game that was included in old versions of Windows up to Windows XP I think. I came across this on &lt;a href=&#34;https://fabulous.systems/posts/2024/05/3d-pinball-for-windows-space-cadet-the-mission-continues/&#34;&gt;fabulous.systems&lt;/a&gt;, who wrote a great tutorial on how to get it running.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;&lt;strong&gt;== ICQ Special ==&lt;/strong&gt;&lt;br&gt;ICQ may officially be dead soon, but there are still projects out there that try to keep it and other old messengers (AIM, MSN) alive. I&amp;rsquo;m just going to dump some links here without much comment, but if you&amp;rsquo;re as nostalgic about ICQ as I am and want to get it up and running again, get in touch with me and maybe we can figure something out together :)&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://web.icq.com/&#34;&gt;https://web.icq.com/&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;The (at the time of posting) still working ICQ site. If you accept the terms and conditions and then select &amp;ldquo;login with password&amp;rdquo; at the top left, you can still login with your old ICQ number and password, if you remember them ;)&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://nina.chat/&#34;&gt;https://nina.chat/&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;Very interesting project with the goal of recreating AOL, ICQ, AIM, and Yahoo&amp;hellip; currently in beta and only available for financial backers, but I&amp;rsquo;m seriously considering donating because I love the idea.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://escargot.chat/&#34;&gt;https://escargot.chat/&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;A network to be used with old MSN clients.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://runningman.network/&#34;&gt;https://runningman.network/&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;A network to be used with old AIM clients.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/ox/aim-oscar-server&#34;&gt;https://github.com/ox/aim-oscar-server&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;The server software running the runningman network.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;https://github.com/namikiri/iserverd&#34;&gt;https://github.com/namikiri/iserverd&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;Old ICQ server reimplementation. Compiles on modern Linux, but doesn&amp;rsquo;t work right. Compiles and runs fine on old Linux versions though, I tested it on Ubuntu 4.10.&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;&lt;a href=&#34;http://kicq.ru/&#34;&gt;http://kicq.ru/&lt;/a&gt;&lt;/strong&gt;
+&lt;br&gt;A Russian ICQ server. They&amp;rsquo;re using iserverd.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description>
+    </item>
+    
+    <item>
       <title>A civil disagreement online - it&#39;s possible</title>
       <link>https://82mhz.net/thoughts/a-civil-disagreement-online-its-possible/</link>
       <pubDate>Wed, 29 May 2024 00:00:00 +0000</pubDate>
